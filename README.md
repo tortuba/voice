@@ -67,7 +67,8 @@ If you do have an account:
 
 **When you have translated everything**
 * Ping us in the dedicated issue
-* We'll review your changes and ship it with the next update
+* We'll review your changes and build a test version for you to play with
+* If everything looks fine, we'll ship it with the next update
 
 ## Structure of the file
 
