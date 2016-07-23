@@ -1,6 +1,6 @@
 # Help us translate Tortuba in your language
 
-Tortuba is logbook to identify and record marine life encounters, available on iOS, Android and the web.
+Tortuba is logbook to identify and record marine life encounters, available on [iOS](https://tortuba.com/ios), [Android](https://tortuba.com/android) and the [web](https://tortuba.com/).
 
 We want to help everyone spread the word that ocean creatures are cool and deserve to be protected, and we build tools just for that.
 
@@ -67,7 +67,7 @@ If you do have an account:
 
 **When you have translated everything**
 * Ping us in the dedicated issue
-* We'll review your changes and build a test version for you to play with
+* We'll review your changes and build a test version for you to play withg
 * If everything looks fine, we'll ship it with the next update
 
 ## Structure of the file
