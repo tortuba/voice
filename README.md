@@ -93,7 +93,7 @@ There are lines that you should not modify:
   * android: for the Android app
   * sb: used in iOS storyboard
 
-That leaves us with four lines you can modify, they all look the same:
+That leaves us with the lines you can modify, they all look the same:
 
     xx = YYYYYYYY
 
