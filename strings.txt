@@ -636,69 +636,69 @@
 
 [[Tour]]
   [tour.start]
-    tags = sb,android
+    tags = sb,ios,android
     en = GET STARTED
     fr = COMMENCER
   [tour.step.1.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Welcome to Tortuba
     fr = Bienvenue sur Tortuba
   [tour.step.1.details]
-    tags = sb,android
+    tags = sb,ios,android
     en = We want you to have the nicest logbooks.
     fr = Nous voulons que vous ayez les plus beaux carnets, sans effort.
   [tour.step.2.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Why?
     fr = Pourquoi ?
   [tour.step.2.details]
-    tags = sb,android
+    tags = sb,ios,android
     en = To please you and help you inspire people to care about marine life.
     fr = Pour vous faire plaisir et vous aider à inspirer la passion du monde marin.
   [tour.step.3.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = No Internet required
     fr = Utilisable sans Internet
   [tour.step.3.details]
-    tags = sb,android
+    tags = sb,ios,android
     en = And ships with 10.000+ species and 1.500+ photos to illustrate your stories.
     fr = Et embarque 10.000 espèces et 1.500 photos pour illustrer vos récits.
   [tour.step.4.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Collect
     fr = Collectionnez
   [tour.step.4.details]
-    tags = sb,android
+    tags = sb,ios,android
     en = Keep your stamp collection going, ask people to sign your logbook!
     fr = Continuez votre collection de tampons, faites signer votre palanquée!
   [tour.step.5.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Tell your stories
     fr = Racontez vos histoires
   [tour.step.5.details]
-    tags = sb,android
+    tags = sb,ios,android
     en = Create one logbook per trip, add notes between dives to turn it into a journal.
     fr = Créez un carnet par expédition, ajoutez des notes entre les plongées pour en faire un vrai journal.
 
 [[Sign in/up]]
   [signin.header]
-    tags = sb,android
+    tags = sb,ios,android
     en = Sync your logbook to tortuba.com
     fr = Synchronisez votre carnet avec tortuba.com
   [signin.signup]
-    tags = sb,android
+    tags = sb,ios,android
     en = New? Sign Up
     fr = Nouveau? Par ici
   [signin.password]
-    tags = sb,android
+    tags = sb,ios,android
     en = Password
     fr = Mot de passe
   [signin.submit]
-    tags = sb,android
+    tags = sb,ios,android
     en = SIGN IN
     fr = SE CONNECTER
   [signin.alternate]
-    tags = sb,android
+    tags = sb,ios,android
     en = OR SIGN IN WITH
     fr = OU SE CONNECTER AVEC
   [signin.error]
@@ -714,11 +714,11 @@
     en = Something went wrong. Please check your email.
     fr = C'est râté! Vérifiez l'email saisi.
   [signup.header]
-    tags = sb,android
+    tags = sb,ios,android
     en = CREATE YOUR ACCOUNT
     fr = CRÉER UN COMPTE
   [signup.submit]
-    tags = sb,android
+    tags = sb,ios,android
     en = SIGN UP
     fr = S'ENREGISTRER
   [signup.terms.sentence]
@@ -786,27 +786,27 @@
 
 [[Home/Main]]
   [menu.header.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Tell your story
     fr = Racontez votre histoire
   [menu.option.site]
-    tags = sb,android
+    tags = sb,ios,android
     en = SITE
     fr = SITE
   [menu.option.dive]
-    tags = sb,android
+    tags = sb,ios,android
     en = DIVE
     fr = PLONGÉE
   [menu.option.stamp]
-    tags = sb,android
+    tags = sb,ios,android
     en = STAMP
     fr = TAMPON
   [menu.option.note]
-    tags = sb,android
+    tags = sb,ios,android
     en = NOTE
     fr = NOTE
   [menu.option.photo]
-    tags = sb,android
+    tags = sb,ios,android
     en = IMAGE
     fr = IMAGE
   [menu.settings]
@@ -862,7 +862,7 @@
     en = All %i
     fr = Les %i
   [menu.about]
-    tags = sb,android
+    tags = sb,ios,android
     en = About
     fr = À propos
   [dive.rescue.alert.title]
@@ -978,7 +978,7 @@
 
 [[About]]
   [about.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = About
     fr = À propos
   [about.header]
@@ -1066,79 +1066,79 @@
     en = Privacy Policy
     fr = Politique de confidentialité
   [about.why.1.quote]
-    tags = sb,android
+    tags = sb,ios,android
     en = “When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself."\n\nJacques Yves Cousteau
     fr = "Lorsqu'un homme, pour une quelconque raison, a l'opportunité de vivre une vie extraordinaire, il n'a pas le droit de la garder pour lui seul."\n\nJacques Yves Cousteau
   [about.why.1.text]
-    tags = sb,android
+    tags = sb,ios,android
     en = We consider that all people who look underwater have an extraordinary life, for many don't have the opportunity or don't think they should bother.\n\nYou snorkelers and divers can make a difference by sharing what you see and talking about it with passion.\n\nWe want to help you do that.
     fr = Nous considérons que tous ceux qui regardent sous l'eau ont une vie extraordinaire, car beaucoup n'ont pas cette opportunité ou n'en voient pas l'intérêt.\n\nVous nageurs et plongeurs pouvez faire une différence en partageant ce que vous voyez et en en parlant avec passion.\n\nNous voulons vous aider à cela.
   [about.why.2.quote]
-    tags = sb,android
+    tags = sb,ios,android
     en = "All it takes for evil to triumph is for good men to do nothing"\n\nEdmund Burke
     fr = "Il suffit pour que le mal triomphe que les hommes de bien ne fassent rien"\n\nEdmund Burke
   [about.why.2.text]
-    tags = sb,android
+    tags = sb,ios,android
     en = You have as much potential to change people's behaviour toward the Ocean as the most passionate of marine biologists, and tortuba will help you in that direction by reducing your efforts and maximizing your impact.\n\nYour priviledged encounters with the underwater world during your dives represent as many opportunities to inspire people connected to you, to fill them with wonder and raise their interest for the Ocean. If they don't encounter the underwater world, then you can make the underwater world come to them, through your eyes and experiences.\n\nBe the voice of those who don't have one, be the caring advocate and the inspirational artist who will strengthen collective consciousness of marine species and help everyone to naturally act in a spirit of conservation.
     fr = Vous avez autant le potentiel pour faire évoluer la perception des océans que le biologiste marin le plus passionné, et tortuba vous y aidera en minimisant votre effort et en maximisant votre impact.\n\nVos rencontres privilégiées avec le monde sous-marin lorsque vous plongez sont autant d'occasion d'inspirer vos réseaux, de les émerveiller et de susciter leur intérêt pour l'Océan. S'ils ne vont pas à la rencontre du monde sous-marin, c'est le monde sous-marin qui viendra à eux, grâce à votre relai et à votre expérience.\n\nDevenez la voix de ceux qui n'en ont pas, soyez les avocats bienveillants et les artistes inspiratoires qui renforceront la présence des espèces marines dans la conscience collective et qui aideront chacun à agir naturellement dans un esprit de conservation.
   [about.why.3.quote]
-    tags = sb,android
+    tags = sb,ios,android
     en = "How inappropriate to call this planet Earth when it is quite clearly Ocean."\n\nArthur C Clarke
     fr = "Qu'il est inapproprié d'appeler cette planète Terre, alors qu'elle est clairement Océan."\n\nArthur C Clarke
   [about.why.3.text]
-    tags = sb,android
+    tags = sb,ios,android
     en = The oceans cover 70% of our planet and host 50 to 80% of life on Earth, and yet only 1% of their surface is protected - while 12% of terrestrial surfaces are. We spend our time on Earth and easily forget that we are strongly dependent on healthy oceans.\n\nWe can't care about what we don't even know exists; and we can't care about something we know nothing of.\n\nThat's why tortuba strives to facilitate respectful encounters with marine species, to help divers reveal the best in those species, to increase understanding of ecosystems, and to highlight and share stories of their adventures.\n\nThis way, by strengthening their link to the Ocean, more people will measure the consequences of their daily acts over it and will know what to change to take part in Ocean conservation.\n\nThe Ocean can't be savaged just because it lies out of our sights.
     fr = Les océans couvrent 70% de notre planète et abriteraient 50 à 80% de la vie sur terre, pourtant seulement 1% de la surface des océans est protégée alors que 12% de la surface terrestre l'est. Nous passons notre temps à terre et oublions facilement que nous sommes fortement dépendant de la bonne santé des océans.\n\nOn ne peut pas se soucier de ce dont on ignore l'existence, et on ne peut pas prendre soin de ce que l'on ne connait pas.\n\nC'est pourquoi tortuba souhaite faciliter les rencontres respectueuses avec les espèces sous-marines, aider les plongeurs à les révéler sous leur meilleur jour, à accroitre leur connaissance et leur compréhension des écosystèmes, à valoriser et à diffuser les récits de leurs aventures.\n\nAinsi, en renforçant ce lien à l'Océan, plus de personnes mesureront les conséquences de leurs actes quotidiens sur celui-ci et sauront comment les diriger de façon à participer à sa conservation.\n\nNe laissons pas les océans se faire ravager simplement parce qu'ils ne sont pas sous nos yeux.
   [about.species.help_us]
-    tags = sb,android
+    tags = sb,ios,android
     en = Help us improve
     fr = Aidez-nous à améliorer l'app
   [about.species.help_us.missing_species]
-    tags = sb,android
+    tags = sb,ios,android
     en = Report missing species
     fr = Signaler une espèce manquante
   [about.species.help_us.missing_species_detail]
-    tags = sb,android
+    tags = sb,ios,android
     en = The species is entirely missing, what a shame!
     fr = L'espèce manque à l'appel, scandale!
   [about.species.help_us.missing_common_name]
-    tags = sb,android
+    tags = sb,ios,android
     en = Report missing common name
     fr = Signaler un nom commun manquant
   [about.species.help_us.missing_common_name_detail]
-    tags = sb,android
+    tags = sb,ios,android
     en = The scientific name is referenced, but a common name is missing
     fr = Le nom scientifique est là, mais il manque un des noms communs
   [about.species.help_us.missing_classification]
-    tags = sb,android
+    tags = sb,ios,android
     en = Suggest classification improvement
     fr = Suggérer une amélioration de la classification
   [about.species.help_us.missing_classification_detail]
-    tags = sb,android
+    tags = sb,ios,android
     en = Any suggestion that would help everyone identify species is welcome
     fr = Toute suggestion qui pourra aider chacun à mieux identifier les espèces est la bienvenue
   [about.species.help_us.missing_copyright]
-    tags = sb,android
+    tags = sb,ios,android
     en = Report copyright infringement
     fr = Signaler une infraction au droit d'auteur
   [about.species.help_us.missing_copyright_detail]
-    tags = sb,android
+    tags = sb,ios,android
     en = Do you think that we did not respect copyright? Please let us know
     fr = Nous n'avons pas respecté un droit d'auteur ? Faites-nous en part s'il vous plaît
   [about.species.data]
-    tags = sb,android
+    tags = sb,ios,android
     en = The species database
     fr = La base de données des espèces
   [about.species.data.text]
-    tags = sb,android
+    tags = sb,ios,android
     en = All species were selected from Encyclopedia of Life (www.eol.org), The Global Biodiversity Information Facility (www.gbif.org) and Wikipedia (www.wikipedia.org).\n\nThe current database represents less then 10% of the accounted species, but that's because a lot of them are unlikely to be encountered during recreational diving (they leave too deep, are too small to be seen, …) while others disappeared.\n\nThe photos were selected in those databases or amongst Tortuba user photos. We try to find the best looking portraits for each species and always look to improve our selection. You can vote for your preferred photos on www.tortuba.com/identify.
     fr = Toutes les espèces ont été sélectionnées parmis Encyclopedia of Life (www.eol.org), The Global Biodiversity Information Facility (www.gbif.org) et Wikipedia (www.wikipedia.org).\n\nLa base courante représente moins de 10% des espèces répertoriées, mais cela est dû entre autre au fait que beaucoup d'entre elles ont peu de chances d'être croisées en plongée récréative (elles vivent trop profond, sont trop petites pour être vues, …) tandis que certaines ont simplement disparu.\n\nLes photos ont été sélectionnées dans ces bases et parmis les photos des utilisateurs Tortuba. Nous essayons de trouver les plus beaux portraits pour chaque espèce et cherchons toujours à améliorer notre sélection. Vous pouvez voter pour vos photos préférées sur www.tortuba.com/identify.
   [about.species.classification]
-    tags = sb,android
+    tags = sb,ios,android
     en = Classification / Identification
     fr = Classification / Identification
   [about.species.classification.text]
-    tags = sb,android
+    tags = sb,ios,android
     en = The classification used in the identification tool was made with patience and care by Tortuba, and continuously improved using your feedback (see above).\n\nIt was inspired by various identification books, but we added our own twist, using our experience (and frustration) of avid identifiers.\n\nBy own twist, we mean that we sometime take some distance from scientific classification and we are not ashamed of putting ourselves in the shoes of the neophytes.\n\nBecause sometimes nature create such intriguing creatures that it's difficult to know where they belong and how to describe them, but it would be unfair to not find them just because so.\n\nWhile some regroupments may irritate the purists, we hope they will bear with us as we believe it will help everyone else identifying their fish (or whatever creature you're trying to identify) tremendously.\n\nSome families may appear in multiple places, just because it helps finding them. For instance, Wobbegongs have their own section, but they also appear as part of the Carpet Sharks family. Another example are the Guitarfishes which appear both under the Sharks and Rays families.\n\nWhat you see is just the start really, we have a many ideas to improve the identification tool. In any case, feel free to contact us. We do all this for you and want you to enjoy identify species, even from the first to the 1.000.000th time.
     fr = La classification utilisée dans l'outil d'identification a été créé avec patience et attention par Tortuba, et elle est continuellement améliorée grâce à vos retours (voir au dessus).\n\nElle est inspirée de divers livres sur l'identification, mais nous l'avons tourné à notre sauce grâce à notre expérience (et surtout frustration) en tant qu'avides identifieurs.\n\nPar \"notre sauce\", nous voulons dire que nous prenons parfois de la distance par rapport aux classification scientifiques et que nous n'avons pas honte de nous mettre à la place des néophytes. Parce que parfois la nature crée de si intriguantes créatures qu'il est difficile de savoir à quoi elles appartiennent et comment les décrire, mais il serait injuste de ne pas les trouver pour autant.\n\nSi certains regroupements pourront irriter les puristes, nous espérons qu'ils nous pardonneront car nous pensons que cela aidera grandement certains à identifier les poissons (et autres créatures) qu'ils auront rencontré.\n\nAinsi certaines familles peuvent apparaître à plusieurs endroits, juste parce que cela augmente les chances de les trouver. Par exemple les Wobbegongs ont leur propre sections, mais ils apparaissent aussi parmis la famille des Requins Tapis (Orectolobiformes). Les raies guitares apparaissent à la fois chez les requins et chez les raies.\n\nCe que vous voyez n'est que le début, et nous avons de nombreuses idées pour améliorer l'outil d'identification. N'hésitez pas à nous contacter. Nous faisons tout ceci pour vous et nous souhaitons que vous preniez plaisir à identifier les espèces, de la 1ère à la 1.000.000ème fois.
 
@@ -1354,11 +1354,11 @@
     en = Filter
     fr = Filtre
   [taxons.filter.all]
-    tags = sb,android
+    tags = sb,ios,android
     en =  All
     fr = Toutes
   [taxons.filter.with_photos]
-    tags = sb,android
+    tags = sb,ios,android
     en = With photos
     fr = Avec photos
   [taxons.filter.display]
@@ -1366,11 +1366,11 @@
     en = Display
     fr = Afficher
   [taxons.filter.vernacular_name]
-    tags = sb,android
+    tags = sb,ios,android
     en = Common name
     fr = Nom commun
   [taxons.filter.scientific_name]
-    tags = sb,android
+    tags = sb,ios,android
     en = Scientific name
     fr = Nom scientifique
   [taxons.filter.i18n.title]
@@ -1413,7 +1413,7 @@
     fr = Vous pouvez ajouter un nouveau site avec le bouton +
 [[Site - Edit]]
   [site.name.placeholder]
-    tags = sb,android
+    tags = sb,ios,android
     en = What is this site called?
     fr = Comment s'appelle ce site ?
 
@@ -1425,15 +1425,15 @@
 
 [[Trip - Show]]
   [trip.empty.info]
-    tags = sb,android
+    tags = sb,ios,android
     en = This is a logbook, a collection of notes, photos, dives and signatures.\n\nAdd content using the icons in the toolbar below.
     fr = Ceci est un carnet, une collection de notes, photos, plongées et signatures.\n\nAjoutez du contenu grâce aux icônes ci-dessous.
   [trip.edit_cover]
-    tags = sb,android
+    tags = sb,ios,android
     en = Edit cover
     fr = Changer l'image
   [trip.title_hint]
-    tags = sb,android
+    tags = sb,ios,android
     en = Give your logbook a title
     fr = Donnez un titre à votre carnet
   [day.true]
@@ -1745,21 +1745,21 @@
     en = NITROX
     fr = NITROX
   [dive.air.start]
-    tags = sb,android
+    tags = sb,ios,android
     en = Start
     fr = Début
   [dive.air.end]
-    tags = sb,android
+    tags = sb,ios,android
     en = End
     fr = Fin
 
 [[Dive - Notes]]
   [dive.parts.header]
-    tags = sb,android
+    tags = sb,ios,android
     en = Once upon a dive…
     fr = Il était une plongée…
   [dive.parts.footer]
-    tags = sb,android
+    tags = sb,ios,android
     en = The End
     fr = Fin
   [dive.parts.delete.alert.message]
@@ -1769,11 +1769,11 @@
 
 [[Dive - Notes - Tour]]
   [dive.parts.tour.tip_1]
-    tags = sb,android
+    tags = sb,ios,android
     en = This is were magic happens.\n\nWe will help you remember your dive, identify species and build nice stories in a blissful experience.
     fr = C'est ici que la magie opère.\n\n\nNous vous aiderons à vous remémorer votre plongée, à identifier les espèces et à construire de belles histoires sans effort.
   [dive.parts.tour.tip_2]
-    tags = sb,android
+    tags = sb,ios,android
     en = A story is composed of multiple notes.\n\nWrite one for each "moment" you wish to remember. You can associate species and images.
     fr = Une histoire se compose de multiples notes.\n\nCréez-en une pour chaque \"moment\" dont vous souhaitez vous rappeler.\n\nVous pouvez associer des espèces et des images.
 
@@ -1865,11 +1865,11 @@
     en = Teamates
     fr = Palanquée
   [dive.buddies.add.new_teammate]
-    tags = sb,android
+    tags = sb,ios,android
     en = Add a new teammate
     fr = Ajouter un équipier
   [dive.buddies.add.last_team]
-    tags = sb,android
+    tags = sb,ios,android
     en = Same team as previous dive
     fr = Même palanquée que la dernière fois
   [dive.buddies.headers.team]
@@ -2108,15 +2108,15 @@
 
 [[Note - Edit]]
   [note.menu.option.inspiration]
-    tags = sb,android
+    tags = sb,ios,android
     en = Get inspired
     fr = Inspiration
   [note.menu.option.taxons]
-    tags = sb,android
+    tags = sb,ios,android
     en = Add species
     fr = Ajouter espèce
   [note.menu.option.photo]
-    tags = sb,android
+    tags = sb,ios,android
     en = Add photo
     fr = Ajouter photo
   [note.text.placeholder.default.trip]
@@ -2186,11 +2186,11 @@
 
 [[Encounter - Edit]]
   [encounter.header.how_many]
-    tags = sb,android
+    tags = sb,ios,android
     en = How many did you see?
     fr = Combien en avez-vous vu ?
   [encounter.number.exact]
-    tags = sb,android
+    tags = sb,ios,android
     en = Precisely
     fr = Exactement
   [encounter.number.or]
@@ -2198,7 +2198,7 @@
     en = or
     fr = ou
   [encounter.number.approx]
-    tags = sb,android
+    tags = sb,ios,android
     en = Roughly
     fr = Environ
   [encounter.approx.nil]
@@ -2628,15 +2628,15 @@
 
 [[Signature]]
   [signature.new.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Who will sign?
     fr = Qui va signer?
   [signature.new.sign.hint]
-    tags = sb,android
+    tags = sb,ios,android
     en = Sign below… or draw a fish!
     fr = Signez ci-dessous… ou dessinez un poisson!
   [signature.new.dives.title]
-    tags = sb,android
+    tags = sb,ios,android
     en = Which dives?
     fr = Quelles plongées ?
   [signature.buddies.headers.0]
