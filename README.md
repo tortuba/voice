@@ -1,10 +1,10 @@
 # Help us translate Tortuba in your language
 
-Tortuba is logbook to identify and record marine life encounters, available on [iOS](https://tortuba.com/ios), [Android](https://tortuba.com/android) and the [web](https://tortuba.com/).
+Tortuba is a logbook to identify and record marine life encounters, available on [iOS](https://tortuba.com/ios), [Android](https://tortuba.com/android) and the [web](https://tortuba.com/).
 
 We want to help everyone spread the word that ocean creatures are cool and deserve to be protected, and we build tools just for that.
 
-It's a bootstraped company (ie we didn't build it to pay dividends), and we always welcome your help to spread the word and improve the apps.
+Tortuba is a bootstraped company and have limited resources, so we always welcome your help to spread the word and improve the apps.
 
 ## What can I do to help?
 
@@ -47,7 +47,7 @@ If you do have an account:
 
 **Get ready**
 * Ask to join the team via the Tortuba app messaging system (in the about section) or by creating a [New issue](https://github.com/tortuba/voice/issues/new)
-* We'll create a specific branch for the language you want to work on and a specific issue to track any discussion relevante to it
+* We'll create a specific branch for the language you want to work on and a specific issue to track any discussion relevant to it
 * Read "Structure of the file" below
 
 **Whenever you have time to add some translations**
@@ -66,8 +66,8 @@ If you do have an account:
   * click on "Commit changes"
 
 **When you have translated everything**
-* Ping us in the dedicated issue
-* We'll review your changes and build a test version for you to play withg
+* Ping us in the issue we created for that language (see above)
+* We'll review your changes and build a test version for you to play with
 * If everything looks fine, we'll ship it with the next update
 
 ## Structure of the file
@@ -110,3 +110,5 @@ There are some special characters you might see, use for dynamic texts (ie when 
   * %@: to insert a string (eg: "More infos about %@")
   * %i: to insert a number (eg: "%i species found")
   * dates follow a [specific pattern](http://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html#Date_Format_Patterns) (eg: HH:mm, MM/dd/YYYY)
+
+If you encounter a special character, then it means your translation should have one as well. If you're not sure how to handle it, ask us :)
