@@ -1,3 +1,5 @@
+![](assets/logo.png)
+
 # Help us translate Tortuba in your language
 
 Tortuba is a logbook to identify and record marine life encounters, available on [iOS](https://tortuba.com/ios), [Android](https://tortuba.com/android) and the [web](https://tortuba.com/).
