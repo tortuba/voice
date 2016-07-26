@@ -843,8 +843,8 @@
     fr = Guide Store
   [menu.more]
     tags = ios,android
-    en = More about %@
-    fr = Plus d'infos sur %@
+    en = About & Contact
+    fr = À propos & contact
   [menu.signout.title]
     tags = ios,android
     en = Sign out?
