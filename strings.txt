@@ -3,450 +3,556 @@
     tags = ios,android
     en = Y, MMM d
     fr = Y, d MMM
+    es = Y, d MMM
   [date.daylong]
     tags = ios,android
     en = EEEE, MMM dd, YYYY
     fr = EEEE dd MMM, YYYY
+    es = EEEE dd MMM, YYYY
   [date.time]
     tags = ios,android
     en = HH:mm
     fr = HH:mm
+    es = HH:mm
   [date.datetime]
     tags = ios,android
     en = EEEE, MMM dd, YYYY @ HH:mm
     fr = EEEE dd MMM, YYYY @ HH:mm
+    es = EEEE dd MMM, YYYY @ HH:mm
   [date.dayshort]
     tags = ios,android
     en = EEE dd
     fr = EEE dd
+    es = EEE dd
   [date.note]
     tags = ios,android
     en = HH:mm - EEE, MMM d, YYYY
     fr = HH:mm - EEE d MMM YYYY
+    es = HH:mm - EEE d MMM YYYY
   [date.note.compact]
     tags = ios,android
     en = HH:mm, MM/dd/YYYY
     fr = HH:mm, dd/MM/YYYY
+    es = HH:mm, dd/MM/YYYY
   [date.dayMonth]
     tags = ios,android
     en = MM/dd
     fr = dd/MM
+    es = dd/MM
   [date.dayMonthYear]
     tags = ios,android
     en = MM/dd/YYYY
     fr = dd/MM/YYYY
+    es = dd/MM/YYYY
 
 [[Shared Buttons (ok/cancel/…)]]
   [ok]
     tags = ios,android
     en = OK
     fr = OK
+    es = OK
   [edit]
     tags = ios,android
     en = Edit
     fr = Modifier
+    es = Modificar
   [save]
     tags = ios,android
     en = Save
     fr = OK
+    es = Guardar
   [cancel]
     tags = ios,android
     en = Cancel
     fr = Annuler
+    es = Cancelar
   [confirm]
     tags = ios,android
     en = Confirm
     fr = Confirmer
+    es = Confirmar
   [done]
     tags = ios,android
     en = Done
     fr = OK
+    es = Aceptar
   [delete]
     tags = ios,android
     en = Delete
     fr = Supprimer
+    es = Borrar
   [hide]
     tags = ios,android
     en = Hide
     fr = Masquer
+    es = Esconder
   [close]
     tags = ios,android
     en = Close
     fr = Fermer
+    es = Cerrar
   [next]
     tags = ios,android
     en = Next
     fr = Suivant
+    es = Siguiente
   [skip]
     tags = ios,android
     en = Skip
     fr = Passer
+    es = XXXXX
   [gotit]
     tags = ios,android
     en = Got it
     fr = Compris
+    es = Entendido
   [sure]
     tags = ios,android
     en = Are you sure?
     fr = Êtes-vous sûr ?
+    es = ¿Esta seguro?
   [learn]
     tags = ios,android
     en = Learn more
     fr = En savoir plus
+    es = XXXXX
   [later]
     tags = ios,android
     en = Maybe later
     fr = Plus tard
+    es = Mas tarde
   [contact]
     tags = ios,android
     en = Contact us
     fr = Message
+    es = Contáctanos
   [view_all]
     tags = ios,android
     en = View all
     fr = Tout voir
+    es = Ver todo
 
 [[Saved notice]]
   [dive.saved]
     tags = android
     en = Dive saved
     fr = Plongée enregistrée
+    es = Inmersión registrada
   [note.saved]
     tags = android
     en = Note saved
     fr = Note enregistrée
+    es = Nota registrada
   [signature.saved]
     tags = android
     en = Stamp saved
     fr = Tampon enregistré
+    es = Sello registrado
   [site.saved]
     tags = android
     en = Site saved
     fr = Site enregistré
+    es = Sitio registrado
   [trip.saved]
     tags = android
     en = Trip saved
     fr = Carnet enregistré
+    es = Libreta registrada
 
 [[Units]]
   [units.si]
     tags = ios,android
     en = SI
     fr = SI
+    es = SI
   [units.us]
     tags = ios,android
     en = US
     fr = US
+    es = US
   [units.distance.si]
     tags = ios,android
     en = m
     fr = m
+    es = m
   [units.distance.us]
     tags = ios,android
     en = ft
     fr = ft
+    es = ft
   [units.distance.mm.si]
     tags = ios,android
     en = mm
     fr = mm
+    es = mm
   [units.distance.mm.us]
     tags = ios,android
     en = inch
     fr = inch
+    es = inch
   [units.weight.si]
     tags = ios,android
     en = kg
     fr = kg
+    es = kg
   [units.weight.us]
     tags = ios,android
     en = lb
     fr = lb
+    es = lb
   [units.volume.si]
     tags = ios,android
     en = l
     fr = l
+    es = l
   [units.volume.us]
     tags = ios,android
     en = l
     fr = l
+    es = l
   [units.pressure.si]
     tags = ios,android
     en = bar
     fr = bar
+    es = bar
   [units.pressure.us]
     tags = ios,android
     en = psi
     fr = psi
+    es = psi
   [units.time.minutes]
     tags = ios,android
     en = min
     fr = min
+    es = min
   [units.temperature.si]
     tags = ios,android
     en = °C
     fr = °C
+    es = °C
   [units.temperature.us]
     tags = ios,android
     en = °F
     fr = °F
+    es = °F
 
 [[Models]]
   [Version]
     tags = ios,android
     en = Items
     fr = Élément
+    es = Elemento
   [Taxon]
     tags = ios,android
     en = Species
     fr = Espèce
+    es = Especie
   [Area]
     tags = ios,android
     en = Area
     fr = Région
+    es = Región
   [User]
     tags = ios,android
     en = User
     fr = Membre
+    es = Miembro
   [Guest]
     tags = ios,android
     en = Contact
     fr = Contact
+    es = Contacto
   [Asset]
     tags = ios,android
     en = Image
     fr = Image
+    es = Imagen 
   [Amenity]
     tags = ios,android
     en = Club
     fr = Club
+    es = Club
   [Site]
     tags = ios,android
     en = Site
     fr = Site
+    es = Sitio
   [Note]
     tags = ios,android
     en = Note
     fr = Note
+    es = Nota
   [Dive]
     tags = ios,android
     en = Dive
     fr = Plongée
+    es = Inmersión
   [Signature]
     tags = ios,android
     en = Signature
     fr = Signature
+    es = Firma
   [Trip]
     tags = ios,android
     en = Logbook
     fr = Carnet
+    es= Libreta
 
 [[Models - Dive]]
   [dive.number]
     tags = ios,android
     en = Number
     fr = Numéro
+    es = Numero
   [dive.role]
     tags = ios,android
     en = Role
     fr = Rôle
+    es = Papel
   [dive.summary]
     tags = ios,android
     en = Summary
     fr = Résumé
+    es = Resumen
   [dive.air]
     tags = ios,android
     en = Air
     fr = Air
+    es = Aire
   [dive.tankVolume]
     tags = ios,android
     en = Tank vol.
     fr = Vol. tank
+    es = Vol. tanque
   [dive.burnrate]
     tags = ios,android
     en = Air burn
     fr = Conso. air
+    es = Cons. aire
   [dive.site]
     tags = ios,android
     en = Site
     fr = Site
+    es = Sitio
   [dive.story]
     tags = ios,android
     en = Story
     fr = Récit
+    es = Historia
   [dive.team]
     tags = ios,android
     en = Team
     fr = Équipe
+    es = Equipo
   [dive.date]
     tags = ios,android
     en = Date
     fr = Date
+    es = Fecha
   [dive.depth]
     tags = ios,android
     en = Depth
     fr = Profondeur
+    es = Profundidad
   [dive.depth.max]
     tags = ios,android
     en = Max
     fr = Max
+    es = Max
   [dive.depth.avg]
     tags = ios,android
     en = Average
     fr = Moy.
+    es = Promed.
   [dive.duration]
     tags = ios,android
     en = Duration
     fr = Durée
+    es = Duración
   [dive.safetyStop]
     tags = ios,android
     en = Safety stop
     fr = Palier
+    es = Parada
   [dive.weight]
     tags = ios,android
     en = Weight
     fr = Poids
+    es = Peso
   [dive.suit]
     tags = ios,android
     en = Suit
     fr = Combi
+    es = Traje
   [dive.temperatures]
     tags = ios,android
     en = Temperatures
     fr = Températures
+    es = Temperaturas
   [dive.visibility]
     tags = ios,android
     en = Visibility
     fr = Visibilité
+    es = Visibilidad
   [dive.conditions]
     tags = ios,android
     en = Conditions
     fr = Conditions
+    es = Condiciones
   [dive.burnrate.formula]
     tags = ios,android
     en = Burnrate:\n(AirStart - End) * Vol\n/ (Duration * (AvgDepth/10 + 1))
     fr = Conso d'air:\n(Air Début - Fin) * Vol\n/ (Durée * (Prof.moy/10 + 1))
+    fr = Consumo Aire:\n(Aire Inicio - Fin) * Vol\n/ (Duración * (Prof.med/10 + 1))
 
 [[Models - Encounter]]
   [encounter.unidentified]
     tags = ios,android
     en = Unidentified
     fr = Non indentifié
+    es = No identificado
   [encounter.name.coord]
     tags = ios,android
     en = the
     fr = le/la
+    es = el/la
 
 [[Models - Location]]
   [location.latitude]
     tags = ios,android
     en = Latitude
     fr = Latitude
+    es = Latitud
   [location.longitude]
     tags = ios,android
     en = Longitude
     fr = Longitude
+    es = Longitud
   [location.zoom]
     tags = ios,android
     en = Zoom
     fr = Zoom
+    es = Zoom
 
 [[Models - Membership]]
   [membership.role.nil]
     tags = ios,android
     en = Unknown
     fr = Inconnu
+    es = Desconocido
   [membership.role.buddy]
     tags = ios,android
     en = Buddy
     fr = Buddy
+    es = Compañero
   [membership.role.diver]
     tags = ios,android
     en = Diver
     fr = Plongeur
+    es = Buzo
   [membership.role.guide]
     tags = ios,android
     en = Guide
     fr = Guide
+    es = Guía 
   [membership.role.instructor]
     tags = ios,android
     en = Instructor
     fr = Instructeur
+    es = Instructor
   [membership.role.crew]
     tags = ios,android
     en = Crew
     fr = Équipage
+    es = Tripulación
   [membership.role.nondiver]
     tags = ios,android
     en = Non diver
     fr = Non plongeur
+    es = No buzo
 
 [[Models - Site]]
   [site.name.unknown]
     tags = ios,android
     en = Unknown site
     fr = Site inconnu
+    es = Sitio desconocido
 
 [[Models - Taxon]]
   [taxon.no_vernacular_name]
     tags = ios,android
     en = No common name
     fr = Aucun nom commun
+    es = Ningun nombre común
 
 [[Models - User]]
   [user.name]
     tags = ios,android
     en = Name
     fr = Nom
+    es = Nombre
   [user.firstname]
     tags = ios,android
     en = Firstname
     fr = Prénom
+    es = Nombre
   [user.lastname]
     tags = ios,android
     en = Lastname
     fr = Nom
+    es = Apellido
   [user.email]
     tags = ios,android
     en = Email
     fr = Email
+    es = Correo electrónico
 
 [[Mailer]]
   [mailer.cannotSendMail.title]
     tags = ios
     en = Can't create email
     fr = Impossible de créer un email
+    es = Imposible crear un correo electrónico
   [mailer.cannotSendMail.message]
     tags = ios
     en = Your device doesn't allow the creation of a new email.
     fr = Votre appareil n'autorise pas la création d'un nouvel email.
+    es = Su equipo no permite la creación de un nuevo correo electrónico.
   [mailer.subjects.feedback]
     tags = ios
     en = Feedback (tortuba, iOS)
     fr = Feedback (tortuba, iOS)
+    es = Feedback (tortuba, iOS)
   [mailer.subjects.translation]
     tags = ios
     en = Translation (tortuba, iOS)
     fr = Traduction (tortuba, iOS)
+    fr = Traducción (tortuba, iOS)
   [mailer.subjects.help]
     tags = ios
     en = Help (tortuba, iOS)
     fr = Aide (tortuba, iOS)
+    es = Ayuda (tortuba, iOS)
   [mailer.subjects.database.0]
     tags = ios
     en = Missing Species (tortuba, iOS)
     fr = Espèce manquante (tortuba, iOS)
+    es = Especie ausente (tortuba, iOS)
   [mailer.subjects.database.1]
     tags = ios
     en = Missing Name (tortuba, iOS)
     fr = Nom manquant (tortuba, iOS)
+    es = Nombre ausente (tortuba, iOS)
   [mailer.subjects.database.2]
     tags = ios
     en = Identification Tool (tortuba, iOS)
     fr = Outil d'identification (tortuba, iOS)
+    es = Herramienta de identificación (tortuba, iOS)
   [mailer.subjects.database.3]
     tags = ios
     en = Copyright (tortuba, iOS)
     fr = Droit d'auteur (tortuba, iOS)
+    es = Derecho de autor (tortuba, iOS)
 
 [[Push Notifications]]
   [feedback.notification.alert.title]
