@@ -100,7 +100,7 @@
     tags = ios,android
     en = Skip
     fr = Passer
-    es = XXXXX
+    es = Saltar
   [gotit]
     tags = ios,android
     en = Got it
@@ -115,7 +115,7 @@
     tags = ios,android
     en = Learn more
     fr = En savoir plus
-    es = XXXXX
+    es = Aprender más
   [later]
     tags = ios,android
     en = Maybe later
@@ -517,7 +517,7 @@
     tags = ios
     en = Your device doesn't allow the creation of a new email.
     fr = Votre appareil n'autorise pas la création d'un nouvel email.
-    es = Su equipo no permite la creación de un nuevo correo electrónico.
+    es = Su dispositivo no permite la creación de un nuevo correo electrónico.
   [mailer.subjects.feedback]
     tags = ios
     en = Feedback (tortuba, iOS)
@@ -559,186 +559,231 @@
     tags = ios
     en = Get notified when we reply?
     fr = Être notifié d'une réponse?
+    es = ¿Recibir notificacion cuando contestamos?
   [feedback.notification.alert.message]
     tags = ios
     en = Activate notifications to know as soon as we reply.
     fr = Activez les notifications pour être prévenu dès que nous répondrons.
+    es = Activar notificaciones para recibir alerta tan pronto como contestamos.
   [feedback.notification.alert.later]
     tags = ios
     en = Decide later
     fr = Décider plus tard
+    es = Decidir mas tarde
   [pushNot.ask.title]
     tags = ios
     en = Keep the flow going!
     fr = Restez au courant!
+    es = ¡Mantengase al dia!
   [pushNot.ask.message]
     tags = ios
     en = Let us notify you about new features, interesting stories and special events.
     fr = Ne manquez pas les nouvelles fonctionnalités, histoires intéressantes et évènements speciaux.
+    es = No se pierda nuevas funcionalidades, historias interesantes y eventos especiales.
   [pushNot.newFeedItem.title]
     tags = ios
     en = Ocean news!
     fr = Nouvelles de l'Océan!
+    es = ¡Noticias del Oceano!
   [pushNot.newFeedItem.message]
     tags = ios
     en = A new article is available, would you like to read it now?
     fr = Un nouvel article est disponible, souhaitez-vous le consulter maintenant ?
+    es = Un nuevo artículo está disponible, ¿desea verlo ahora?
 
 [[SyncEngine]]
   [sync.start]
     tags = ios,android
     en = Syncing…
     fr = Synchronisation…
+    es = Sincronización…
   [sync.step.0]
     tags = ios,android
     en = Setup
     fr = Initalisation
+    es = Inicialización
   [sync.step.1]
     tags = ios,android
     en = Clean up
     fr = Nettoyage
+    es = Limpieza
   [sync.step.2]
     tags = ios,android
     en = Download
     fr = Réception
+    es = Descarga
   [sync.step.3]
     tags = ios,android
     en = Upload
     fr = Envoi
+    es = Envío
   [sync.progress]
     tags = ios,android
     en = %@ - %@: %lu / %lu
+    fr = %@ - %@: %lu / %lu
     fr = %@ - %@: %lu / %lu
   [sync.success]
     tags = ios,android
     en = We did it!
     fr = On a réussi!
+    es = ¡Lo logramos!
   [sync.auth_required]
     tags = ios,android
     en = Login required
     fr = Connexion nécessaire
+    es = Conexión necesaria
   [sync.errors.no_internet]
     tags = ios,android
     en = You are not connected to the Internet
     fr = Vous n'êtes pas connecté à Internet
+    es = No está conectado a Internet
   [sync.errors.alert.title]
     tags = ios,android
     en = Erreurs pendant la synchronisation
     fr = Erreurs pendant la synchronisation
+    es = Errores durante la sincronización
   [sync.editConfirmation.title]
     tags = ios,android
     en = Caution: sync in progress
     fr = Attention: synchro en cours
+    fr = Cuidado: sincro en curso
   [sync.editConfirmation.message.willModify]
     tags = ios,android
     en = This entry can't be modified while it is being synchronized with the server.
     fr = Cette entrée ne peut être modifiée alors qu'elle est en train d'être synchronisée avec le serveur.
+    es = Esta entrada no se puede modificar mientras se sincroniza con el servidor.
   [sync.editConfirmation.message.mightModify]
     tags = ios,android
     en = Your modifications might be lost if you updated the same entry on another device or on the web. It's preferrable to wait until the sync is finished.
     fr = Vos modifications risquent d'être perdues si vous avez édité cette entrée sur un autre appareil ou sur le web. Il est préférable d'attendre la fin de la synchronisation.
+    es = Sus cambios podrian perderse si ha modificado la entrada sobre otro dispositivo o en la web. Es preferible esperar hasta que la sincronización haya finalizado.
   [sync.editConfirmation.continue]
     tags = ios,android
     en = Edit anyway
     fr = Modifier quand même
+    es = Editar de todos modos XXXXX
   [sync.editConfirmation.wait]
     tags = ios,android
     en = OK, I'll wait
     fr = OK, j'attends
+    es = OK, espero
   [sync.accountMismatch.title]
     tags = ios,android
     en = Account mismatch
     fr = Compte différent
+    es = Cuenta diferente
   [sync.accountMismatch.message]
     tags = ios,android
     en = The account you signed in with is different from the one used so far. What should be done with the device data?
     fr = Le compte diffère de celui utilisé précédemment pour la synchro. Que faire des données de l'appareil ?
+    es = La cuenta a la que se conectó es diferente de la utilizada hasta ahora. ¿Que hacemos con los datos del dispositivo?
   [sync.accountMismatch.options.merge]
     tags = ios,android
     en = Merge with server
     fr = Fusionner avec le serveur
+    es = Fusionar con el servidor
   [sync.accountMismatch.options.clean]
     tags = ios,android
     en = Delete data
     fr = Supprimer les données
+    es = Suprimir los datos
   [sync.accountMismatch.options.cancel]
     tags = ios,android
     en = Wait / Cancel
     fr = Attendre / Annuler
+    es = Esperar / Cancelar
   [sync.accountMismatch.clean.message]
     tags = ios,android
     en = All data on this device will be definitely wiped out.
     fr = Les données de cet appareil seront définitivement supprimées.
+    es = Los datos de este dispositivo serán definitivamente borrados.
   [sync.accountMismatch.merge.error]
     tags = ios,android
     en = Failed to reset sync history
     fr = Impossible de supprimer l'historique de synchro
+    es = Imposible suprimir el histórico de sincronización
   [sync.accountMismatch.clean.error]
     tags = ios,android
     en = Failed to clean data
     fr = Impossible de supprimer les données
+    es = Imposible suprimir los datos
   [error.network_error.title]
     tags = android
     en = Network error
     fr = Erreur réseau
+    es = Error en la red  XXXXXXXX
   [error.network_error.message]
     tags = android
     en = Could not connect to the server. Please try again later.
     fr = Impossible de contacter le serveur. Veuillez réessayer plus tard.
+    es = Imposible conectar con el servidor. Por favor, intente más tarde.
 
 [[Sync - Errors]]
   [error.expansion.missing]
     tags = android
     en = The expansion pack with species pictures is missing, it will be downloaded the next time you launch the app with an active Internet connection.
     fr = Le pack contenant les photos d'espèces est manquant. Il sera téléchargé la prochaine fois que vous lancerez l'application avec une connexion Internet.
+    es = El paquete conteniendo las fotografías de especies no está presente. Se descargará la próxima vez que inicie la aplicación con una conexión a Internet activa.
   [error.registration.description]
     tags = ios,android
     en = Registration failed. Check your inputs.
     fr = L'enregistrement n'a pas marché. Vérifiez les infos saisies.
+    es = La grabación no funcionó. Averigua los datos entrados.
   [error.session.authRequired.description]
     tags = ios,android
     en = Authentication failure
     fr = Erreur d'authentification
+    es = Error de identificación 
   [error.session.authRequired.reason]
     tags = ios,android
     en = Could not authenticate or create the account.
     fr = Impossible d'authentifier ou de créer le compte.
+    es = Imposible identificarse o crear la cuenta.
   [error.session.email]
     tags = android
     en = Authentication failed. Check your email and password.
     fr = L'authentification a échoué. Veuillez vérifier les informations saisies.
+    es = Fallo de identificación. Averigüe su usuario y contraseña.
   [error.session.facebook]
     tags = android
     en = Could not connect with your Facebook account. Did you link it on tortuba.com?
     fr = Impossible de vous connecter avec Facebook. Avez-vous connecté votre compte sur tortuba.com?
+    es = Imposible conectarle con Facebook. ¿Conectó su cuenta en tortuba.com?
   [error.session.twitter]
     tags = android
     en = Could not connect with your Twitter account. Did you link it on tortuba.com?
     fr = Impossible de vous connecter avec Twitter. Avez-vous connecté votre compte sur tortuba.com?
+    es = Imposible conectarle con Twitter. ¿Conectó su cuenta en tortuba.com?
   [error.session.google_plus]
     tags = android
     en = Could not connect with your Google+ account. Did you link it on tortuba.com?
     fr = Impossible de vous connecter avec Google+. Avez-vous connecté votre compte sur tortuba.com?
+    es = Imposible conectarle con Google+. ¿Conectó su cuenta en tortuba.com?
   [error.session.unparsableData.description]
     tags = ios,android
     en = Unparsable data
     fr = Erreur de donnée
+    es = Error de datos
   [error.session.unparsableData.reason]
     tags = ios,android
     en = Could not process the returned data.
     fr = Les données n'ont pu être traitées.
+    es = No se han podido procesar los datos.
   [error.session.accountMismatch.description]
     tags = ios,android
     en = Account mismatch
     fr = Compte différent
+    es = Cuenta diferente
   [error.session.accountMismatch.reason]
     tags = ios,android
     en = The account doesn't match the one previously used for sync.
     fr = Le compte diffère de celui utilisé précédemment pour la synchro.
+    es = La cuenta es diferente de la utilizada anteriormente para la sincronización.
   [error.session.unknown.message]
     tags = android
     en = Please try again later
     fr = Veuillez ré-essayer plus tard
+    es = Por favor, intente más tarde.
 
 [[Tour]]
   [tour.start]
