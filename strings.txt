@@ -1198,7 +1198,7 @@
     tags = ios,android
     en = This device is not able or allowed to make payments
     fr = Cet appareil n'est pas capable ou pas autorisé à réaliser des paiements
-    es = Este dispositivo no es capaz o no está autorizado a realizar pagos
+    es = Este dispositivo no puede o no está autorizado a realizar pagos
   [premium.purchaseError.title]
     tags = ios,android
     en = Oh oh
@@ -1215,98 +1215,122 @@
     tags = sb,ios,android
     en = About
     fr = À propos
+    es = Acerca de
   [about.header]
     tags = ios,android
     en = Our mission is to empower everyone with the tools to learn about marine life and inspire the desire to protect it.
-    fr = Notre mission est de donner à tous les outils pour découvrir la vie marine et inspirer le désir de la protéger
+    fr = Notre mission est de donner à tous les outils pour découvrir la vie marine et inspirer le désir de la protéger.
+    es = Nuestra misión es dar a todos las herramientas para descubrir la vida marina e inspirar el deseo de protegerla.
   [about.options.values]
     tags = ios,android
     en = Our values
     fr = Nos valeurs
+    es = Nuestros valores
   [about.options.about.tortuba]
     tags = ios,android
     en = Why Tortuba?
     fr = Pourquoi Tortuba ?
+    es = Por qué Tortuba ?
   [about.options.about.charter]
     tags = ios,android
     en = Guidelines for responsible divers
     fr = Guide du plongeur responsable
+    es = Guía del buzo responsable
   [about.options.app]
     tags = ios,android
     en = About the app
     fr = À propos de l'app
+    es = Acerca de la aplicación
   [about.options.about.species]
     tags = ios,android
     en = Species classification
     fr = Classification des espèces
+    es = Clasificación de las especies
   [about.options.about.replay_intro]
     tags = ios,android
     en = Replay intro
     fr = Rejouer l'intro
+    es = Repetir la introducción
   [about.options.support]
     tags = ios,android
     en = Show your support
     fr = Montrez votre soutien
+    es = Muestre su apoyo
   [about.options.support.rate]
     tags = ios
     en = Rate on the App Store
     fr = Noter sur l'App Store
+    es = Evaluar en el App Store
   [about.options.support.rate]
     tags = android
     en = Rate on the Google Play Store
     fr = Noter sur Google Play Store
+    es = Evaluar en Google Play Store
   [about.options.support.rate_detail]
     tags = ios,android
     en = Rating is reset on each update
     fr = Les notes sont remises à zéro à chaque mise à jour
+    es = Las notas son reinicializadas cada día
   [about.options.support.translate]
     tags = ios,android
     en = Help us translate
     fr = Aidez-nous à traduire l'app
+    es = Ayúdenos a traducir la applicación
   [about.options.support.translate_detail]
     tags = ios,android
     en = Suggest corrections or join our translation team
     fr = Suggérez des corrections ou rejoignez notre équipe de traduction
+    es = Sugiera correcciones o unéte a nuestro equipo de traducción
   [about.options.help]
     tags = ios,android
     en = Contact a humain
     fr = Contacter un humain
+    es = Contactar a un humano
   [about.options.help.feedback]
     tags = ios,android
     en = Send Feedback
     fr = Envoyer une suggestion
+    es = Enviar una sugestión
   [about.options.help.support]
     tags = ios,android
     en = Support
     fr = Aide
+    es = Ayuda
   [about.options.social]
     tags = ios,android
     en = Follow us
     fr = Suivez-nous
+    es = Síguenos
   [about.options.partners]
     tags = ios,android
     en = Partners
     fr = Partenaires
+    es = Socios
   [about.options.terms]
     tags = ios,android
     en = Legal
     fr = Légal
+    es = Legal
   [about.options.terms.service]
     tags = ios,android
     en = Terms of Service
     fr = Conditions d'utilisation
+    es = Términos de uso
   [about.options.terms.privacy]
     tags = ios,android
     en = Privacy Policy
     fr = Politique de confidentialité
+    es = Política de confidencialidad
   [about.why.1.quote]
     tags = sb,ios,android
     en = “When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself."\n\nJacques Yves Cousteau
     fr = "Lorsqu'un homme, pour une quelconque raison, a l'opportunité de vivre une vie extraordinaire, il n'a pas le droit de la garder pour lui seul."\n\nJacques Yves Cousteau
+    es = "Cuando un hombre, por la razón que sea, tiene la oportunidad de tener una vida extraordinaria, no tiene derecho a guardarla para sí mismo."\n\nJacques Yves Cousteau
   [about.why.1.text]
     tags = sb,ios,android
     en = We consider that all people who look underwater have an extraordinary life, for many don't have the opportunity or don't think they should bother.\n\nYou snorkelers and divers can make a difference by sharing what you see and talking about it with passion.\n\nWe want to help you do that.
     fr = Nous considérons que tous ceux qui regardent sous l'eau ont une vie extraordinaire, car beaucoup n'ont pas cette opportunité ou n'en voient pas l'intérêt.\n\nVous nageurs et plongeurs pouvez faire une différence en partageant ce que vous voyez et en en parlant avec passion.\n\nNous voulons vous aider à cela.
+    es = Consideramos que todas las personas que miran bajo el agua tienen una vida extraordinaria, para muchos no tienen la oportunidad o no le ven el interés.\n\nUstedes nadadores y buzos pueden hacer la diferencia al compartir lo que ven y hablando de ello con pasión.\n\nQueremos ayudarle a hacer eso.
   [about.why.2.quote]
     tags = sb,ios,android
     en = "All it takes for evil to triumph is for good men to do nothing"\n\nEdmund Burke
