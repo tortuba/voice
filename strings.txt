@@ -790,342 +790,425 @@
     tags = sb,ios,android
     en = GET STARTED
     fr = COMMENCER
+    es = ARRANCAR
   [tour.step.1.title]
     tags = sb,ios,android
     en = Welcome to Tortuba
     fr = Bienvenue sur Tortuba
+    es = Bienvenido en Tortuba
   [tour.step.1.details]
     tags = sb,ios,android
     en = We want you to have the nicest logbooks.
     fr = Nous voulons que vous ayez les plus beaux carnets, sans effort.
+    es = Queremos que tenga las libretas de buceo mas bonitas.
   [tour.step.2.title]
     tags = sb,ios,android
     en = Why?
     fr = Pourquoi ?
+    es = ¿Por qué?
   [tour.step.2.details]
     tags = sb,ios,android
     en = To please you and help you inspire people to care about marine life.
     fr = Pour vous faire plaisir et vous aider à inspirer la passion du monde marin.
+    es = Para complacerle y ayudarle a transmitir la pasion por la vida marina.
   [tour.step.3.title]
     tags = sb,ios,android
     en = No Internet required
     fr = Utilisable sans Internet
+    es = Utilizable sin Internet
   [tour.step.3.details]
     tags = sb,ios,android
     en = And ships with 10.000+ species and 1.500+ photos to illustrate your stories.
     fr = Et embarque 10.000 espèces et 1.500 photos pour illustrer vos récits.
+    es = Y conlleva mas de 10.000 especies y 1.500 fotos para ilustrar sus historias.
   [tour.step.4.title]
     tags = sb,ios,android
     en = Collect
     fr = Collectionnez
+    es = Coleccione
   [tour.step.4.details]
     tags = sb,ios,android
     en = Keep your stamp collection going, ask people to sign your logbook!
     fr = Continuez votre collection de tampons, faites signer votre palanquée!
+    es = ¡Siga con su colección de sellos, obtenga firmas de sus compañeros en su libreta!
   [tour.step.5.title]
     tags = sb,ios,android
     en = Tell your stories
     fr = Racontez vos histoires
+    es = Cuente sus historias
   [tour.step.5.details]
     tags = sb,ios,android
     en = Create one logbook per trip, add notes between dives to turn it into a journal.
     fr = Créez un carnet par expédition, ajoutez des notes entre les plongées pour en faire un vrai journal.
+    es = Cree una libreta por viaje, agregue notas entre las inmersiones para convertirlo en un verdadero diario de buceo.
 
 [[Sign in/up]]
   [signin.header]
     tags = sb,ios,android
     en = Sync your logbook to tortuba.com
     fr = Synchronisez votre carnet avec tortuba.com
+    es = Sincronize su libreta con tortuba.com
   [signin.signup]
     tags = sb,ios,android
     en = New? Sign Up
     fr = Nouveau? Par ici
+    es = ¿Nuevo? Por aquí
   [signin.password]
     tags = sb,ios,android
     en = Password
     fr = Mot de passe
+    es = Contraseña
   [signin.submit]
     tags = sb,ios,android
     en = SIGN IN
     fr = SE CONNECTER
+    es = CONECTARSE
   [signin.alternate]
     tags = sb,ios,android
     en = OR SIGN IN WITH
     fr = OU SE CONNECTER AVEC
+    es = O CONECTARSE CON
   [signin.error]
     tags = ios,android
     en = Mmh. It didn't work. Try again?
     fr = Mmh. Ca n'a pas marché. Retentez?
+    es = Mmh. No funcionó. ¿Reintentar?
   [forgot.success]
     tags = ios,android
     en = Check your emails for further instructions.
     fr = Consultez vos mails pour la suite des instructions.
+    es = Consulte su correo electrónico para mas instrucciones.
   [forgot.failure]
     tags = ios,android
     en = Something went wrong. Please check your email.
     fr = C'est râté! Vérifiez l'email saisi.
+    es = ¡Algo no funcionó! Averigüe el correo eletrónico.
   [signup.header]
     tags = sb,ios,android
     en = CREATE YOUR ACCOUNT
     fr = CRÉER UN COMPTE
+    es = CREAR UNA CUENTA
   [signup.submit]
     tags = sb,ios,android
     en = SIGN UP
     fr = S'ENREGISTRER
+    es = INSCRIBIRSE
   [signup.terms.sentence]
     tags = ios,android
     en = By pressing SIGN UP, you acknowledge that you have read and agree to our Terms.
     fr = En pressant S'ENREGISTRER, vous reconnaissez avoir lu et accepté nos Conditions.
+    es = Pulsando INSCRIBIRSE, usted reconoce que ha leído y está de acuerdo con nuestras condiciones.
   [signup.terms.linkTo]
     tags = ios,android
     en = Terms
     fr = Conditions
+    es = Condiciones
   [signin.notice.success]
     tags = android
     en = Login successful
     fr = Connexion réussie
+    es = Conexión on éxito XXXXXXXXXX
   [signup.notice.success]
     tags = android
     en = Registration successful
     fr = Enregistrement réussi
+    es = Inscripción con éxito XXXXXXXXXX
 
 [[Shortcuts]]
   [shortcuts.Dive]
     tags = ios
     en = New dive
     fr = Nouvelle plongée
+    es = Nueva inmersión
   [shortcuts.Site]
     tags = ios
     en = New site
     fr = Nouveau site
+    es = Nuevo sitio
   [shortcuts.Note]
     tags = ios
     en = New note
     fr = Nouvelle note
+    es= Nueva nota
   [shortcuts.Asset]
     tags = ios
     en = New photo
     fr = Nouvelle photo
+    es = Nueva foto
   [shortcuts.Stamp]
     tags = ios
     en = New stamp
     fr = Nouveau tampon
+    es = Nuevo sello
   [shortcuts.LatestLogbook]
     tags = ios
     en = Latest logbook
     fr = Dernier carnet
+    es = Ultima libreta
   [shortcuts.Assets]
     tags = ios
     en = All photos
     fr = Toutes les photos
+    es = Todas las fotos
   [shortcuts.Species]
     tags = ios
     en = All species
     fr = Toutes les espèces
+    es = Todas las especies
   [shortcuts.Logbooks]
     tags = ios
     en = All logbooks
     fr = Tous les carnets
+    es = Todas las libretas
   [shortcuts.alert.title]
     tags = ios
     en = We love shortcuts too!
     fr = Nous aussi on aime les raccourcis!
+    es = ¡Tambien nos encantan los accesos directos!
   [shortcuts.alert.message]
     tags = ios
     en = But it's only for our dear premium members. Would you like to join their team?
     fr = Mais ils sont réservés aux membres premium. Voudriez-vous en faire partie?
+    es = Pero estos están reservados para miembros premium. ¿Quisiera volverse uno de ellos?
 
 [[Home/Main]]
   [menu.header.title]
     tags = sb,ios,android
     en = Tell your story
     fr = Racontez votre histoire
+    es = Cuente su historia
   [menu.option.site]
     tags = sb,ios,android
     en = SITE
     fr = SITE
+    es = SITIO
   [menu.option.dive]
     tags = sb,ios,android
     en = DIVE
     fr = PLONGÉE
+    es = INMERSION
   [menu.option.stamp]
     tags = sb,ios,android
     en = STAMP
     fr = TAMPON
+    es = SELLO
   [menu.option.note]
     tags = sb,ios,android
     en = NOTE
     fr = NOTE
+    es = NOTA
   [menu.option.photo]
     tags = sb,ios,android
     en = IMAGE
     fr = IMAGE
+    es = IMAGEN
   [menu.settings]
     tags = ios,android
     en = Settings
     fr = Réglages
+    es = Ajustes
   [menu.trips]
     tags = ios,android
     en = Logbooks
     fr = Carnets
+    es = Libretas
   [menu.divers]
     tags = ios,android
     en = Buddies
     fr = Plongeurs
+    es = Buzos
   [menu.taxons]
     tags = ios,android
     en = Species
     fr = Espèces
+    es = Especies
   [menu.sites]
     tags = ios,android
     en = Sites
     fr = Sites
+    es = Sitios
   [menu.assets]
     tags = ios,android
     en = Photos
     fr = Photos
+    es = Fotos
   [menu.contact]
     tags = ios,android
     en = Contact
     fr = Contact
+    es = Contacto
   [menu.guidestore]
     tags = ios,android
     en = Guide Store
     fr = Guide Store
+    es = XXXXXXXXX
   [menu.more]
     tags = ios,android
     en = About & Contact
     fr = À propos & contact
+    es = XXXXX
   [menu.signout.title]
     tags = ios,android
     en = Sign out?
     fr = Se déconnecter ?
+    es = ¿Desconectarse?
   [menu.signout.message]
     tags = ios,android
     en = You won't be able to synchronize your logbooks with tortuba.com anymore. Your data will remain available on your device.
     fr = Vous ne pourrez plus synchroniser vos carnets avec tortuba.com. Vos données resteront disponibles sur votre appareil.
+    es = Ya no podrá sincronizar sus libretas en tortuba.com. Sus datos seguirán disponibles en su dispositivo.
   [menu.signout.message.premium]
     tags = ios,android
     en = You won't have access to Premium features until you sign back in. Your data will remain available on your device.
     fr = Vous ne pourrez plus accéder aux fonctions Premium tant que vous êtes déconnecté(e). Vos données resteront disponibles sur votre appareil.
+    es = No podrá acceder a las funciones Premium mientras este desconectado(a). Sus datos seguirán disponibles en su dispositivo.
   [menu.count]
     tags = ios,android
     en = All %i
     fr = Les %i
+    es = Los %i
   [menu.about]
     tags = sb,ios,android
     en = About
     fr = À propos
+    es = XXXXX
   [dive.rescue.alert.title]
     tags = ios,android
     en = Complete your dive
     fr = Complétez votre plongée
+    es = Complete su inmersión
   [dive.rescue.alert.message]
     tags = ios,android
     en = The app was interrupted while you were logging a dive. It was added to your most recent logbook.
     fr = L'app a été interrompue pendant l'enregistrement d'une plongée. Elle a été placée dans votre dernier carnet.
+    es = La aplicación fue interrumpida mientras estaba registrando una inmersión. Fue añadida a su última libreta.
 
 [[Go Premium]]
   [premium]
     tags = ios,android
     en = Tortuba Premium
     fr = Tortuba Premium
+    es = Tortuba Premium
   [premium.features]
     tags = ios,android
     en = Tortuba Premium Subscription
     fr = Abonnement Tortuba Premium
+    es = Suscripción Tortuba Premium
   [goPremium]
     tags = ios,android
     en = Go Premium
     fr = Devenez Premium
+    es = Vuélvase Premium
   [restore]
     tags = ios,android
     en = Already Premium? Sign In
     fr = Déjà Premium ? Connectez-vous
+    es = Ya Premium ? Conéctese
   [premium.thanks]
     tags = ios,android
     en = Thank you for your support
     fr = Merci pour votre soutien
+    es = Muchas gracias por su apoyo
   [premium.features.shortcuts.title]
     tags = ios,android
     en = 3D Touch Shortcuts
     fr = Raccourcis 3D Touch
+    es = Accesos 3D Touch
   [premium.features.shortcuts.details]
     tags = ios,android
     en = Open your latest logbook and create a new dive/site/note right from the app icon
     fr = Ouvrez votre dernier carnet et créez un(e) plongée/site/note depuis l'icône de l'application
+    es = Abra su última libreta y cree un(a) inmersión/sitio/nota desde el icono de la aplicación 
   [premium.features.diveSteps.title]
     tags = ios,android
     en = Dive form
     fr = Formulaire de plongée
+    es = Formulario de inmersión
   [premium.features.diveSteps.details]
     tags = ios,android
     en = Reorder the steps, add/remove them and jump between them
     fr = Réordonnez les étapes, ajoutez/supprimez-en et sautez de l'une à l'autre
+    es = Cambie el orden de los pasos, agregue/suprima y salta entre ellos
   [premium.features.advancedSettings.title]
     tags = ios,android
     en = Advanced settings
     fr = Paramètres avancés
+    es = Ajustes avanzados
   [premium.features.advancedSettings.details]
     tags = ios,android
     en = Get more flexibility and customize the app some more
     fr = Gagnez en flexibilité et personnalisez l'application
+    es = Consiga más flexibilidad y personalice la aplicación 
   [premium.features.allUpcoming.title]
     tags = ios,android
     en = Upcoming features
     fr = Prochaines nouveautés
+    es = Próximas novedades
   [premium.features.allUpcoming.details]
     tags = ios,android
     en = Any premium feature we add in the future will be yours
     fr = Toutes les fonctions premium à venir seront vôtres
+    es = Todas las funciones premium que agregaremos serán suyas
   [premium.features.everywhere.title]
     tags = ios,android
     en = All your devices
     fr = Tous vos appareils
+    es = Todos sus dispositivos
   [premium.features.everywhere.details]
     tags = ios,android
     en = Your subscription works on the web and all your devices
     fr = L'abonnement s'étend sur le web et à tous vos appareils
+    es = La suscripción se amplia a la web y a todos sus dispositivos
   [premium.features.unlimitedSync.title]
     tags = ios,android
     en = Unlimited sync
     fr = Synchro illimitée
+    es = Sincronización ilimitada 
   [premium.features.unlimitedSync.details]
     tags = ios,android
     en = And 1Go of data for your personal photos
     fr = Et 1Go de données pour vos photos personnelles
+    es = Y 1Go de espacio para sus fotos personales
   [premium.features.support.title]
     tags = ios,android
     en = Support the Ocean
     fr = Soutenez l'Océan
+    es = Apoye el Océano 
   [premium.features.support.details]
     tags = ios,android
     en = We give a lot for free because we want to help divers share the Ocean. By purchasing a subscription, you support our effort.
     fr = Nous donnons beaucoup gratuitement car nous voulons aider les plongeurs à partager l'Océan. En vous abonnement, vous soutenez notre effort.
+    es = Damos mucho de forma gratuita porque queremos ayudar a los buceadores a que comparten el océano. Con su suscripción usted apoya nuestro esfuerzo.
   [premium.loginRequired.title]
     tags = ios,android
     en = An account is required
     fr = Un compte est nécessaire
+    es = se requiere una cuenta
   [premium.loginRequired.message]
     tags = ios,android
     en = You must login or create a Tortuba account before purchasing a subscription
     fr = Vous devez vous connecter ou créer un compte Tortuba avant de réaliser votre achat
+    es = Tiene que conectarse o crear una cuenta Tortuba antes de comprar su suscripción 
   [premium.cantMakePayments.title]
     tags = ios,android
     en = Can't make payment
     fr = Paiement impossible
+    es = Pago imposible
   [premium.cantMakePayments.message]
     tags = ios,android
     en = This device is not able or allowed to make payments
     fr = Cet appareil n'est pas capable ou pas autorisé à réaliser des paiements
+    es = Este dispositivo no es capaz o no está autorizado a realizar pagos
   [premium.purchaseError.title]
     tags = ios,android
     en = Oh oh
     fr = Oh oh
+    es = Oh oh
   [premium.purchaseError.message]
     tags = ios,android
     en = It seems we were not able to register your subscription properly, contact us so we can fix it.
     fr = Il semble qu'il y ait eu un souci lors de votre abonnement, contactez-nous pour résoudre cela.
+    es = Parece que hubo un problema durante su suscripción, póngase en contacto con nosotros para solucionarlo.
 
 [[About]]
   [about.title]
