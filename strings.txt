@@ -1740,962 +1740,1191 @@
     tags = ios,android
     en = Your site collection
     fr = Votre collection de sites
+    es = Su colección de sitios
   [sites.headers.ao]
     tags = ios,android
     en = %@'s sites
     fr = Sites de %@
+    es = Sitios de %@
   [sites.empty.message]
     tags = ios,android
     en = You can add sites using the + button here, or when you log a new dive.\n\nWhy don't you log one now?
     fr = Vous pouvez ajouter des sites ici avec le bouton +, ou pendant que vous enregistrez une plongée.\n\nPourquoi ne pas en enregistrer une maintenant?
+    es = Puede añadir sitios aquí pulsando el botón +, o mientras está registrando una inmersión.\n\
   [sites.empty.message.picker]
     tags = ios,android
     en = You can add a new site using the + button.
     fr = Vous pouvez ajouter un nouveau site avec le bouton +
+    es = Puede añadir un nuevo sitio pulsando el botón +
 [[Site - Edit]]
   [site.name.placeholder]
     tags = sb,ios,android
     en = What is this site called?
     fr = Comment s'appelle ce site ?
+    es = ¿Como se llama esta sitio?
 
 [[Contacts - Index]]
   [buddies.empty.message]
     tags = ios,android
     en = You can add contacts using the + button here, or when you log a new dive.\n\nRemember to ask them to sign your logbook!
     fr = Vous pouvez ajouter des contacts ici avec le bouton +, ou pendant que vous enregistrez une plongée.\n\nN'oubliez pas de leur faire signer votre carnet!
+    es = Puede añadir contactos pulsando el botón +, o mientras está registrando una inmersión.\n\n¡Acuérdese de pedirles que firmen su libreta!
 
 [[Trip - Show]]
   [trip.empty.info]
     tags = sb,ios,android
     en = This is a logbook, a collection of notes, photos, dives and signatures.\n\nAdd content using the icons in the toolbar below.
     fr = Ceci est un carnet, une collection de notes, photos, plongées et signatures.\n\nAjoutez du contenu grâce aux icônes ci-dessous.
+    es = Esto es una libreta, una coleción de notas, fotos, inmersiones y firmas.\n\nAñade contenido gracias a los iconos a continuación.
   [trip.edit_cover]
     tags = sb,ios,android
     en = Edit cover
     fr = Changer l'image
+    es = Cambiar la imagen de portada.
   [trip.title_hint]
     tags = sb,ios,android
     en = Give your logbook a title
     fr = Donnez un titre à votre carnet
+    es = Dele un nombre a su libreta
   [day.true]
     tags = ios,android
     en = %i day
     fr = %i jour
+    es = %i día
   [day.false]
     tags = ios,android
     en = %i days
     fr = %i jours
+    es = %i días 
   [month.true]
     tags = ios,android
     en = %i month
     fr = %i mois
+    es = %i mes
   [month.false]
     tags = ios,android
     en = %i months
     fr = %i mois
+    es = %i meses
   [year.true]
     tags = ios,android
     en = %i year
     fr = %i an
+    es = %i año
   [year.false]
     tags = ios,android
     en = %i years
     fr = %i ans
+    es = %i años
 
 [[Dive - Settings]]
   [dive.settings.alert.title]
     tags = ios
     en = Save some time!
     fr = Gagnez du temps!
+    es = Ahorre tiempo !
   [dive.settings.alert.message]
     tags = ios
     en = Premium members can add/remove/reorganize/jump to steps and more.
     fr = Les membres premiums peuvent ajouter/supprimer/réorganiser/sauter les étapes et plus encore.
+    es = Los miembros premium puden añadir/eliminar/reorganizar/saltar pasos y más todavía.
   [dive.settings.quickSave]
     tags = ios,android
     en = Quick save
     fr = Sauvegarde rapide
+    es = Guardar rápido
   [dive.settings.Number]
     tags = ios,android
     en = Number
     fr = Numéro
+    es = Número
   [dive.settings.Number.hint]
     tags = ios,android
     en = Since your first dive
     fr = Depuis votre 1ère plongée
+    es = Desde su primera inmersión
   [dive.settings.Summary]
     tags = ios,android
     en = Summary
     fr = Résumé
+    es = Resumen
   [dive.settings.Summary.hint]
     tags = ios,android
     en = Ease, pollution…
     fr = Facilité, pollution…
+    es = Facilidad, contaminación…
   [dive.settings.Air]
     tags = ios,android
     en = Air
     fr = Air
+    es = Aire
   [dive.settings.Air.hint]
     tags = ios,android
     en = Tank & consumption
     fr = Bouteille et consommation
+    es = Tamque y Consumo
   [dive.settings.Site]
     tags = ios,android
     en = Site
     fr = Site
+    es = Sitio
   [dive.settings.Site.hint]
     tags = ios,android
     en = Where you dived
     fr = Là où vous avez plongé
+    es = Donde ha buceado 
   [dive.settings.Story]
     tags = ios,android
     en = Notes
     fr = Notes
+    es = Notas
   [dive.settings.Story.hint]
     tags = ios,android
     en = Species, photos, notes
     fr = Espèces, photos, notes
+    es = Especies, fotos, notas
   [dive.settings.Team]
     tags = ios,android
     en = Team
     fr = Palanquée
+    es = Equipo
   [dive.settings.Team.hint]
     tags = ios,android
     en = The other
     fr = Les autres
+    es = Los demás
   [dive.settings.Date]
     tags = ios,android
     en = Date
     fr = Date
+    es = Fecha
   [dive.settings.Date.hint]
     tags = ios,android
     en = Time of entry
     fr = Heure d'entrée dans l'eau
+    es = Hora de entrada en el agua
   [dive.settings.Depth]
     tags = ios,android
     en = Depth
     fr = Profondeur
+    es = Profundidad
   [dive.settings.Depth.hint]
     tags = ios,android
     en = Max and average
     fr = Max et moyenne
+    es = Max y media
   [dive.settings.Stages]
     tags = ios,android
     en = Duration
     fr = Durée
+    es = Duración
   [dive.settings.Stages.hint]
     tags = ios,android
     en = Total bottom time
     fr = Durée d'immersion
+    es = Duración de la inmersión
   [dive.settings.Weight]
     tags = ios,android
     en = Weight
     fr = Poids
+    es = Pesas
   [dive.settings.Weight.hint]
     tags = ios,android
     en = Ballast & suit
     fr = Lestage et combinaison
+    es = Pesas y traje
   [dive.settings.Temperatures]
     tags = ios,android
     en = Temperatures
     fr = Températures
+    es = Temperaturas
   [dive.settings.Temperatures.hint]
     tags = ios,android
     en = Air, Surface, Water
     fr = Air, surface & eau
+    es = Aire, superficie y agua
   [dive.settings.Visibility]
     tags = ios,android
     en = Visibility
     fr = Visibilité
+    es = Visibilidad
   [dive.settings.Visibility.hint]
     tags = ios,android
     en = Average distance
     fr = Distance moyenne
+    es = Distancia media
   [dive.settings.Conditions]
     tags = ios,android
     en = Conditions
     fr = Conditions
+    es = Condiciones
   [dive.settings.Conditions.hint]
     tags = ios,android
     en = Light & landscape
     fr = Luminosité & paysage
+    es = Luminosidad & paisaje
 
 [[Dive - Edit - Number]]
   [dive.number.count.1]
     tags = ios,android
     en = Welcome back from dive #
     fr = Bienvenue à la surface après cette plongée n°
+    es = Bienvenido a la superficie despuès de esta inmersión n°
   [dive.number.count.7]
     tags = ios,android
     en = #007, licensed to dive
     fr = N°007, permis de plonger
+    es = N°007, licencia para matar
   [dive.number.count.42]
     tags = ios,android
     en = The answer to life, the universe and everything
     fr = The answer to life, the universe and everything
+    es = The answer to life, the universe and everything
   [dive.number.count.100]
     tags = ios,android
     en = WOW! No.100, that's serious!
     fr = WOW! N°100, c'est du sérieux!
+    es = ¡Guau! N°100, ¡eso es serio!
   [dive.number.count.777]
     tags = ios,android
     en = All lucky 7s!
     fr = All lucky 7s!
+    es = ¡All lucky 7s!
   [dive.number.count.1000]
     tags = ios,android
     en = No.%@ Really? Let's talk!
     fr = N°%@ vraiment? Parlons-nous!
+    es = N°%@ ¿de verdad? Hablémonos 
   [dive.number.count.mod.1000]
     tags = ios,android
     en = You… What! Say Again? No.
     fr = Vous… Combien? Redites moi ça ? N°
+    es = Usted… ¿Cuantas? ¿Dígamelo otra vez? N°
   [dive.number.count.mod.100]
     tags = ios,android
     en = Another century for you No.
     fr = Un autre siècle pour vous, n°
+    es = Otro siglo para usted, n°
   [dive.number.count.mod.10]
     tags = ios,android
     en = Round and bubbly number
     fr = Rond et pétillant n°
+    es = Redondo y burbujeante n°
   [dive.number.basic_message.0]
     tags = ios,android
     en = Congratulations on dive No.
     fr = Félicitations pour votre plongée n°
+    es = Enhorabuena por su inmersión n°
   [dive.number.basic_message.1]
     tags = ios,android
     en = Awesome! That's dive No.
     fr = Fantastique! C'est votre plongée n°
+    es = ¡Fantástico! Es su inmersión n°
   [dive.number.basic_message.2]
     tags = ios,android
     en = You're amazing. That's dive No.
     fr = Vous êtes incroyable. Plongée n°
+    es = Usted es incredible. Inmersión n°
   [dive.number.basic_message.3]
     tags = ios,android
     en = So, dive No.%@, hey
     fr = Alors, plongée n°%@, hein ?
+    es = ¿Entonces, inmersión n°%@, verdad ?
   [dive.number.basic_message.4]
     tags = ios,android
     en = Can’t wait to hear about dive No.
     fr = Vivement que vous me racontiez la plongée n°
+    es = Ojalá pronto me cuente la inmersión n°
   [dive.number.basic_message.5]
     tags = ios,android
     en = Glad to have you back from dive No.
     fr = Content de vous savoir de retour de la plongée n°
+    es = Feliz de verle de regreso después de la inmersión n°
   [dive.number.basic_message.6]
     tags = ios,android
     en = Dive No.%@. You're my hero.
     fr = Plongée n°%@. Vous êtes mon héros.
+    es = Inmersión n°%@. Usted es mi héroe.
   [dive.number.basic_message.7]
     tags = ios,android
     en = Dive No.%@. Outstanding!
     fr = Pongée n°%@. Remarquable!
+    es = inmersión n°%@. ¡Increíble!
   [dive.number.time.morning.0]
     tags = ios,android
     en = Good morning! No.
     fr = Bonjour! N°
+    es = ¡Buenos días! N°
   [dive.number.time.morning.1]
     tags = ios,android
     en = No better way to start the day!
     fr = Une bonne façon de commencer la journée!
+    es = ¡Qué buena manera de empezar el día!
   [dive.number.time.evening.0]
     tags = ios,android
     en = Good evening. No.
     fr = Bonsoir. N°
+    es = ¡Buenas noches! N°
   [dive.number.time.evening.1]
     tags = ios,android
     en = Beer time, is it?
     fr = C'est l'heure de l'apéro, non?
+    es = Es la hora del aperitivo, ¿no?
   [dive.number.serious_message.0]
     tags = ios,android
     en = Fantastic is your middle name, No.%@ logged!
     fr = Fantastique est votre deuxième prénom, n°%@ check!
+    es = Fantástico es su segundo apellido, ¡N°%@ registrada!
   [dive.number.serious_message.1]
     tags = ios,android
     en = I stopped counting. No.%@ is it?
     fr = J'ai arrêté de compter. N°%@ c'est ça ?
+    es = He dejado de contar. N°%@, ¿así es?
   [dive.number.serious_message.2]
     tags = ios,android
     en = I'm impressed! No.
     fr = Je suis impressioné! N°
+    es = ¡Estoy impresionado! N°
   [dive.number.serious_message.3]
     tags = ios,android
     en = Can I get an autograph? Pretty please?
     fr = Je peux avoir un autographe, s'il vous plaît ?
+    es = ¿Puedo tener una dedicatoria, por favor?
   [dive.number.serious_message.4]
     tags = ios,android
     en = You keep surprising me. No.
     fr = Vous continuez de m'épater. N°
+    es = Me sigue sorprendiendo. N°
   [dive.number.serious_message.5]
     tags = ios,android
     en = No.%@, already?
     fr = N°%@, déjà ?
+    es = N°%@, ¿ya?
   [dive.number.serious_message.6]
     tags = ios,android
     en = WoW. You're… Just WoW.
     fr = WoW. Vous… Juste WoW.
+    es = ¡Guau! Es usted… justo Guau.
   [dive.number.serious_message.7]
     tags = ios,android
     en = You are unstoppable. No.
     fr = Vous êtes inarrêtable. N°
+    es = Usted está imparable. N°
   [dive.number.serious_message.8]
     tags = ios,android
     en = Bodacious!
     fr = Admirable!
+    es = ¡Admirable!
   [dive.number.serious_message.9]
     tags = ios,android
     en = Boooom, one more down!
     fr = Baaaam, une de plus!
+    es = Bum, ¡una más!
 
 [[Dive - Edit - Summary]]
   [dive_summary_full]
     tags = ios,android
     en = %@.\n\n%@.
     fr = %@.\n\n%@.
+    es = %@.\n\n%@.
   [dive_summary_first_sentence_true]
     tags = ios,android
     en = %@, and %@
     fr = %@, et %@
+    es = %@, and %@
   [dive_summary_first_sentence_false]
     tags = ios,android
     en = %@, but %@
     fr = %@, mais %@
+    es = %@, but %@
   [dive_summary_second_sentence_true]
     tags = ios,android
     en = %@, %@ and %@
     fr = %@, %@ et %@
+    es = %@, %@ and %@
   [dive_summary_second_sentence_false]
     tags = ios,android
     en = %@, %@ but %@
     fr = %@, %@ mais %@
+    es = %@, %@ but %@
 
 [[Dive - Air]]
   [dive.air.add_o2]
     tags = android
     en = +O2
     fr = +O2
+    es = +O2
   [dive.air.add_n2]
     tags = android
     en = +N2
     fr = +N2
+    es = +N2
   [dive.air.type.air]
     tags = ios,android
     en = AIR
     fr = AIR
+    es = AIRE
   [dive.air.type.nitrox]
     tags = ios,android
     en = NITROX
     fr = NITROX
+    es = NITROX
   [dive.air.start]
     tags = sb,ios,android
     en = Start
     fr = Début
+    es = Inicio
   [dive.air.end]
     tags = sb,ios,android
     en = End
     fr = Fin
+    es = Fin
 
 [[Dive - Notes]]
   [dive.parts.header]
     tags = sb,ios,android
     en = Once upon a dive…
     fr = Il était une plongée…
+    es = Érase una vez una inmersión…
   [dive.parts.footer]
     tags = sb,ios,android
     en = The End
     fr = Fin
+    es = Fin
   [dive.parts.delete.alert.message]
     tags = ios,android
     en = This note will be sent to the abyss, there's no going back.
     fr = Cette note sera envoyée dans les abysses, définitivement.
+    es = Esta nota será enviada al abismo, no hay vuelta atrás.
 
 [[Dive - Notes - Tour]]
   [dive.parts.tour.tip_1]
     tags = sb,ios,android
     en = This is were magic happens.\n\nWe will help you remember your dive, identify species and build nice stories in a blissful experience.
     fr = C'est ici que la magie opère.\n\n\nNous vous aiderons à vous remémorer votre plongée, à identifier les espèces et à construire de belles histoires sans effort.
+    es = Ahora es cuando opera la magía.\n\nVamos a ayudarle a recordar su inmersión, identificar las especies y construir historias bonitas sin esfuerzo.
   [dive.parts.tour.tip_2]
     tags = sb,ios,android
     en = A story is composed of multiple notes.\n\nWrite one for each "moment" you wish to remember. You can associate species and images.
     fr = Une histoire se compose de multiples notes.\n\nCréez-en une pour chaque \"moment\" dont vous souhaitez vous rappeler.\n\nVous pouvez associer des espèces et des images.
+    es = Una historia se compone de varias notas.\n\nEscriba una para cada \"momento\" que desea recordar.\n\nPuede asociar especies e imágenes.
 
 [[Dive - Coach]]
   [coach.goButton.default]
     tags = ios,android
     en = Go!
     fr = Go!
+    es = ¡Adelante!
   [coach.goButton.end]
     tags = ios,android
     en = End
     fr = Fin
+    es = Fin
   [coach.step1.title]
     tags = ios,android
     en = Clear your mind
     fr = Videz votre esprit
+    es = Vacíe su espíritu
   [coach.step1.instructions.header]
     tags = ios,android
     en = Catch those memories before they fade!
     fr = Saisissez vos souvenirs avant qu'ils ne sombrent dans l'oubli!
+    es = ¡Apunte sus recuerdos antes de que desaparezcan en el olvido!
   [coach.step1.instructions.addedNote]
     tags = ios,android
     en = For each one, create a note with key words and reach for the next souvenir
     fr = Pour chacun, créez une note avec quelques mots clefs puis passez au souvenir suivant
+    es = Para cada uno, cree una con algunas palabras claves y pase al siguiente
   [coach.step1.instructions.openedInspiration]
     tags = ios,android
     en = Running dry? Use the inspiration button.
     fr = Panne d'inspiration ? Utilisez ce bouton
+    es = ¿Le falta inspiración? Utilice este botón
   [coach.step1.instructions.reachedNotesGoal]
     tags = ios,android
     en = Tap my portrait when you have 5 notes or more
     fr = Touchez mon portrait quand vous avez 5 notes ou plus
+    es = Toque mi retraro cuando tenga 5 minutos o más
   [coach.step2.title]
     tags = ios,android
     en = Review & Organize
     fr = Relisez & Organisez
+    es = Revise & Organice 
   [coach.step2.instructions.header]
     tags = ios,android
     en = Browse & clean your notes:
     fr = Parcourez et nettoyez vos notes:
+    es = Recorra y limpie sus notas:
   [coach.step2.instructions.reordered]
     tags = ios,android
     en = Reorder them: tap, hold 1 sec, drag
     fr = Réorganisez les: appuyez, maintenez 1 sec, déplacez
+    es = Reordénelas : apoye, mantenga 1 seg., desplace 
   [coach.step2.instructions.deleted]
     tags = ios,android
     en = Discard uninteresting ones: swipe from right to left
     fr = Jetez celles sans intérêt: effleurez de droite à gauche
+    es = Tire las ininteresantes: Desliza el dedo de derecha a izquierda
   [coach.step2.instructions.added]
     tags = ios,android
     en = If it brings new memories to the surface: add them
     fr = Si cela réveille de nouveaux souvenirs: ajoutez les!
+    es = Si le trae nuevos recuerdos: ¡apúntelos!
   [coach.step3.title]
     tags = ios,android
     en = Identify & Enrich
     fr = Identifiez & Étoffez
+    es = Identifique & Enriquezca
   [coach.step3.instructions.header]
     tags = ios,android
     en = Grab yourself a drink, put some music on, and edit each note:
     fr = Servez-vous à boire, mettez de la musique, et éditez chaque note:
+    es = Sírvase una bebida, ponga algo de música, y edite cada nota:
   [coach.step3.instructions.addedSpecies]
     tags = ios,android
     en = Identify the species, use the “Unidentified” joker when you can’t find one
     fr = Identifiez les espèces; utilisez le joker “Non identifiée” si vous ne la trouvez pas
+    es = Identifique las especies; utilice el comodín "No identificada" si no la encuentra
   [coach.step3.instructions.addedImage]
     tags = ios,android
     en = Add pictures from your library
     fr = Ajoutez des photos
+    es = Añade fotos
   [coach.step3.instructions.addedText]
     tags = ios,android
     en = Enrich your text
     fr = Développez votre texte.
+    es = Desarrolle su texte
   [coach.step3.instructions.rated]
     tags = ios,android
     en = Rate the importance of this souvenir
     fr = Modifiez l'importance de ce souvenir
+    es = Modifique la importancia de este recuerdo
   [coach.step4.title]
     tags = ios,android
     en = Enjoy
     fr = Appréciez
+    es = Disfrute
 
 [[Dive - Edit - Team]]
   [user.self]
     tags = ios,android
     en = Me
     fr = Moi
+    es = Yo
   [dive.show.edit.memberships.label]
     tags = ios,android
     en = Teamates
     fr = Palanquée
+    es = Equipo
   [dive.buddies.add.new_teammate]
     tags = sb,ios,android
     en = Add a new teammate
     fr = Ajouter un équipier
+    es = Añadir un miembro del equipo
   [dive.buddies.add.last_team]
     tags = sb,ios,android
     en = Same team as previous dive
     fr = Même palanquée que la dernière fois
+    es = Mismo equipo que la última vez
   [dive.buddies.headers.team]
     tags = ios,android
     en = Team
     fr = Palanquée
+    es = Equipo
   [dive.buddies.headers.recent]
     tags = ios,android
     en = Add from latest dives
     fr = Ajouter des dernières plongées
+    es = Añadir a partir de las últimas inmersiones
   [dive.buddies.headers.pick]
     tags = ios,android
     en = Add from contacts
     fr = Ajouter depuis les contacts
+    es = Añadir a partir de los contactos
   [dive.buddies.noteam.title]
     tags = ios,android
     en = Maybe next time?
     fr = La prochaine fois ?
+    es = ¿tal vez la próxima?
   [dive.buddies.noteam.true.message]
     tags = ios,android
     en = This is the first dive you log, so I don't know about any previous team.
     fr = C'est la première plongée que vous enregistrez, je ne connais pas votre dernière palanquée.
+    es = Es la primera inmersión que registra, no conozco los miembros de su ultimo equipo.
   [dive.buddies.noteam.false.message]
     tags = ios,android
     en = You didn't add any teamate to your previous dive.
     fr = Vous n'aviez pas ajouté d'équipier à votre précédente plongée.
+    es = No había indicado equipo en su inmersión anterior.
   [dive.buddies.edit.remove_diver]
     tags = android
     en = Remove that teammate
     fr = Retirer de la palanquée
+    es = Quitar este miembro del equipo
 
 [[Dive - Edit - Depth]]
   [dive.depth.deeper]
     tags = ios,android
     en = Deeper? Tap the number and enter your depth manually
     fr = Plus profond ? Touchez le nombre et entrez votre profondeur manuellement
+    es = ¿Más profundo? Toque el número y escriba su profundidad manualmente
 
 [[Dive - Edit - Weight]]
   [dive.suit.type.nil]
     tags = ios,android
     en = Suit type?
     fr = Type de combi ?
+    es = ¿Tipo de traje?
   [dive.suit.type.swimsuit]
     tags = ios,android
     en = Swimsuit
     fr = Maillot
+    es = Traje de baño
   [dive.suit.type.top]
     tags = ios,android
     en = Swimsuit + Top
     fr = Maillot + Top
+    es = Traje de baño + Top
   [dive.suit.type.shorty]
     tags = ios,android
     en = Shorty
     fr = Shorty
+    es = Shorty
   [dive.suit.type.long]
     tags = ios,android
     en = Long suit
     fr = Longue
+    es = Traje largo
   [dive.suit.type.long_shorty]
     tags = ios,android
     en = Long + Shorty
     fr = Longue + Shorty
+    es = Traje largo + Shorty
   [dive.suit.type.semi_dry]
     tags = ios,android
     en = Semi-dry suit
     fr = Semi-étanche
+    es = semiseco
   [dive.suit.type.dry]
     tags = ios,android
     en = Dry suit
     fr = Sèche
+    es = Traje seco
 
 [[Dive - Edit Visibility]]
   [dive.visibility.nil]
     tags = ios,android
     en = HOW WAS\r\nTHE\r\nVISIBILITY?
     fr = COMMENT\r\nÉTAIT LA\r\nVISIBILITÉ ?
+    es = ¿COMO ESTABA LA VISIBILIDAD?
   [dive.visibility.0]
     tags = ios,android
     en = NONE
     fr = AUCUNE
+    es = NINGUNA
   [dive.visibility.1]
     tags = ios,android
     en = REDUCED
     fr = RÉDUITE
+    es = REDUCIDA
   [dive.visibility.2]
     tags = ios,android
     en = OK
     fr = BONNE
+    es = BUENA
   [dive.visibility.3]
     tags = ios,android
     en = GREAT
     fr = TRÈS BONNE
+    es = MUY BUENA
   [dive.visibility.4]
     tags = ios,android
     en = CRYSTAL\r\nCLEAR
     fr = CRISTALLINE
+    es = CRISTALINA
   [dive.visibility.0.si]
     tags = ios,android
     en = < 5 m
     fr = < 5 m
+    es = < 5 m
   [dive.visibility.1.si]
     tags = ios,android
     en = < 10 m
     fr = < 10 m
+    es = < 10 m
   [dive.visibility.2.si]
     tags = ios,android
     en = < 20 m
     fr = < 20 m
+    es = < 20 m
   [dive.visibility.3.si]
     tags = ios,android
     en = < 40 m
     fr = < 40 m
+    es = < 40 m
   [dive.visibility.4.si]
     tags = ios,android
     en = 40+ m
     fr = 40+ m
+    es = 40+ m
   [dive.visibility.0.us]
     tags = ios,android
     en = < 15 ft
     fr = < 15 ft
+    es = < 15 ft
   [dive.visibility.1.us]
     tags = ios,android
     en = < 30 ft
     fr = < 30 ft
+    es = < 30 ft
   [dive.visibility.2.us]
     tags = ios,android
     en = < 60 ft
     fr = < 60 ft
+    es = < 60 ft
   [dive.visibility.3.us]
     tags = ios,android
     en = < 130 ft
     fr = < 130 ft
+    es = < 130 ft
   [dive.visibility.4.us]
     tags = ios,android
     en = 130+ ft
     fr = 130+ ft
+    es = 130+ ft
 
 [[Dive - Edit - Temperatures]]
   [dive.temperatures.value]
     tags = ios,android
     en = %i°
     fr = %i°
+    es = %i°
 
 [[Dive - Edit - Conditions]]
   [dive.conditions.sunrise]
     tags = ios,android
     en = Sunrise
     fr = Aube
+    es = Amanecer
   [dive.conditions.day]
     tags = ios,android
     en = Day
     fr = Jour
+    es = Día
   [dive.conditions.sunset]
     tags = ios,android
     en = Sunset
     fr = Crépuscule
+    es = Atardecer
   [dive.conditions.night]
     tags = ios,android
     en = Night
     fr = Nuit
+    es = Noche
   [dive.conditions.altitude]
     tags = ios,android
     en = Altitude
     fr = Altitude
+    es = Altitud
   [dive.conditions.cave]
     tags = ios,android
     en = Cave
     fr = Cave
+    es = Cueva
   [dive.conditions.deep]
     tags = ios,android
     en = Deep
     fr = Profonde
+    es = Profunda
   [dive.conditions.drift]
     tags = ios,android
     en = Drift
     fr = Dérive
+    es = A la deriva
   [dive.conditions.ice]
     tags = ios,android
     en = Ice
     fr = Glace
+    es = Hielo
   [dive.conditions.opensea]
     tags = ios,android
     en = Open Sea
     fr = Pleine eau
+    es = Plena mar
   [dive.conditions.reef]
     tags = ios,android
     en = Reef
     fr = Récif
+    es = Arrecife
   [dive.conditions.muck]
     tags = ios,android
     en = Muck
     fr = Muck
+    es = Muck
   [dive.conditions.wall]
     tags = ios,android
     en = Wall
     fr = Tombant
+    es = Pared
   [dive.conditions.wreck]
     tags = ios,android
     en = Wreck
     fr = Épave
+    es = Barco hundido
 
 [[Assets/ImagePicker]]
   [imagePicker.title]
     tags = android
     en = Select or take a picture
     fr = Sélectionnez ou prenez une photo
+    es = Seleccione o tome una foto
   [imagePicker.addImage.take]
     tags = ios,android
     en = Take a Picture
     fr = Prendre une photo
+    es = Tomar una foto
   [imagePicker.addImage.select]
     tags = ios,android
     en = Use selection
     fr = Utiliser la sélection
+    es = Use la selección
   [imagePicker.addImage.library]
     tags = ios,android
     en = Import photos
     fr = Importer des photos
+    es = Importar fotos
   [imagePicker.addImage.assets]
     tags = ios,android
     en = Reuse photo
     fr = Réutiliser une photo
+    es = Reutilizar una foto
   [imagePicker.addImage.app_owner]
     tags = ios,android
     en = %@'s collection
     fr = Collection %@
+    es = Colección %@
   [imagePicker.addImage.guides]
     tags = ios,android
     en = Guides Photos
     fr = Photos de Guides
+    es = Fotos de Guías
   [imagePicker.empty.message]
     tags = ios,android
     en = All the photos you use in your logbooks will show up here
     fr = Toutes les photos que vous utilisez dans vos carnets apparaîtront ici
-
+    es = Todas las fotos utilizadas en sus libretas aparecerán aquí
 
 [[Note - Edit]]
   [note.menu.option.inspiration]
     tags = sb,ios,android
     en = Get inspired
     fr = Inspiration
+    es = Inspiración
   [note.menu.option.taxons]
     tags = sb,ios,android
     en = Add species
     fr = Ajouter espèce
+    es = Añadir especie
   [note.menu.option.photo]
     tags = sb,ios,android
     en = Add photo
     fr = Ajouter photo
+    es = Añadir foto
   [note.text.placeholder.default.trip]
     tags = ios,android
     en = What's on your mind?
     fr = Que s'est-il passé ?
+    es = ¿Qué ha pasado?
   [note.text.placeholder.default.dive]
     tags = ios,android
     en = What do you remember?
     fr = De quoi vous rappelez vous ?
+    es = ¿De qué se acuerda?
   [note.text.placeholder.newencounter.false]
     tags = ios,android
     en = Write about that encounter…
     fr = Racontez cette rencontre…
+    es = Cuéntenos su encuentro…
   [note.text.placeholder.newencounter.true]
     tags = ios,android
     en = Write about those encounters…
     fr = Racontez ces rencontres…
+    es = Cuéntenos estos encuentros…
   [note.text.placeholder.newimage.false]
     tags = ios,android
     en = Say something about this photo…
     fr = Commentez cette photo…
+    es = Coméntenos esta foto…
   [note.text.placeholder.newimage.true]
     tags = ios,android
     en = Say something about theses photos…
     fr = Commentez ces photos…
+    es = Coméntenos estas fotos…
   [note.tips.length.title]
     tags = ios,android
     en = Whale spotted!
     fr = Baleine en vue!
+    es = ¡Ballena a la vista!
   [note.tips.length.message]
     tags = ios,android
     en = For a nice logbook, create multiple notes rather than a single big one.
     fr = Pour un beau carnet, créez plusieurs notes plutôt qu'une seule énorme.
+    es = Para una libreta bonita, cree varias notas en lugar de una enorme.
   [note.tips.portraits.title]
     tags = ios,android
     en = About the photos
     fr = À propos des photos
+    es = Acerca de las fotos
   [note.tips.portraits.message]
     tags = ios,android
     en = We add the portraits of the species you identified, but you can replace them with your own!
     fr = Nous ajoutons les portraits des espèces que vous identifiez, mais vous pouvez les remplacer par les vôtres!
+    es = Agregamos retratos de las especies que identifica, pero ¡puede reemplazarlos por los suyos!
   [note.importance.casual]
     tags = ios,android
     en = Casual
     fr = Normal
+    es = Normal
   [note.importance.likable]
     tags = ios,android
     en = Nice
     fr = Sympa
+    es = Bonito
   [note.importance.memorable]
     tags = ios,android
     en = Memorable
     fr = Mémorable
+    es = Memorable 
   [note.importance.epic]
     tags = ios,android
     en = Epic!
     fr = Epique!
+    es = ¡Épico!
   [note.cancel.confirm.message]
     tags = ios,android
     en = All your changes will be lost.
     fr = Toutes vos modifications seront perdues.
+    es = Todas sus modificaciones serán perdidas.
   [inspiration.help]
     tags = ios,android
     en = Browse this list slowly and see if any title triggers your memory. \r\n\r\n Tap it to use the ready-made text as a starting point.
     fr = Lisez cette liste tranquillement et voyez si un titre ravive votre mémoire. \r\n\r\n Sélectionnez-le pour utiliser le texte pré-écrit comme point de départ.
+    es = Examine esta lista tranquilamente y mire si algun titulo le estimula su memoria. \r\n\n Selecciónelo para utilizar el texto pre-redactado como punto de partida.
 
 [[Encounter - Edit]]
   [encounter.header.how_many]
     tags = sb,ios,android
     en = How many did you see?
     fr = Combien en avez-vous vu ?
+    es = ¿Cuanto ha visto usted?
   [encounter.number.exact]
     tags = sb,ios,android
     en = Precisely
     fr = Exactement
+    es = Exactamente
   [encounter.number.or]
     tags = android
     en = or
     fr = ou
+    es = o
   [encounter.number.approx]
     tags = sb,ios,android
     en = Roughly
     fr = Environ
+    es = Más o menos
   [encounter.approx.nil]
     tags = ios,android
     en = Unknown number
     fr = Nombre inconnu
+    es = Número desconocido
   [encounter.approx.35]
     tags = ios,android
     en = Small school
     fr = Un petit banc
+    es = Un pequeño banco
   [encounter.approx.175]
     tags = ios,android
     en = Small schools
     fr = Des petits bancs
+    es = Pequeños bancos
   [encounter.approx.100]
     tags = ios,android
     en = School
     fr = Un Banc
+    es = Un banco
   [encounter.approx.500]
     tags = ios,android
     en = Schools
     fr = Des Bancs
+    es = Bancos
   [encounter.approx.1000]
     tags = ios,android
     en = Large school
     fr = Gros banc
+    es = Un banco grande
   [encounter.approx.5000]
     tags = ios,android
     en = Large schools
     fr = Des gros bancs
+    es = Grandes bancos
   [encounter.form.nickname.id.title.1]
     tags = ios,android
     en = Did you give it a nickname?
     fr = Lui avez-vous donné un surnom ?
+    es = ¿Le dió algun apodo?
   [encounter.form.nickname.id.title.n]
     tags = ios,android
     en = Did you give them a nickname?
     fr = Leur avez-vous donné des surnoms ?
+    es = ¿Le dió unos apodos?
   [encounter.form.nickname.placeholder.1]
     tags = ios,android
     en = Type its nickname
     fr = Entrez son petit nom
+    es = Indique su apodo
   [encounter.form.nickname.placeholder.n]
     tags = ios,android
     en = Type their nicknames
     fr = Entrez leurs petits noms
+    es = Indique sus apodos
   [encounter.form.nickname.unidentified]
     tags = android
     en = ProTip: didn't find the species in the database? Type its supposed name instead of a nickname.
     fr = Astuce: si vous n'avez pas trouvé l'espèce dans la base, saisissez son nom supposé au lieu du surnom.
+    es = Consejo: Si no ha encontrado la especie en la base de datos, introduzca el nombre supuesto en lugar del apodo. 
   [encounter.form.suggested_photos]
     tags = ios,android
     en = Available photos
     fr = Photos disponibles
+    es = Fotos disponibles
 
 [[Dive - Show]]
   [dive.show.header.parts]
     tags = ios,android
     en = Story
     fr = Récit
+    es = Historia
   [dive.parts.none]
     tags = ios,android
     en = No memories.
     fr = Aucun souvenir.
+    es = Ningún recuerdo.
   [dive.memberships.none]
     tags = ios,android
     en = None. Really?
     fr = Aucune. Vraiment?
+    es = Ningún. ¿De verdad?
   [dive.show.header.memberships]
     tags = ios,android
     en = Team
     fr = Équipe
+    es = Equipo
   [dive.show.header.params]
     tags = ios,android
     en = Parameters
     fr = Paramètres
+    es = Parametros
   [dive.show.edit.parts.label]
     tags = ios,android
     en = Notes
     fr = Notes
+    es = Notas
   [dive.detailLabel.air]
     tags = ios,android
     en = %@ > %@ %@\n\n%i%% O2, %i%% N2
     fr = %@ > %@ %@\n\n%i%% O2, %i%% N2
+    es = %@ > %@ %@\n\n%i%% O2, %i%% N2
   [dive.detailLabel.depth.max]
     tags = ios,android
     en = Max: %@
     fr = Max: %@
+    es = Max: %@
   [dive.detailLabel.depth.average]
     tags = ios,android
     en = Avg: %@
     fr = Moy: %@
+    es = Med: %@
   [dive.detailLabel.depth]
     tags = ios,android
     en = %@ %@
     fr = %@ %@
+    es = %@ %@
   [dive.detailLabel.duration]
     tags = ios,android
     en = %@ min
     fr = %@ min
+    es = %@ min
   [dive.detailLabel.weight]
     tags = ios,android
     en = %.1f%@
     fr = %.1f%@
+    es = %.1f%@
   [dive.detailLabel.temperatures]
     tags = ios,android
     en = Air: %@°\n\nSurface: %@°\n\nBottom: %@°
     fr = Air: %@°\n\nSurface: %@°\n\nFond: %@°
+    es = Air: %@°\n\nSurface: %@°\n\nBottom: %@°
   [dive.temperature.air]
     tags = ios,android
     en = AIR
     fr = AIR
+    es = AIRE
   [dive.temperature.surface]
     tags = ios,android
     en = SURFACE
     fr = SURFACE
+    es = SUPERFICIE
   [dive.temperature.bottom]
     tags = ios,android
     en = BOTTOM
     fr = FOND
+    es = FONDO
   [dive.survey.toolong.title]
     tags = ios,android
     en = You're a (sea) star!
     fr = Vous êtes une star!
+    es = ¡Usted es una estrella (de mar)!
   [dive.survey.toolong.message]
     tags = ios,android
     en = Was it too long? Would you like to be able to skip some steps sometimes?
     fr = Était-ce trop long ? Souhaiteriez-vous pouvoir sauter des étapes parfois ?
+    es = ¿Fue demasiado largo? ¿Le gustaría poder saltar unos pasos a veces?
   [dive.survey.toolong.answer.no]
     tags = ios,android
     en = No, that's fine
     fr = Non, ça va
+    es = No, está bien
   [dive.survey.toolong.answer.yes]
     tags = ios,android
     en = You bet!
     fr = Sûrement!
+    es = ¡Claro!
   [dive.survey.learnMore.title]
     tags = ios,android
     en = You could change it
     fr = Vous pourriez le modifier
+    es = Podría modificarlo
   [dive.survey.keepmeposted.title]
     tags = android
     en = It's coming!
     fr = Ca arrive!
+    es = ¡Pronto!
   [dive.survey.keepmeposted.message]
     tags = android
     en = Would you like to be notified when this feature is ready?
     fr = Souhaitez-vous être notifié(e) quand cette fonctionnalité sera disponible?
+    es = ¿Desea ser notificado(a) cuando esta funcionalidad será disponible?
   [dive.survey.keepmeposted.answer.no]
     tags = ios,android
     en = No, thanks
     fr = Non merci
+    es = No, gracias
   [dive.survey.keepmeposted.answer.yes]
     tags = ios,android
     en = Yes, please
     fr = Je veux bien
+    es = Si, por favor
 
 [[Trip]]
   [trip.delete]
