@@ -125,7 +125,7 @@
     tags = ios,android
     en = Contact us
     fr = Message
-    es = Contáctanos
+    es = Contáctenos
   [view_all]
     tags = ios,android
     en = View all
@@ -661,7 +661,7 @@
     tags = ios,android
     en = Edit anyway
     fr = Modifier quand même
-    es = Editar de todos modos XXXXX
+    es = Editar de todos modos
   [sync.editConfirmation.wait]
     tags = ios,android
     en = OK, I'll wait
@@ -711,7 +711,7 @@
     tags = android
     en = Network error
     fr = Erreur réseau
-    es = Error en la red  XXXXXXXX
+    es = Problema de red
   [error.network_error.message]
     tags = android
     en = Could not connect to the server. Please try again later.
@@ -907,12 +907,12 @@
     tags = android
     en = Login successful
     fr = Connexion réussie
-    es = Conexión on éxito XXXXXXXXXX
+    es = Conexión con éxito
   [signup.notice.success]
     tags = android
     en = Registration successful
     fr = Enregistrement réussi
-    es = Inscripción con éxito XXXXXXXXXX
+    es = Inscripción con éxito
 
 [[Shortcuts]]
   [shortcuts.Dive]
@@ -1041,12 +1041,12 @@
     tags = ios,android
     en = Guide Store
     fr = Guide Store
-    es = XXXXXXXXX
+    es = Guide Store
   [menu.more]
     tags = ios,android
     en = About & Contact
     fr = À propos & contact
-    es = XXXXX
+    es = Acerca de & Contacto
   [menu.signout.title]
     tags = ios,android
     en = Sign out?
@@ -1071,7 +1071,7 @@
     tags = sb,ios,android
     en = About
     fr = À propos
-    es = XXXXX
+    es = Acerca de
   [dive.rescue.alert.title]
     tags = ios,android
     en = Complete your dive
@@ -2931,612 +2931,759 @@
     tags = ios,android
     en = Delete this logbook
     fr = Supprimer ce carnet
+    es = Eliminar esta libreta
   [trip.untitled.title]
     tags = ios,android
     en = An untitled logbook
     fr = Un carnet sans titre
+    es = Una libreta sin título
   [trip.picker.from]
     tags = ios,android
     en = From
     fr = Du
+    es = Desde
   [trip.picker.till]
     tags = ios,android
     en = Until
     fr = Au
+    es = Hasta
   [trip.new.notitle.title]
     tags = android
     en = Please give a title to your logbook
     fr = Veuillez donner un titre à votre carnet
+    es = Por favor, dele un título a su libreta
   [trip.new.notitle.message]
     tags = android
     en = Give it the name of your trip, you can use your destination, the name of a particular species you saw, …
     fr = Donnez lui le nom de votre voyage, vous pouvez utiliser votre destination ou le nom d'une espèce particulières que vous avez rencontrée, …
+    es = Dele el nombre de su viaje, puede utilizar su destino o el nombre de una especie particular que ha observado, …
   [trip.creation.error]
     tags = android
     en = Sorry, an error happened while creating your logbook
     fr = Désolé, une erreur s'est produite durant la création de votre carnet
+    es = Lo sentimos, un error se produjo durante la creación de su libreta
   [trips.empty.message]
     tags = ios,android
     en = You can create as many diving logbooks as you wish.\n\nHere are some ideas for titles:\n"Dugongs in Coron"\n"A Week-end in Marseille"\n"Open Water Course"\n"Scans of my paper logbooks"
     fr = Vous pouvez créer autant de carnets de plongées que vous le souhaitez.\n\nVoici quelques idées de titres :\n"Des Dugongs à Coron"\n"Un Week-end à Marseille"\n"Cours niveau 1"\n"Photos de mes carnets papiers"
+    es = Puede crear tantas libretas como desea.\n\nAquí algunas ideas de títulos:\n"Dugongs en Coron"\n"Fin de semana en l'Estartit"\n"Curso de Open Water\n"Fotos de mis libretas de papel"
   [tripview.menu.existingdive]
     tags = ios,android
     en = Add existing dive
     fr = Lier une plongée existante
+    es = Vincular con una inmersión existente
   [tripview.menu.share]
     tags = ios,android
     en = Share
     fr = Partager
+    es = Compartir
   [tripview.menu.shortcuts]
     tags = ios,android
     en = Add to shortcuts
     fr = Ajouter aux raccourcis
+    es = Añadir a los accesos directos
   [tripview.menu.duplicate]
     tags = ios,android
     en = Duplicate
     fr = Dupliquer
+    es = Duplicar
   [tripview.menu.delete]
     tags = ios,android
     en = Delete this logbook
     fr = Supprimer ce carnet
+    es = Eliminar esta libreta
   [tripview.delete.message]
     tags = ios,android
     en = This logbook will definitely be removed.
     fr = Ce carnet sera définitivement supprimé.
+    es = Esta libreta será definitivamente eliminada.
   [trip.noteMediaCell.menu.show]
     tags = ios,android
     en = Show note
     fr = Voir note
+    es = Ver nota
   [trip.parts.delete.dive.message.soft]
     tags = ios,android
     en = This dive will removed from this logbook.
     fr = Cette plongée sera supprimée de ce carnet.
+    es = Esta inmersión será eliminada de su libreta.
   [trip.parts.delete.dive.message]
     tags = ios,android
     en = This dive will both be removed from this logbook and deleted.
     fr = Cette plongée sera à la fois supprimée de ce carnet et effacée.
+    es = Esta inmersión será a la vez eliminada de su libreta y borrada.
   [trip.parts.delete.note.message]
     tags = ios,android
     en = This note will be sent to the abyss, there's no going back.
     fr = Cette note sera envoyée dans les abysses, définitivement.
+    es = Esta nota será enviada en el abismo, definitivamente.
   [trip.parts.delete.signature.message]
     tags = ios,android
     en = This signature will be removed, ciao.
     fr = Cette signature sera supprimée, ciao.
+    es = Este firma será suprimida, ciao.
   [trip.parts.delete.confirm.tripOnly]
     tags = ios,android
     en = Remove from this logbook
     fr = Supprimer de ce carnet
+    es = Eliminar esta libreta.
   [trip.parts.delete.confirm.doDelete]
     tags = ios,android
     en = Remove and delete dive
     fr = Supprimer et effacer la plongée
+    es = Eliminar y borrar este inmersión
 
 [[Trip - DiveCell]]
   [divecell.units.time]
     tags = ios,android
     en = ENTRY
     fr = ENTRÉE
+    es = ENTRADA
   [divecell.units.duration]
     tags = ios,android
     en = MIN
     fr = MIN
+    es = MIN
   [divecell.units.distance.si]
     tags = ios,android
     en = M
     fr = M
+    es = M
   [divecell.units.distance.us]
     tags = ios,android
     en = Ft
     fr = Ft
+    es = Ft
   [divecell.units.weight.si]
     tags = ios,android
     en = KG
     fr = KG
+    es = KG
   [divecell.units.weight.us]
     tags = ios,android
     en = LB
     fr = LB
+    es = LB
   [divecell.units.burnrate.si]
     tags = ios,android
     en = L/min
     fr = L/min
+    es = L/min
   [divecell.units.burnrate.us]
     tags = ios,android
     en = L/min
     fr = L/min
+    es = L/min
 
 [[Trip - NoteCell]]
   [notecell.empty]
     tags = ios,android
     en = New note
     fr = Nouvelle note
+    es = Nueva nota
 
 [[Trip - SignatureCell]]
   [signaturecell.details.dive.number]
     tags = ios,android
     en = %i dive
     fr = %i plongée
+    es = %i inmersión
   [signaturecell.details.dive.time]
     tags = ios,android
     en = %i min
     fr = %i min
+    es = %i min
   [signaturecell.details.dive.depth.si]
     tags = ios,android
     en = %.1f m
     fr = %.1f m
+    es = %.1f m
   [signaturecell.details.dive.depth.us]
     tags = ios,android
     en = %.1f ft
     fr = %.1f ft
+    es = %.1f ft
 
 [[Sites]]
   [site.dives]
     tags = ios,android
     en = Dives at this site
     fr = Plongées sur ce site
+    es = Inmersiones sobre este sitio
   [site.location.area.placeholder]
     tags = ios,android
     en = Country or region?
     fr = Pays ou région?
+    es = ¿País o región?
   [site.location.area.by_country]
     tags = ios,android
     en = By country
     fr = Par pays
+    es = Por país
   [site.location.area.by_distance]
     tags = ios,android
     en = By distance
     fr = Par distance
+    es = Por distancia
   [site.location.dropHint]
     tags = ios,android
     en = Tap the map if you know the exact location
     fr = Touchez la carte si vous savez le localiser
+    es = Toque el mapa si quiere ubicarlo
   [site.location.near]
     tags = android
     en = Region: %@
     fr = Région: %@
+    es = Región: %@
   [site.location.maps_service_denied]
     tags = android
     en = You must have Google Play Service installed on your device.
     fr = Vous devez installer Google Play Service sur votre appareil pour afficher la carte.
+    es = Tiene que instalar Google Play Service en su dispositivo para mostrar el mapa.
   [site.location.gpsdenied.title]
     tags = ios,android
     en = GPS unavailable
     fr = GPS non disponible
+    es = GPS no disponible
   [site.location.gpsdenied.message]
     tags = ios,android
     en = You did not allow the app to access your location (you can change that in Settings > Privacy > Location Services).
     fr = Le GPS ne peut vous localiser ou vous n'avez pas autorisé cette app à vous géolocaliser (vous pouvez changer celà dans Réglages > Confidentialité > Service de localisation).
+    es = El GPS no puede localizarle o no ha autorizado esta aplicacion a geolocalizarle (lo puede cambiar en Ajustes > Privacidad > Localización)
   [site.location.notfound.title]
     tags = ios,android
     en = Location not found
     fr = Position non trouvée
+    es = Ubicación no encontrada
   [site.location.notfound.message]
     tags = ios,android
     en = It's alright, just move the map and tap to drop a pin, enter coordinates manually, or skip that and it later.
     fr = Ce n'est pas grave, déplacez simplement la carte et tapotez pour placer un marqueur, saisissez les coordonnées manuellement, ou faites celà plus tard.
+    es = No es grave, simplemente desplace el mapa y toque para poner un marcador, entre las coordenadas manualmente, o déjelo para má tarde.
   [site.location.nointernet.title]
     tags = ios,android
     en = No internet connection
     fr = Pas de connexion internet
+    es = No hay conexión internet
   [site.location.nointernet.message]
     tags = ios,android
     en = Good to know: the GPS might still be able to pinpoint your location even though you can't see the map.
     fr = Bon à savoir: même si la carte ne s'affiche pas, le GPS peut parfois trouver vos coordonnées.
+    es = Conviene saberlo: el GPS puede encontrar su ubicación aunque no se muestre en el mapa.
   [site.location.dragme]
     tags = ios,android
     en = Drag me
     fr = Déplacez moi
+    es = Despláceme 
   [site.location.taptodrop]
     tags = ios,android
     en = (or tap the map to drop a new pin)
     fr = (ou tapotez la carte pour placer un marqueur)
+    es = (o toque el mapa para poner un marcador)
   [site.area.header]
     tags = ios,android
     en = Known areas by distance
     fr = Régions connues par proximité
+    es = Regiones conocidas por distancia
   [site.delete.confirm.message]
     tags = ios,android
     en = Do you really want to remove this site?
     fr = Voulez-vous vraiment supprimer ce site ?
+    es = ¿De verdad quiere eliminar este sitio?
 
 [[Site - Show]]
   [site.name]
     tags = ios,android
     en = Name
     fr = Nom
+    es = Nombre
   [site.gps]
     tags = ios,android
     en = GPS
     fr = GPS
+    es = GPS
   [site.country]
     tags = ios,android
     en = Country
     fr = Pays
+    es = País
   [site.region]
     tags = ios,android
     en = Region
     fr = Région
+    es = Región
   [site.timezone]
     tags = ios,android
     en = Timezone
     fr = Fuseau
+    es = Zona horaria
 
 [[Species]]
   [species.tap.tooltip]
     tags = ios,android
     en = Hold or pinch to zoom
     fr = Maintenez appuyé zoomer
+    es = xxxxxxxxxx
   [species.search.placeholder]
     tags = ios,android
     en = Search
     fr = Rechercher
+    es = Buscar
   [species.collection.headerTitle.illustratedOnly]
     tags = ios,android
     en = %@ (with photos)
     fr = %@ (avec photo)
+    es = %@ (con fotos)
   [species.picker.emptyBasket]
     tags = ios,android
     en = Select all the species you wan't to add to your note and they will show up here.\r\b\r\nTip: your logbook will look nicer if you add only 2 or 3 species per note.
     fr = Sélectionnez toutes les espèces que vous voulez ajouter à votre note et elles apparaitront ici.\r\b\r\nAstuce: votre carnet sera plus joli si vous n'ajoutez que 2 à 3 espèces par note.
+    es = Seleccione todas las especies que quiere agregar a su nota y aparecerán aquí. \r\b\nConsejo: su libreta será más bonita si añade solamente 2 o 3 especies por nota.
   [species.search.noResult]
     tags = ios,android
     en = No match found. Scientific names are more likely to return results.
     fr = Aucun résultat. Les noms scientifiques sont plus susceptibles de retourner des résultats.
+    es = Ningún resultado. Los nombres científicos son mas susceptibles de devolver resultados.
   [species.moreresults]
     tags = ios,android
     en = All results
     fr = Tous les resultats
+    es = Todos los resultados
   [species.results.title.scoped]
     tags = ios,android
     en = %i results in %@
     fr = %i résultats dans %@
+    es = %i resultados en %@
   [species.results.title.all]
     tags = ios,android
     en = %i total results
     fr = %i résultats au total
+    es = %i resultados en total
 
 [[Signature]]
   [signature.new.title]
     tags = sb,ios,android
     en = Who will sign?
     fr = Qui va signer?
+    es = ¿Quien va a firmar?
   [signature.new.sign.hint]
     tags = sb,ios,android
     en = Sign below… or draw a fish!
     fr = Signez ci-dessous… ou dessinez un poisson!
+    es = Firme abajo… ¡o dibuje un pez!
   [signature.new.dives.title]
     tags = sb,ios,android
     en = Which dives?
     fr = Quelles plongées ?
+    es = ¡Cuales inmersiones?
   [signature.buddies.headers.0]
     tags = ios,android
     en = Pending signatures
     fr = Signatures en attente
+    es = Firmas en espera
   [signature.buddies.headers.1]
     tags = ios,android
     en = Other buddies
     fr = Autres contacts
+    es = Otros contactos
   [signatures.buddies.cell.pending]
     tags = ios,android
     en = %d unsigned dives
     fr = %d plongées non signées
+    es = %d inmersiones no firmadas
   [signature.dives.headers.0]
     tags = ios,android
     en = Related dives
     fr = Plongées associées
+    es = Inmersiones relacionadas
   [signature.dives.headers.1]
     tags = ios,android
     en = Other dives
     fr = Autres plongées
+    es = Otras inmersiones
   [signature.stampname]
     tags = ios,android
     en = stamp-picture-en
     fr = stamp-picture-fr
+    es = stamp-picture-es
   [signature.signhere]
     tags = ios,android
     en = Sign here
     fr = Signez ici
+    es = Firme aquí
   [signature.text.placeholder]
     tags = ios,android
     en = Would %@ care to add a few words?
     fr = Est-ce que %@ souhaiterait vous écrire quelques mots ?
+    es = ¿Le gustaría que %@ le añada unas palabras?
   [signature.text.empty]
     tags = ios,android
     en = No particular notes.
     fr = Pas de message particulier.
+    es = Ningún mensaje particular.
   [signature.dives.headerTitle.1]
     tags = ios,android
     en = Referred dive
     fr = Plongée visée
+    es = Inmersión firmada
   [signature.dives.headerTitle.n]
     tags = ios,android
     en = Referred dives
     fr = Plongées visées
+    es = Inmersiones firmadas
   [signature.trash.confirm.message]
     tags = ios,android
     en = This stamp/signature will be removed, as it never existed.
     fr = Ce tampon/signature sera supprimé, comme s'il n'avait jamais existé.
+    es = Este sello/firma será eliminado, como si nunca hubiera existido.
 
 [[SARate - Rating prompt]]
   [SARate.headerLabelText]
     tags = ios,android
     en = Hey
     fr = Hey
+    es = He
   [SARate.descriptionLabelText]
     tags = ios,android
     en = How much do you like this version of %@?
     fr = Que pensez-vous de cette version de %@?
+    es = ¿Que piense usted de esta versión de %@?
   [SARate.rateButtonLabelText]
     tags = ios,android
     en = Rate
     fr = Noter
+    es = Evaluar
   [SARate.cancelButtonLabelText]
     tags = ios,android
     en = Not Now
     fr = Plus tard
+    es = Más tarde
   [SARate.setRatingAlertTitle]
     tags = ios,android
     en = 0, really?
     fr = 0, vraiment ?
+    es = 0, ¿de verdad?
   [SARate.setRatingAlertMessage]
     tags = ios,android
     en = Did you mean to rate it 0 stars? If not, just press OK and touch the stars you feel we deserve.
     fr = Ce 0 est-il volontaire ? Sinon, appuyez sur OK et sélectionnez le nombre d'étoiles qui vous semble juste.
+    es = ¿Este 0 es voluntario? Si no, dele a OK y seleccione el número de estrellas que le parece justo.
   [SARate.setRatingAlertConfirm]
     tags = ios,android
     en = I meant it
     fr = Vraiment
+    es = De verdad
   [SARate.appstoreRatingAlertTitle]
     tags = ios,android
     en = Could you please help us?
     fr = Pourriez-vous nous aider ?
+    es = ¿Nos podría ayudar?
   [SARate.appstoreRatingAlertMessage]
     tags = ios,android
     en = Would you mind taking a moment to share your satisfaction on the AppStore? This can be done for each new version of the app, and it means a lot to us!
     fr = Accepteriez-vous de prendre un moment pour partager votre satisfaction sur l'AppStore ? Vous pouvez le faire à chaque nouvelle version, c'est très important pour nous!
+    es = ¿Aceptaría tomar un rato para compartir su satsfacción en el AppStore? Lo puede hacer con cada nueva versión, ¡es muy importante para nosotros!
   [SARate.appstoreRatingCancel]
     tags = ios,android
     en = Nope
     fr = Non
+    es = No
   [SARate.appstoreRatingButton]
     tags = ios,android
     en = Sure!
     fr = Bien sûr!
+    es = ¡Claro!
   [SARate.disadvantagesAlertTitle]
     tags = ios,android
     en = Please tell us what is bothering you.
     fr = Dîtes nous ce qui vous déplaît
+    es = Díganos que es lo que no le gusta. 
   [SARate.disadvantagesAlertMessage]
     tags = ios,android
     en = We'll do our best to address it in the next update!
     fr = Nous ferons de notre mieux pour y pallier d'ici la prochaine mise à jour!
+    es = ¡Haremos todo lo que podamos para solucionarlo en la próxima actualización!
   [SARate.emailErrorAlertTitle]
     tags = ios,android
     en = Email error
     fr = Erreur
+    es = Error de correo
   [SARate.emailErrorAlertText]
     tags = ios,android
     en = Bummer. It's OK: you can still use the feedback button in the Settings.
     fr = Mince. Ce n'est pas grave: vous pouvez utiliser le bouton de feedback dans les Réglages.
+    es = ¡xxxxxxMiercolés! No es grave : puede utilizar el botón de feeback en los Ajustes.
   [SARate.okText]
     tags = ios,android
     en = OK
     fr = OK
+    es = OK
 
 [[App Owner]]
   [ao.menu.section.news]
     tags = ios,android
     en = Keep in touch
     fr = Gardons le contact
+    es = Mantengamos contacto
   [ao.menu.section.diving]
     tags = ios,android
     en = Diving with us
     fr = Plonger avec nous
+    es = Bucear con nosotros
   [ao.menu.section.contact]
     tags = ios,android
     en = Learn more
     fr = Plus d'infos
+    es = Más información
   [ao.menu.news]
     tags = ios,android
     en = Latest News
     fr = Dernières News
+    es = Ultimas noticias
   [ao.menu.logbooks]
     tags = ios,android
     en = Selected logbooks
     fr = Sélection de carnets
+    es = Selección de libretas
   [ao.menu.species]
     tags = ios,android
     en = Usual suspects
     fr = Usual suspects
+    es = Usual suspects
   [ao.menu.photos]
     tags = ios,android
     en = Photos pack
     fr = Collection de photos
+    es = Colección de fotos
   [ao.menu.sites]
     tags = ios,android
     en = Dive sites
     fr = Sites de plongée
+    es = Sitios de buceo
   [ao.menu.pricelist]
     tags = ios,android
     en = Price list
     fr = Grille tarifaire
+    es = Lista de precios
   [ao.menu.about]
     tags = ios,android
     en = About
     fr = À propos
+    es = Acerca de
   [ao.menu.crew]
     tags = ios,android
     en = Our crew
     fr = Notre équipe
+    es = Nuestro equipo
   [ao.menu.contact]
     tags = ios,android
     en = Contact us!
     fr = Contactez-nous!
+    es = Contáctenos !
 
 [[AppOwner]]
   [app_owner.loading]
     tags = ios,android
     en = Gathering all the fish…
     fr = Rassemblement des poissons…
+    es = Reuniendo todos los peces…
   [app_owner.loading_comment]
     tags = ios,android
     en = …some were on holiday
     fr = …certains étaient en vacances
+    es = …algunos andaban de vacciones
 
 [[Classification Nodes]]
   [classification.mammals]
     tags = ios,android
     en = Mammals
     fr = Mammifères
+    es = Mamíferos
   [classification.reptiles]
     tags = ios,android
     en = Reptiles
     fr = Reptiles
+    es = Reptiles
   [classification.fishes]
     tags = ios,android
     en = Fishes
     fr = Poissons
+    es = Peces 
   [classification.sharks rays]
     tags = ios,android
     en = Sharks & Rays
     fr = Requins & Raies
+    es = Tiburones & Rayas
   [classification.nudibranchs]
     tags = ios,android
     en = Nudibranchs
     fr = Nudibranches
+    es = Nudibranquios
   [classification.worms]
     tags = ios,android
     en = Worms
     fr = Vers
+    es = Gusanos
   [classification.octopi squids]
     tags = ios,android
     en = Octopuses & Squids
     fr = Poulpes & Calamars
+    es = Pulpos y Calamares
   [classification.cope isopods]
     tags = ios,android
     en = Copepods & Isopods
     fr = Copépodes & Isopodes
+    es = Copépodos & Isópodos
   [classification.crabs lobsters]
     tags = ios,android
     en = Crabs & Lobsters (crawl)
     fr = Crabes & Langoustes (rampant)
+    es = Cangrejos & Langostas (suelo)
   [classification.shrimps family]
     tags = ios,android
     en = Shrimps (swim)
     fr = Crevettes (non rampant)
+    es = Camarón (nadando)
   [classification.shells]
     tags = ios,android
     en = Shells
     fr = Coquillages
+    es = Conchas
   [classification.corals sponges]
     tags = ios,android
     en = Corals & Sponges
     fr = Coraux & Eponges
+    es = Corales & Esponjas
   [classification.jellys]
     tags = ios,android
     en = Jellyfishes
     fr = Méduses
+    es = Medusas
   [classification.stars cucumbers]
     tags = ios,android
     en = Stars & Cucumbers
     fr = Etoiles & Concombres
+    es = Estrellas & Pepinos
   [classification.symbiosis]
     tags = ios,android
     en = Symbiosis & Parasites
     fr = Symbiosis & Parasites
+    es = Simbiosis & Parásitos
   [classification.sea cows]
     tags = ios,android
     en = Sea Cows
     fr = Vaches de mer
+    es = Manatíes
   [classification.whales]
     tags = ios,android
     en = Whales
     fr = Baleines
+    es = Ballenas
   [classification.beluga]
     tags = ios,android
     en = Belugas
     fr = Belugas
+    es = Belugas
   [classification.narwhal]
     tags = ios,android
     en = Narwhals
     fr = Narvals
+    es = Narvales
   [classification.killer whale]
     tags = ios,android
     en = Killer Whales
     fr = Orques
+    es = Orcas
   [classification.dolphins]
     tags = ios,android
     en = Dolphins
     fr = Dauphins
+    es = Delfines
   [classification.turtles]
     tags = ios,android
     en = Turtles
     fr = Tortues
+    es = Tortugas
   [classification.snakes]
     tags = ios,android
     en = Snakes
     fr = Serpents
+    es = Serpientes
   [classification.varanus]
     tags = ios,android
     en = Varanus
     fr = Varans
+    es = Varanos
   [classification.squircles]
     tags = ios,android
     en = Squircle shaped (Rounded square)
     fr = Forme carré arrondi
+    es = Forma cuadrada redonda
   [classification.butterflyfishes]
     tags = ios,android
     en = Butterflyfishes
     fr = Poissons papillons
+    es = Peces mariposas
   [classification.angelfishes]
     tags = ios,android
     en = Angelfishes
     fr = Poissons anges
+    es = Peces ángeles 
   [classification.rabbitfishes]
     tags = ios,android
     en = Rabbitfishes
     fr = Poissons lapins
+    es = Peces conejos
   [classification.sailfin snappers]
     tags = ios,android
     en = Sailfin snappers
     fr = Symphorichthys spilurus
+    es = Symphorichthys spilurus
   [classification.scats]
     tags = ios,android
     en = Scats
     fr = Scats
+    es = Scats
   [classification.triangles]
     tags = ios,android
     en = Triangle shaped
     fr = Triangles
+    es = Triángulos
   [classification.bannerfishes]
     tags = ios,android
     en = Bannerfishes
     fr = Poissons cochers
+    es = Peces estandartes
   [classification.spadefishes]
     tags = ios,android
     en = Spadefishes
     fr = Platax
+    es = Platax XXXXX
   [classification.moorish idols]
     tags = ios,android
     en = Moorish idols
     fr = Idoles maure
+    es = Idolos moros
   [classification.large ovals]
     tags = ios,android
     en = Large Ovals
     fr = Grands ovals
+    es = Grandes ovalados
   [classification.surgeonfishes]
     tags = ios,android
     en = Surgeonfishes
     fr = Poissons chirurgiens
+    es = Peces cirujanos 
   [classification.parrotfishes]
     tags = ios,android
     en = Parrotfishes
     fr = Poissons perroquets
+    es = Peces loros
   [classification.small squircles ovals]
     tags = ios,android
     en = Small Squircles/Ovals
     fr = Petits carré arrondi ou oval
+    es = Pequeños cuadrado, redondos u ovalados
   [classification.damselfishes]
     tags = ios,android
     en = Damselfishes
