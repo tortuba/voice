@@ -3688,254 +3688,317 @@
     tags = ios,android
     en = Damselfishes
     fr = Poissons Demoiselles
+    es = Peces Damiselas
   [classification.pineconefishes]
     tags = ios,android
     en = Pineconefishes
     fr = Monocentridae
+    es = Peces Piña
   [classification.sweepers]
     tags = ios,android
     en = Sweepers
     fr = Poissons hachette
+    es = Barrenderos
   [classification.large big eyes]
     tags = ios,android
     en = Large Big Eyes
     fr = Gros poissons à grands yeux
+    es = Peces gordos de ojos grandes xxxxxxxxxxxxx
   [classification.soldierfishes]
     tags = ios,android
     en = Soldierfishes
     fr = Poissons soldats
+    es = Candiles
   [classification.squirrelfishes]
     tags = ios,android
     en = Squirrelfishes
     fr = Poissons écureuils
+    es = Carajuelos
   [classification.bigeyes]
     tags = ios,android
     en = Big Eyes
     fr = Grands yeux
+    es = Ojos grandes
   [classification.flashlightfishes]
     tags = ios,android
     en = Flashlightfishes
     fr = Poissons phares
+    es = Peces Ojos de linterna
   [classification.small big eyes]
     tags = ios,android
     en = Small Big Eyes
     fr = Petits poissons à grands yeux
+    es = Pequeños peces de ojos grandes
   [classification.cardinalfishes]
     tags = ios,android
     en = Cardinalfishes
     fr = Apogons
+    es = Apogones
   [classification.sloping heads tapered bodies]
     tags = ios,android
     en = Sloping Heads/Tapered Bodies
     fr = Fronts inclinés / Corps effilés
+    es = Frentes inclinadas / Cuerpos cónicos
   [classification.snappers]
     tags = ios,android
     en = Snappers
     fr = Vivaneaux
+    es = Pargos
   [classification.coral breams]
     tags = ios,android
     en = Coral Breams
     fr = Nemipteridae
+    es = Nemipteridae
   [classification.emperors]
     tags = ios,android
     en = Emperors
     fr = Empereurs
+    es = Emperadores
   [classification.seabreams]
     tags = ios,android
     en = Sea Breams
     fr = Daurades
+    es = Doradas
   [classification.sloping heads large lips]
     tags = ios,android
     en = Sloping Heads / Large Lips
     fr = Fronts inclinés / Larges lèvres
+    es = Frentes inclinadas / Labios grandes
   [classification.grouper]
     tags = ios,android
     en = Grouper
     fr = Mérous
+    es = Meros
   [classification.soapfish]
     tags = ios,android
     en = Soapfish
     fr = Savonettes
+    es = Peces Sapos
   [classification.false scorpionfish]
     tags = ios,android
     en = False Scorpionfish
     fr = Faux poissons scorpions
+    es = Peces Escorpiones falsos
   [classification.sweetlips]
     tags = ios,android
     en = Sweetlips
     fr = Gaterins / Diagrammes
+    es = Plectorhinchus
   [classification.silvery]
     tags = ios,android
     en = Silvery
     fr = Argentés
+    es = Plateados
   [classification.dolphinfishes]
     tags = ios,android
     en = Dolphinfishes
     fr = Mahi-Mahi
+    es = Dorados
   [classification.molas]
     tags = ios,android
     en = Molas
     fr = Poissons Lune
+    es = Peces Luna
   [classification.jacks]
     tags = ios,android
     en = Jacks
     fr = Carangues
+    es = Carangidae
   [classification.barracudas]
     tags = ios,android
     en = Barracudas
     fr = Barracudas
+    es = Barracudas
   [classification.tunas mackerels]
     tags = ios,android
     en = Tunas & Mackerels
     fr = Thons & Maquereaux
+    es = Tunas & Caballas 
   [classification.chubs]
     tags = ios,android
     en = Chubs
     fr = Saupes
+    es = Salpas
   [classification.mullets]
     tags = ios,android
     en = Mullets
     fr = Mulets
+    es = Lisas
   [classification.threadfins]
     tags = ios,android
     en = Threadfins
     fr = Alectis
+    es = Barbudos
   [classification.snooks]
     tags = ios,android
     en = Snooks
     fr = Brochets
+    es = Lucios
   [classification.grunters]
     tags = ios,android
     en = Grunters
     fr = Terapontidae
+    es = Terapontidae
   [classification.tarpons]
     tags = ios,android
     en = Tarpons
     fr = Megalops
+    es = Tarpones
   [classification.diamondfishes]
     tags = ios,android
     en = Diamondfishes
     fr = Poissons Lune
+    es = Escalares
   [classification.needlefishes]
     tags = ios,android
     en = Needlefishes
     fr = Aiguilles de mer
+    es = Agujas de mar
   [classification.halfbeaks]
     tags = ios,android
     en = Halfbeaks
     fr = Hemiramphidae
+    es = Mediopicos
   [classification.archerfishes]
     tags = ios,android
     en = Archerfishes
     fr = Poissons Archers
+    es = Peces Arqueros
   [classification.mojarras]
     tags = ios,android
     en = Mojarras
     fr = Gerreidae
+    es = Mojarras
   [classification.flagtails]
     tags = ios,android
     en = Flagtails
     fr = Kuhliidae
+    es = Kuhlias
   [classification.pearl-perches]
     tags = ios,android
     en = Pearl-perch
     fr = Glaucosoma
+    es = Perca Perlada
   [classification.ponyfishes]
     tags = ios,android
     en = Ponyfishes
     fr = Leiognathidae
+    es = Leiognathidae 
   [classification.silversides]
     tags = ios,android
     en = Silversides
     fr = Atheriniformes
+    es = Atheriniformes 
   [classification.small schoolers]
     tags = ios,android
     en = Small Schoolers
     fr = Petits poissons en bancs
+    es = Pequeños peces en bancos
   [classification.fusiliers]
     tags = ios,android
     en = Fusiliers
     fr = Fusiliers
+    es = Fusileros
   [classification.anthias]
     tags = ios,android
     en = Anthias
     fr = Anthias
+    es = Anthias
   [classification.glassfishes]
     tags = ios,android
     en = Glassfishes
     fr = Ambassidae
+    es = Peces de cristal
   [classification.wrasses]
     tags = ios,android
     en = Wrasses
     fr = Labres
+    es = Lábridos
   [classification.swimming sand coral dwellers]
     tags = ios,android
     en = Swimming Sand & Coral Dwellers
     fr = Résidents du sable et des coraux (nageurs)
+    es = Habitantes de la arena y del coral (nadadores)
   [classification.basslets]
     tags = ios,android
     en = Basslets
     fr = Liopropomatinae
+    es = Liopropomatinae
   [classification.dottybacks]
     tags = ios,android
     en = Dottybacks
     fr = Pseudochromidae
+    es = Pseudochromidae
   [classification.devilfishes]
     tags = ios,android
     en = Devilfishes
     fr = Plesopidae
+    es = Plesopidae
   [classification.dartfishes]
     tags = ios,android
     en = Dartfishes
     fr = Ptereleotridae
+    es = Ptereleotridae
   [classification.wormfishes]
     tags = ios,android
     en = Wormfishes
     fr = Microdesmidae
+    es = Peces-lombriz
   [classification.bandfishes]
     tags = ios,android
     en = Bandfishes
     fr = Cepolidae
+    es = Cepólidos
   [classification.convict blennies]
     tags = ios,android
     en = Convict Blennies
     fr = Pholidichthys leucotaenia
+    es = Pholidichthys leucotaenia
   [classification.tilefishes]
     tags = ios,android
     en = Tilefishes
     fr = Malacanthes
+    es = Blanquillos
   [classification.sitting sand coral dwellers]
     tags = ios,android
     en = Sitting Sand & Coral Dwellers
     fr = Résidents du sable et des coraux (posés)
+    es = Habitantes de la arena y del coral (fondo)
   [classification.gobies]
     tags = ios,android
     en = Gobies
     fr = Gobies
+    es = Gobios
   [classification.blennies]
     tags = ios,android
     en = Blennies
     fr = Blennies
+    es = Blénidos
   [classification.sleepers]
     tags = ios,android
     en = Sleepers
     fr = Eleotridae
+    es = Guavinas
   [classification.dragonets]
     tags = ios,android
     en = Dragonets
     fr = Dragonnets
+    es = Dragoncitos
   [classification.brotulas]
     tags = ios,android
     en = Brotulas
     fr = Brotulas
+    es = Brotulas
   [classification.triplefins]
     tags = ios,android
     en = Triplefins
     fr = Tripterygions
+    es = Blénidos trescolas 
   [classification.clingfishes]
     tags = ios,android
     en = Clingfishes
     fr = Portes-ecuelles
+    es = Gobiesocidae
   [classification.sand divers]
     tags = ios,android
     en = Sand Divers
