@@ -3223,7 +3223,7 @@
     tags = ios,android
     en = Hold or pinch to zoom
     fr = Maintenez appuyé zoomer
-    es = xxxxxxxxxx
+    es = Apretar o pinchar para hacer zoom
   [species.search.placeholder]
     tags = ios,android
     en = Search
@@ -3412,7 +3412,7 @@
     tags = ios,android
     en = Bummer. It's OK: you can still use the feedback button in the Settings.
     fr = Mince. Ce n'est pas grave: vous pouvez utiliser le bouton de feedback dans les Réglages.
-    es = ¡xxxxxxMiercolés! No es grave : puede utilizar el botón de feeback en los Ajustes.
+    es = ¡Miercolés! No es grave : puede utilizar el botón de feeback en los Ajustes.
   [SARate.okText]
     tags = ios,android
     en = OK
@@ -3658,7 +3658,7 @@
     tags = ios,android
     en = Spadefishes
     fr = Platax
-    es = Platax XXXXX
+    es = Platax
   [classification.moorish idols]
     tags = ios,android
     en = Moorish idols
@@ -3703,7 +3703,7 @@
     tags = ios,android
     en = Large Big Eyes
     fr = Gros poissons à grands yeux
-    es = Peces gordos de ojos grandes xxxxxxxxxxxxx
+    es = Peces gordos de ojos grandes
   [classification.soldierfishes]
     tags = ios,android
     en = Soldierfishes
@@ -4579,256 +4579,319 @@
     tags = ios,android
     en = Barnacles
     fr = Cirripèdes
+    es = Cirrípedos
   [classification.bivalves]
     tags = ios,android
     en = Bivalves
     fr = Bivalves
+    es = Bivalvos
   [classification.sponges]
     tags = ios,android
     en = Sponges
     fr = Éponges
+    es = Esponjas
   [classification.crinoids]
     tags = ios,android
     en = Crinoids
     fr = Crinoïdes
+    es = Crinoidos
   [classification.x-mas tree worms]
     tags = ios,android
     en = X-Mas Tree Worms
     fr = Spirobranches/Arbres de Noël
+    es = Gusano árbol de Navidad
   [classification.feather]
     tags = ios,android
     en = Feather
     fr = Comatules
+    es = Comatulidae
   [classification.soft coral]
     tags = ios,android
     en = Soft Coral
     fr = Coraux mous
+    es = Corales blandos
   [classification.stony corals]
     tags = ios,android
     en = Stony Corals
     fr = Scléractiniaires
+    es = Corales pétreos
   [classification.colonial anemones]
     tags = ios,android
     en = Colonial Anemones
     fr = Anémones envahissantes
+    es = Anemonas colonizadoras
   [classification.sea pens]
     tags = ios,android
     en = Sea Pens
     fr = Pennatules
+    es = Plumas marinas
   [classification.sea anemones]
     tags = ios,android
     en = Sea Anemones
     fr = Anémones
+    es = Anemonas
   [classification.thorny corals]
     tags = ios,android
     en = Thorny Corals
     fr = Coraux noirs
+    es = Corales negros
   [classification.blue corals]
     tags = ios,android
     en = Blue Corals
     fr = Coraux bleus
+    es = Corales azules
   [classification.false corals]
     tags = ios,android
     en = False Corals
     fr = Faux coraux
+    es = Falsos Corales
   [classification.tube anemones]
     tags = ios,android
     en = Tube Anemones
     fr = Cérianthes
+    es = Cerianthidae
   [classification.jellyfishes]
     tags = ios,android
     en = Jellyfishes
     fr = Méduses
+    es = Medusas
   [classification.sea butterflies]
     tags = ios,android
     en = Sea Butterflies
     fr = Papillons de mer
+    es = Mariposas de mar
   [classification.urchins]
     tags = ios,android
     en = Urchins
     fr = Oursins
+    es = Erizos
   [classification.starfishes]
     tags = ios,android
     en = Starfishes
     fr = Etoiles de mer
+    es = Estrellas de mar
   [classification.brittlestars]
     tags = ios,android
     en = Brittlestars
     fr = Ophiures
+    es = Ofiuras
   [classification.cucumbers]
     tags = ios,android
     en = Cucumbers
     fr = Concombres de mer
+    es = Pepinos de mar
 
 [[Charter]]
   [charter.in_partnership_with]
     tags = ios,android
     en = in partnership with
     fr = en partenariat avec
+    es = en asociación con
   [charter.1.title]
     tags = ios,android
     en = Prepare your journey
     fr = Préparez votre voyage
+    es = Prepare su viaje
   [charter.2.title]
     tags = ios,android
     en = Before diving
     fr = Avant la plongée
+    es = Antes de la inmersión
   [charter.3.title]
     tags = ios,android
     en = On the boat
     fr = Sur le bateau
+    es = En el barco
   [charter.4.title]
     tags = ios,android
     en = When diving
     fr = En plongée
+    es = Durante la inmersión
   [charter.5.title]
     tags = ios,android
     en = After diving
     fr = Après la plongée
+    es = Después de la inmersión
   [charter.6.title]
     tags = ios,android
     en = During your holidays
     fr = Au cours du séjour
+    es = Durante sus vacaciones
   [charter.1.1.short]
     tags = ios,android
     en = Choose a travel agency which has agreed to respect ethical guidelines
     fr = Choisissez une agence de voyage qui adhère à une charte éthique.
+    es = Elija una agencia de viaje que se comprometió en respetar reglas éticas.
   [charter.1.1.long]
     tags = ios,android
     en =
     fr =
+    es =
   [charter.1.2.short]
     tags = ios,android
     en = Prefer Responsible Diving Centers
     fr = Privilégiez les Centres de Plongée Responsable
+    es = Privilegie los Centros de Buceo Responsables
   [charter.1.2.long]
     tags = ios,android
     en =  which are concerned with the protection of sea-beds (treatment of solid and liquid wastes, use of mooring buoys etc.) and have invested in local development projects.
     fr =  qui sont concernés par la protection des fonds marins (retraitement des déchets et des eaux usées, utilisation de bouées de mouillage) et qui s’investissent dans le développement local.
+    es = que estén comprometidos con la protección de los fondos marinos (tratamiento de residuos sólidos y líquidos, uso de boyas de amarre, etc.) y que hayan invertido en proyectos locales de desarrollo.
   [charter.1.3.short]
     tags = ios,android
     en = Find out about the marine ecosystems
     fr = Renseignez-vous sur les écosystèmes marins
+    es = Infórmese sobre los ecosistemas marinos
   [charter.1.3.long]
     tags = ios,android
     en =  you will be exploring.
     fr =  que vous allez découvrir.
+    es = que van a descubrir.
   [charter.1.4.short]
     tags = ios,android
     en = Find out about the inhabitants
     fr = Informez-vous sur les habitants du pays
+    es = Infórmese sobre los habitantes del país
   [charter.1.4.long]
     tags = ios,android
     en =  of the country you are visiting : their traditions, economy and resources
     fr =  qui vous accueille: traditions, économie,ressources.
+    es = que usted visita: tradiciones, economía, recursos.
   [charter.2.1.short]
     tags = ios,android
     en = Get fit.
     fr = Remettez-vous en forme.
+    es = Póngase en forma.
   [charter.2.1.long]
     tags = ios,android
     en =  If you have not dived for a long time, train yourself to manage your buoyancy : lung-ballast, weight jacket, optimized ballasting, etc.
     fr =  Si vous n’avez pas plongé depuis longtemps, entraînez-vous à gérer votre flottabilité : poumon-ballast, gilet, lestage optimal.
+    es = Si no ha buceado desde hace mucho tiempo, entrénese a manejar su flotabilidad: pulmones, chaqueta, pesas optimales.
   [charter.2.2.short]
     tags = ios,android
     en = Find out about the dive spot
     fr = Informez-vous sur le site de plongée
+    es = Infórmese sobre el sitio de buceo
   [charter.2.2.long]
     tags = ios,android
     en =  you are exploring before you go. You will enjoy your dives so much more as you will not just be a passive witness in a world in which you cannot speak the language. Learn to read the first pages of the big marine life book. If you can identify the animals, and know how they behave, you will know where to find them. Much of this incredible fauna is hidden.
     fr =  que vous allez découvrir, cela rendra votre plongée bien plus riche. Vous ne serez plus seulement un plongeur-spectateur passif dans un monde dont vous ignorez le langage, vous saurez lire les premiers mots du grand livre de la vie marine. Parce que vous saurez identifier les animaux, vous pourrez connaître leur comportement, vous saurez où les chercher pour les découvrir. Vous saurez voir une incroyable faune cachée.
+    es = que usted va a explorar antes de ir. Podrá disfrutar de sus inmersiones mucho más, ya que no sólo va a ser un testigo pasivo en un mundo cuyo idioma desconoce, sino que aprenderá a leer las primeras páginas del gran libro de la vida marina. Si usted puede identificar los animales, sabrá cómo se comportan, sabrá dónde busacar para encontrarlos. Podrá descubrir una increíble fauna oculta.
   [charter.2.3.short]
     tags = ios,android
     en = Ask your diving center to give you a presentation
     fr = Demandez une projection-présentation de l’écosystème
+    es = Pida una presentación del ecosistema
   [charter.2.3.long]
     tags = ios,android
     en =  of the local ecosystem
     fr =  à votre centre de plongée
+    es = a su centro de buceo
   [charter.2.4.short]
     tags = ios,android
     en = Ask for the list of threatened species
     fr = Demandez la liste des espèces menacées
+    es = Pida la lista de las especies amenazadas
   [charter.2.4.long]
     tags = ios,android
     en = , the list of protected species and all relevant regulations.
     fr = , la liste des espèces protégées, les réglementations les concernant.
+    es = , la lista de las especies protegidas y la regulación asociada.
   [charter.2.5.short]
     tags = ios,android
     en = Ask about what the diving center does to protect the sea
     fr = Renseignez-vous sur les actions menées
+    es = Infórmese sobre las acciones desarrolladas
   [charter.2.5.long]
     tags = ios,android
     en =  (mooring buoys, etc.)
     fr =  par le centre de plongée en matière de protection du milieu sous-marin (bouées de mouillage...)
+    es =  por el centro de buceo en cuanto a protección del mundo marino (boyas de amarre...)
   [charter.3.1.short]
     tags = ios,android
     en = Never throw anything overboard.
     fr = Ne jetez rien par dessus bord.
+    es = Nunca tire nada en el agua.
   [charter.3.1.long]
     tags = ios,android
     en =
     fr =
+    es =
   [charter.3.2.short]
     tags = ios,android
     en = Refuse plastic plates and cups
     fr = Refusez les assiettes et gobelets en plastique
+    es = Niéguese en usar platos y vasos de plástico
   [charter.3.2.long]
     tags = ios,android
     en =  which take scores of years to break down.
     fr =  qui mettent des dizaines d’années à se dégrader.
+    es = que tardan decenas de años en degradarse.
   [charter.3.3.short]
     tags = ios,android
     en = Ask for dustbins on the deck
     fr = Demandez l’installation de poubelles sur le pont
+    es = Pida la instalación de basuras en el puente
   [charter.3.3.long]
     tags = ios,android
     en =  for (if you absolutely need to smoke) cigarette butts (they take months to break down) plastic waste, aluminum foil, etc...
     fr =  pour y déposer (si vous avez absolument besoin de fumer) les mégots de cigarette (leur dégradation prend des mois), les déchets en plastique, les emballages en aluminium, etc...
+    es = para tirar (si tiene una necesidad absoluta de fumar) la colillas de cigarros (su degradación tarda meses), los residuos de plástico, los envases de aluminio, etc...
   [charter.3.4.short]
     tags = ios,android
     en = Take care to attach spare air valves
     fr = Veillez à bien fixer détendeurs de secours
+    es = Tenga cuidado en colocar correctamente reguladores, 
   [charter.3.4.long]
     tags = ios,android
     en = , consoles and pressure gauges firmly so they do not dangle and damage fixed flora and the fauna.
     fr = , consoles et manomètres, afin qu’ils ne pendent pas et ne s’accrochent pas dans la flore et la faune fixées qu’ils endommageraient
+    es = , consolas y manómetros, para que no estén colgando y que no dañen la flora y la fauna.
   [charter.3.5.short]
     tags = ios,android
     en = Use short, recreational, flippers.
     fr = Choisissez des palmes courtes
+    es = Elija aletas cortas
   [charter.3.5.long]
     tags = ios,android
     en =
     fr = , peu agressives.
+    es = y recreativas.
   [charter.4.1.short]
     tags = ios,android
     en = As soon as you enter the water, check your weights
     fr = Dès la mise à l’eau, pensez à vérifier votre lestage
+    es = Apenas en el agua, acuérdese de controlar sus pesas
   [charter.4.1.long]
     tags = ios,android
     en =  and adjust if necessary.
     fr = , et ajustez-le si nécessaire.
+    es = , y ajústelas si es necesario.
   [charter.4.2.short]
     tags = ios,android
     en = Use you flippers gently
     fr = Pensez à palmer doucement
+    es = Use las aletas con precaución
   [charter.4.2.long]
     tags = ios,android
     en = , so as not to collide with fixed marine life
     fr = , pour ne pas heurter la vie fixée
+    es = , para no golpear la vida fija
   [charter.4.3.short]
     tags = ios,android
     en = Avoid contact with fixed plants and animals
     fr = Évitez le contact avec plantes et animaux fixés
+    es = Evite el contacto con las plantas y animales fijos
   [charter.4.3.long]
     tags = ios,android
     en = . They are fragile and can be destroyed by repeated shocks.
     fr = . Ils sont fragiles, la multiplication des chocs les détruit.
+    es = . Son frágiles, y pueden ser destruidos por choques repetidos.
   [charter.4.4.short]
     tags = ios,android
     en = Do not bring anything back except pictures.
     fr = Ne prélevez rien, sauf des images.
+    es = No se lleve nada, salvo imágenes.
   [charter.4.4.long]
     tags = ios,android
     en =
@@ -4837,243 +4900,303 @@
     tags = ios,android
     en = Do not bother the animals
     fr = Ne harcelez pas les animaux
+    es = No moleste los animales
   [charter.4.5.long]
     tags = ios,android
     en = . If they take refuge in their hiding-place, do not force them out _:they are already stressed enough. Wait without moving until they calm down and come out again.
     fr = . S’ils se sont réfugiés dans leur cachette, ne les forçez pas, ils sont déjà stressés. Patientez sans bouger jusqu’à ce qu’ils retrouvent leur calme, et sortent à nouveau.
+    es = . Si se refugiaron en su escondite, nos les saque a la fuerza, ya están estresados. Espere sin moverse hasta que se tranquilicen y vuelvan a salir. 
   [charter.4.6.short]
     tags = ios,android
     en = Do not feed the fish
     fr = Évitez de nourrir les poissons
+    es = No alimente los peces.
   [charter.4.6.long]
     tags = ios,android
     en = . You change their behavior and unbalance the ecosystem.
     fr = . Vous pervertissez leur comportement et déséquilibrez l’écosystème.
+    es = . Cambia su comportamiento y desequilibra el ecosistema.
   [charter.5.1.short]
     tags = ios,android
     en = Save fresh water
     fr = Efforcez-vous d’économiser l’eau douce
+    es = Ahorre el agua dulce
   [charter.5.1.long]
     tags = ios,android
     en = . It is the most valuable commodity on Earth.
     fr = . C’est le bien le plus précieux.
+    es = . Es el elemento más valioso en la Tierra.
   [charter.5.2.short]
     tags = ios,android
     en = Ask for equipment designed to conserve fresh water
     fr = Demandez des installations qui évitent le gaspillage d’eau douce
+    es = Privilegie instalaciones que eviten el desgaste de agua dulce
   [charter.5.2.long]
     tags = ios,android
     en =  like equipment wash tanks and controlled flow showers.
     fr =  : bac de rinçage pour les équipements, douches à débit contrôlé.
+    es = : tanque para limpiar los equipos, duchas con caudal controlado.
   [charter.6.1.short]
     tags = ios,android
     en = Try to get outside your diving center or hotel
     fr = N’hésitez pas à sortir du centre de plongée, de l’hôtel
+    es = No dude en salir del centro de buceo o del hotel
   [charter.6.1.long]
     tags = ios,android
     en = . There is a world out there waiting to meet you!
     fr =  : Il y a tout autour, un monde qui attend de vous rencontrer.
+    es = : Hay todo un mundo allí afuera que solo espera a conocerle.
   [charter.6.2.short]
     tags = ios,android
     en = Do not buy souvenirs ripped from the sea
     fr = N’achetez pas de souvenirs arrachés à la mer
+    es = No compre recuerdos arrancados del mar
   [charter.6.2.long]
     tags = ios,android
     en =  like shark teeth, tortoiseshells, starfish, sea horses and other dried fish, coral and shells.
     fr =  : dent de requin, carapace de tortue, étoile de mer, hippocampe et autres poissons séchés, corail, coquillages.
+    es = : dientes de tiburón, caparazón de tortuga, estrella de mar, caballito de mar y otros peces secos, coral, conchas.
   [charter.6.3.short]
     tags = ios,android
     en = Boycott restaurants which serve shark fin soup
     fr = Boycottez les restaurants qui servent de la soupe d’ailerons de requin
+    es = Boicotee los restaurantes que sirven sopa de aletas de tiburón
   [charter.6.3.long]
     tags = ios,android
     en = , tortoise meat, cetaceans and fish caught by destructive means like dynamite, cyanide, etc.
     fr = , de la viande de tortue et de cétacés, ainsi que des poissons capturés par des moyens destructifs (dynamite, cyanure, etc..)
+    es = , carne de tortuga y cetáceos, asi como peces capturados con medios destructivos (dinamita, cianuro, etc...)
   [charter.6.4.short]
     tags = ios,android
     en = Ask restaurants how the sea fare they propose is fished
     fr = Demandez aux restaurateurs comment sont pêchés les produits de la mer
+    es = Pregunte a los restaurantes como se pescan los productos del mar 
   [charter.6.4.long]
     tags = ios,android
     en =  and what agreements they have with local fishermen.
     fr =  qu’ils proposent, et quels accords ils ont avec les pêcheurs locaux.
+    es = que proponen a la carta, y que acuerdos tienen con pescadores locales.
 
 [[Store]]
   [store.get]
     tags = ios,android
     en = Get
     fr = Obtenir
+    es = Conseguir
   [store.unavailable]
     tags = ios,android
     en = Store unavailable
     fr = Store non disponible
+    es = Store no disponible
   [store.missing]
     tags = android
     en = The Play Store app is needed in order to buy this guide
     fr = L'application Play Store doit être installée pour pouvoir acheter ce guide
+    es = La aplicación Play Store tiene que ser instalada para poder comprar esta guía
 
 [[Guide Store]]
   [guidestore]
     tags = ios,android
     en = Guide Store
     fr = Guide Store
+    es = Guide Store
   [gs.open]
     tags = ios,android
     en = Browse Guide Store
     fr = Parcourir le Guide Store
+    es = Navegar en el Guide Store
   [gs.index.filters.name]
     tags = ios,android
     en = Name
     fr = Nom
+    es = Nombre
   [gs.index.filters.distance]
     tags = ios,android
     en = Distance
     fr = Distance
+    es = Distancia
   [gs.index.header.title]
     tags = ios,android
     en = Species, Photos, Sites
     fr = Espèces, Photos, Site
+    es = Especies, Fotos, Sitios
   [gs.index.header.subtitle]
     tags = ios,android
     en = Created by professionals for your logbooks
     fr = Créés par des professionels pour vos carnets
+    es = Creados por profesionales para sus libretas
   [gs.index.row.author]
     tags = ios,android
     en = by %@
     en = par %@
+    es = por %@
   [gs.index.menu.guides]
     tags = ios,android
     en = Guides
     fr = Guides
+    es = Guías
   [gs.index.gps_disabled_notice]
     tags = ios,android
     en = GPS location unavailable, sorting by distance won't work.
     fr = Position GPS indisponible, le tri par distance ne fonctionnera pas.
+    es = Ubicación GPS indisponible, la selección por distancia no funccionará.
   [gs.index.menu.purchased]
     tags = ios,android
     en = Purchased
     fr = Achetés
+    es = Comprados
   [gs.show.title.author]
     tags = ios,android
     en = by %@
     fr = par %@
+    es = por %@
   [gs.show.action.purchased]
     tags = android
     en = Purchased
     fr = Acheté
+    es = Comprado
   [gs.show.action.download]
     tags = android
     en = Download
     fr = Télécharger
+    es = Descargar
   [gs.show.sections.description.title]
     tags = ios,android
     en = About
     fr = À propos
+    es = Acerca de
   [gs.show.sections.description.sites]
     tags = ios,android
     en = Included sites
     fr = Sites inclus
+    es = Sitios incluidos
   [gs.show.sections.description.species]
     tags = ios,android
     en = Selected species
     fr = Species sélectionnées
+    es = Especies seleccionadas
   [gs.show.sections.description.photos]
     tags = ios,android
     en = Photos for your logbooks
     fr = Photos pour vos carnets
+    es = Fotos para sus libretas
   [gs.register_suggest.title]
     tags = android
     en = Smart tip
     fr = Idée maline
+    es = Un buen consejo
   [gs.register_suggest.message]
     tags = android
     en = While you're waiting for your guide, create a Tortuba account to easily re-download it on your other/future devices.
     fr = Pendant que votre guide se télécharge, créez un compte Tortuba pour facilement le récupérer sur vos autres/futures appareils.
+    es = Mientras se está descargando su guía, cree una cuenta Tortuba para poder volver a descargarlo en sus otros/futuros dispositivos.
   [gs.register_suggest.accept]
     tags = ios,android
     en = Let's go
     fr = D'accord
+    es = Adelante
   [gs.register_suggest.cancel]
     tags = ios,android
     en = Maybe later
     fr = Une autre fois
+    es = Tal vez más tarde
   [gs.alert.discover.assets.title]
     tags = ios,android
     en = Get photos & more
     fr = Des photos & plus
+    es = Encuentre Fotos & más
   [gs.alert.discover.assets.message]
     tags = ios,android
     en = Download a geolocalized selection of beautiful photos, species and sites for your logbooks.
     fr = Téléchargez une sélection géolocalisée de magnifiques photos, espèces et sites pour vos carnets.
+    es = Descargue una selección geolocalizada de especies, sitios y magníficas fotos para sus libretas
   [gs.alert.discover.sites.title]
     tags = ios,android
     en = Get sites & more
     fr = Des sites & plus
+    es = Encuentre Sitios & más
   [gs.alert.discover.sites.message]
     tags = ios,android
     en = Download a geolocalized selection of sites, species and beautiful photos for your logbooks.
     fr = Téléchargez une sélection géolocalisée de sites, espèces et magnifiques photos pour vos carnets.
+    es = Descargue una selección geolocalizada de especies, sitios y magníficas fotos para sus libretas
   [gs.alert.discover.usual_suspects.title]
     tags = ios,android
     en = Get species & more
     fr = Des espèces & plus
+    es = Encuentre Especies & más
   [gs.alert.discover.usual_suspects.message]
     tags = ios,android
     en = Download a geolocalized selection of sites, species and beautiful photos for your logbooks.
     fr = Téléchargez une sélection géolocalisée d'espèces, sites et magnifiques photos pour vos carnets.
+    es = Descargue una selección geolocalizada de especies, sitios y magníficas fotos para sus libretas
   [gs.alert.discover.cancel]
     tags = ios,android
     en = Maybe later
     fr = Plus tard
+    es = Tal vez más tarde
   [gs.alert.discover.accept]
     tags = ios,android
     en = Let's see
     fr = Voyons ça
+    es = ¡A ver!
   [gs.my_guides.empty.title]
     tags = ios,android
     en = Your library is empty
     fr = Votre librairie est vide
+    es = Su librería está vacía
   [gs.my_guides.empty.description]
     tags = ios,android
     en = Purchase guides to identify species more easily, use their content for your logbook or just keep them as a souvenir
     fr = Achetez des guides pour identifier des espèces plus facilement, utiliser leur contenu dans vos carnets ou simplement les garder en souvenir
+    es = Compre guías para identificar especies más facilmente, utilice el contenido en sus libretas o simplemente guárdelas como recuerdo
   [gs.empty.message]
     tags = android
     en = No guides were found
     fr = Aucun guide n'a été trouvé
+    es = No se encontró ninguna guía
   [gs.purchase.failed]
     tags = android
     en = An error occured during the purchase of the guide
     fr = Une erreur est survenue pendant l'achat du guide
+    es = Ocurrió un error durante la compra de la guía
   [gs.purchased.restore]
     tags = android
     en = Restore purchases
     fr = Restaurer les achats
+    es = Restaurar las compras
   [gs.purchased.fetch.failed]
     tags = android
     en = Cannot retrieve purchased guides
     fr = Impossible de récupérer les guides possédés
+    es = Imposible recuperar las guías compradas
   [gs.purchased.restore.failed]
     tags = android
     en = Sync failed
     fr = La synchronisation a échoué
+    es = Error en la sincronización
   [gs.purchase.loading]
     tags = android
     en = Loading…
     fr = Chargement…
+    es = Cargando…
   [gs.downloading.title]
     tags = ios,android
     en = Download in progress
     fr = Téléchargement en cours
+    es = Descarga en curso
   [gs.downloading.message]
     tags = ios,android
     en = It will soon appear in your library and be available across the app.
     fr = Il apparaîtra bientôt dans votre bibliothèque et sera disponible au sein de l'application.
+    es = Aparecerá pronto en su biblioteca y será disponible dentro de la aplicación.
   [gs.restoring.title]
     tags = ios,android
     en = Restore in progress
     fr = Restauration en cours
+    es = Restauración en curso
   [gs.restoring.message]
     tags = ios,android
     en = Your purchases will soon appear in your library and be available across the app.
     fr = Vos achats apparaîtront bientôt dans votre bibliothèque et seront disponibles au sein de l'application.
+    es = Sus compras aparecerán pronto en su biblioteca y serán disponibles dentro de la aplicación.
