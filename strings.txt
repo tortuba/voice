@@ -3773,7 +3773,7 @@
     tags = ios,android
     en = Soapfish
     fr = Savonettes
-    es = Peces XXXX
+    es = Rypticus
   [classification.false scorpionfish]
     tags = ios,android
     en = False Scorpionfish
@@ -4073,7 +4073,7 @@
     tags = ios,android
     en = Batfishes
     fr = Platax
-    es = xxxxxx
+    es = Platax
   [classification.scorpionfishes]
     tags = ios,android
     en = Scorpionfishes
@@ -4403,207 +4403,207 @@
     tags = ios,android
     en = Aeolidioidea
     fr = Aéolides
-    es = 
+    es = Aeolidioidea
   [classification.aplysiomorpha]
     tags = ios,android
     en = Aplysiomorpha
     fr = Aplysiomorpha
-    es = 
+    es = Aplysiomorpha
   [classification.arminoidea]
     tags = ios,android
     en = Arminoidea
     fr = Arminoidea
-    es = 
+    es =Arminoidea
   [classification.bathydoridoidea]
     tags = ios,android
     en = Bathydoridoidea
     fr = Bathydoridoidea
-    es = 
+    es = Bathydoridoidea
   [classification.charcotiidae]
     tags = ios,android
     en = Charcotiidae
     fr = Charcotiidae
-    es = 
+    es = Charcotiidae
   [classification.cowries]
     tags = ios,android
     en = Cowries
     fr = Porcelaines
-    es = 
+    es = Porcelanas
   [classification.dironidae]
     tags = ios,android
     en = Dironidae
     fr = Dironidae
-    es = 
+    es = Dironidae
   [classification.doridoidea]
     tags = ios,android
     en = Doridoidea
     fr = Dorididae
-    es = 
+    es = Dorididae
   [classification.doridoxoidea]
     tags = ios,android
     en = Doridoxoidea
     fr = Doridoxoidea
-    es = 
+    es = Doridoxoidea
   [classification.dotidae]
     tags = ios,android
     en = Dotidae
     fr = Dotidae
-    es = 
+    es = Dotidae
   [classification.embletoniidae]
     tags = ios,android
     en = Embletoniidae
     fr = Embletoniidae
-    es = 
+    es = Embletoniidae
   [classification.fionoidea]
     tags = ios,android
     en = Fionoidea
     fr = Fionidae
-    es = 
+    es = Fionidae
   [classification.flabellinoidea]
     tags = ios,android
     en = Flabellinoidea
     fr = Flabellinoidea
-    es = 
+    es = Flabellinoidea
   [classification.goniaeolididae]
     tags = ios,android
     en = Goniaeolididae
     fr = Goniaeolididae
-    es = 
+    es = Goniaeolididae
   [classification.heroidae]
     tags = ios,android
     en = Heroidae
     fr = Heroidae
-    es = 
+    es = Heroidae
   [classification.madrellidae]
     tags = ios,android
     en = Madrellidae
     fr = Madrellidae
-    es = 
+    es = Madrellidae
   [classification.onchidoridoidea]
     tags = ios,android
     en = Onchidoridoidea
     fr = Onchidorididae
-    es = 
+    es = Onchidorididae
   [classification.phyllidioidea]
     tags = ios,android
     en = Phyllidioidea
     fr = Phyllidioidea
-    es = 
+    es = Phyllidioidea
   [classification.pinufiidae]
     tags = ios,android
     en = Pinufiidae
     fr = Pinufiidae
-    es = 
+    es = Pinufiidae
   [classification.pleurobranchomorpha]
     tags = ios,android
     en = Pleurobranchomorpha
     fr = Pleurobranchomorpha
-    es = 
+    es = Pleurobranchomorpha
   [classification.polyceroidea]
     tags = ios,android
     en = Polyceroidea
     fr = Polyceridae
-    es = 
+    es = Polyceridae
   [classification.proctonotidae]
     tags = ios,android
     en = Proctonotidae
     fr = Proctonotidae
-    es = 
+    es = Proctonotidae
   [classification.sapsucking slugs]
     tags = ios,android
     en = Sapsucking Slugs
     fr = sacoglosses
-    es = 
+    es = Sacoglossa
   [classification.sidegill slugs]
     tags = ios,android
     en = Sidegill Slugs
     fr = Notaspidea
-    es = 
+    es = Notaspidea
   [classification.snails]
     tags = ios,android
     en = Snails
     fr = Escargots de mer
-    es = 
+    es = Caracoles de max
   [classification.tritonioidea]
     tags = ios,android
     en = Tritonioidea
     fr = Tritonioidea
-    es = 
+    es = Tritonioidea
   [classification.headshield]
     tags = ios,android
     en = Headshield
     fr = Casques
-    es = 
+    es = Cascos
   [classification.flatworms]
     tags = ios,android
     en = Flatworms
     fr = Vers plats/Plathelminthes
-    es = 
+    es = Gusanos planos/platelmintos 
   [classification.calcareous tube worms]
     tags = ios,android
     en = Calcareous Tube Worms
     fr = Protules lisses
-    es = 
+    es = Gusanos de tubo calcáreo 
   [classification.feather duster worms]
     tags = ios,android
     en = Feather Duster Worms
     fr = Sabelles fendues
-    es = 
+    es = Sabellidae
   [classification.horseshoe worms]
     tags = ios,android
     en = Horseshoe Worms
     fr = Phoronidiens
-    es = 
+    es = Foronídeos
   [classification.myzostomida worms]
     tags = ios,android
     en = Myzostomida Worms
     fr = Myzostomida
-    es = 
+    es = Mizostómidos
   [classification.scale worms]
     tags = ios,android
     en = Scale Worms
     fr = Polynoidae
-    es = 
+    es = Polinoideos
   [classification.segmented worms]
     tags = ios,android
     en = Segmented Worms
     fr = Annélides
-    es = 
+    es = Anélidos 
   [classification.fire worms]
     tags = ios,android
     en = Fire Worms
     fr = Vers de feu
-    es = 
+    es = Gusanos de fuego
   [classification.squids]
     tags = ios,android
     en = Squids
     fr = Calmars
-    es = 
+    es = Calamares
   [classification.short rounded]
     tags = ios,android
     en = Short Rounded
     fr = Petits et ronds
-    es = 
+    es = Pequeños y redondos
   [classification.cuttlefishes]
     tags = ios,android
     en = Cuttlefishes
     fr = Seiches
-    es = 
+    es = Sepias
   [classification.octopods]
     tags = ios,android
     en = Octopods
     fr = Poulpes
-    es = 
+    es = Pulpos
   [classification.nautiloids]
     tags = ios,android
     en = Nautiloids
     fr = Nautilida
-    es = 
+    es = Nautilinos
   [classification.box crabs]
     tags = ios,android
     en = Box Crab
     fr = Crabes honteux
-    es = 
+    es = Calappidae
   [classification.crabs]
     tags = ios,android
     en = Crabs
@@ -4613,17 +4613,17 @@
     tags = ios,android
     en = Decorator Crabs
     fr = Crabes décorateurs
-    es = 
+    es = Cangrejos decorador
   [classification.elbow crabs]
     tags = ios,android
     en = Elbow Crabs
     fr = Crabes ‡ longues pattes
-    es = 
+    es = Parthenopidae
   [classification.hermit crabs]
     tags = ios,android
     en = Hermit Crabs
     fr = Crabes Hermites
-    es = 
+    es = Cangrejos Ermitaños
   [classification.lobsters]
     tags = ios,android
     en = Lobsters
@@ -4633,92 +4633,92 @@
     tags = ios,android
     en = Porcelain Crabs
     fr = Crabes porcelaine
-    es = 
+    es = Cangrejos Porcelana
   [classification.purse crabs]
     tags = ios,android
     en = Purse Crabs
     fr = Crabes bourse
-    es = 
+    es = Cangrejos Persephona
   [classification.round crabs]
     tags = ios,android
     en = Round / True Crabs
     fr = ` Crabes ronds / authentiques`
-    es = 
+    es = Cangrejos redondos / auténticos
   [classification.sea spiders]
     tags = ios,android
     en = Sea Spiders
     fr = Pycnogonida
-    es = 
+    es = Picnogónidos
   [classification.swimming crabs]
     tags = ios,android
     en = Swimming Crabs
     fr = Portunidae
-    es = 
+    es = Portunidae
   [classification.squat lobsters]
     tags = ios,android
     en = Squat Lobsters
     fr = Galathées
-    es = 
+    es = Galateoideos
   [classification.amphipods]
     tags = ios,android
     en = Amphipods
     fr = Amphipods
-    es = 
+    es = Anfípodos
   [classification.boxer shrimps]
     tags = ios,android
     en = Boxer Shrimps
     fr = Stenopodidea
-    es = 
+    es = Estenopodideos
   [classification.broken-back shrimps]
     tags = ios,android
     en = Broken-Back Shrimps
     fr = Hippolytidae
-    es = 
+    es = Hippolytidae
   [classification.bumblebee shrimps]
     tags = ios,android
     en = Bumblebee Shrimps
     fr = Crevettes-bourdon
-    es = 
+    es = Camarones Abejorros
   [classification.commensal shrimps]
     tags = ios,android
     en = Commensal Shrimps
     fr = Palaemonidae
-    es = 
+    es = Palemónidos
   [classification.hinge-beak shrimps]
     tags = ios,android
     en = Hinge-Beak Shrimps
     fr = Rhynchocinetidae
-    es = 
+    es = Rhynchocinetidae
   [classification.mantis shrimps]
     tags = ios,android
     en = Mantis Shrimps
     fr = Squilles
-    es = 
+    es = Odontodactylidae
   [classification.prawns]
     tags = ios,android
     en = Prawns
     fr = Crevettes (Dendrobranchiata)
-    es = 
+    es = Langostinos (Dendrobranchiata)
   [classification.shrimps]
     tags = ios,android
     en = Shrimps
     fr = Crevettes (Caridea)
-    es = 
+    es = Camarones (Caridea)
   [classification.skeleton shrimps]
     tags = ios,android
     en = Skeleton Shrimps
     fr = Caprelles
-    es = 
+    es = Camarones esqueleto
   [classification.slipper lobsters]
     tags = ios,android
     en = Slipper Lobsters
     fr = Cigales de mer
-    es = 
+    es = Cigarras / Esciláridos
   [classification.snapping shrimps]
     tags = ios,android
     en = Snapping Shrimps
     fr = Crevettes-clap
-    es = 
+    es = Alpheidae
   [classification.barnacles]
     tags = ios,android
     en = Barnacles
