@@ -2380,7 +2380,7 @@
   [trip.new.notitle.message]
     tags = android
     en = Give it the name of your trip, you can use your destination, the name of a particular species you saw, …
-    fr = Donnez lui le nom de votre voyage, vous pouvez utiliser votre destination ou le nom d'une espèce particulières que vous avez rencontrée, …
+    fr = Donnez lui le nom de votre voyage, vous pouvez utiliser votre destination ou le nom d'une espèce particulière que vous avez rencontrée, …
   [trip.creation.error]
     tags = android
     en = Sorry, an error happened while creating your logbook
@@ -3920,7 +3920,7 @@
   [charter.1.2.short]
     tags = ios,android
     en = Prefer Responsible Diving Centers
-    fr = Privilégiez les Centres de Plongée Responsable
+    fr = Privilégiez les Centres de Plongée Responsables
   [charter.1.2.long]
     tags = ios,android
     en =  which are concerned with the protection of sea-beds (treatment of solid and liquid wastes, use of mooring buoys etc.) and have invested in local development projects.
@@ -4152,7 +4152,7 @@
   [gs.index.header.title]
     tags = ios,android
     en = Species, Photos, Sites
-    fr = Espèces, Photos, Site
+    fr = Espèces, Photos, Sites
   [gs.index.header.subtitle]
     tags = ios,android
     en = Created by professionals for your logbooks
@@ -4208,7 +4208,7 @@
   [gs.register_suggest.message]
     tags = android
     en = While you're waiting for your guide, create a Tortuba account to easily re-download it on your other/future devices.
-    fr = Pendant que votre guide se télécharge, créez un compte Tortuba pour facilement le récupérer sur vos autres/futures appareils.
+    fr = Pendant que votre guide se télécharge, créez un compte Tortuba pour facilement le récupérer sur vos autres/futurs appareils.
   [gs.register_suggest.accept]
     tags = ios,android
     en = Let's go
