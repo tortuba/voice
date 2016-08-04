@@ -403,7 +403,7 @@
     tags = ios,android
     en = Burnrate:\n(AirStart - End) * Vol\n/ (Duration * (AvgDepth/10 + 1))
     fr = Conso d'air:\n(Air Début - Fin) * Vol\n/ (Durée * (Prof.moy/10 + 1))
-    fr = Consumo Aire:\n(Aire Inicio - Fin) * Vol\n/ (Duración * (Prof.med/10 + 1))
+    es = Consumo Aire:\n(Aire Inicio - Fin) * Vol\n/ (Duración * (Prof.med/10 + 1))
 
 [[Models - Encounter]]
   [encounter.unidentified]
@@ -527,7 +527,7 @@
     tags = ios
     en = Translation (tortuba, iOS)
     fr = Traduction (tortuba, iOS)
-    fr = Traducción (tortuba, iOS)
+    es = Traducción (tortuba, iOS)
   [mailer.subjects.help]
     tags = ios
     en = Help (tortuba, iOS)
@@ -646,7 +646,7 @@
     tags = ios,android
     en = Caution: sync in progress
     fr = Attention: synchro en cours
-    fr = Cuidado: sincro en curso
+    es = Cuidado: sincro en curso
   [sync.editConfirmation.message.willModify]
     tags = ios,android
     en = This entry can't be modified while it is being synchronized with the server.
