@@ -266,7 +266,7 @@
     tags = ios,android
     en = Image
     fr = Image
-    es = Imagen 
+    es = Imagen
   [Amenity]
     tags = ios,android
     en = Club
@@ -296,7 +296,7 @@
     tags = ios,android
     en = Logbook
     fr = Carnet
-    es= Libreta
+    es = Libreta
 
 [[Models - Dive]]
   [dive.number]
@@ -454,7 +454,7 @@
     tags = ios,android
     en = Guide
     fr = Guide
-    es = Guía 
+    es = Guía
   [membership.role.instructor]
     tags = ios,android
     en = Instructor
@@ -733,7 +733,7 @@
     tags = ios,android
     en = Authentication failure
     fr = Erreur d'authentification
-    es = Error de identificación 
+    es = Error de identificación
   [error.session.authRequired.reason]
     tags = ios,android
     en = Could not authenticate or create the account.
@@ -929,7 +929,7 @@
     tags = ios
     en = New note
     fr = Nouvelle note
-    es= Nueva nota
+    es = Nueva nota
   [shortcuts.Asset]
     tags = ios
     en = New photo
@@ -1118,7 +1118,7 @@
     tags = ios,android
     en = Open your latest logbook and create a new dive/site/note right from the app icon
     fr = Ouvrez votre dernier carnet et créez un(e) plongée/site/note depuis l'icône de l'application
-    es = Abra su última libreta y cree un(a) inmersión/sitio/nota desde el icono de la aplicación 
+    es = Abra su última libreta y cree un(a) inmersión/sitio/nota desde el icono de la aplicación
   [premium.features.diveSteps.title]
     tags = ios,android
     en = Dive form
@@ -1138,7 +1138,7 @@
     tags = ios,android
     en = Get more flexibility and customize the app some more
     fr = Gagnez en flexibilité et personnalisez l'application
-    es = Consiga más flexibilidad y personalice la aplicación 
+    es = Consiga más flexibilidad y personalice la aplicación
   [premium.features.allUpcoming.title]
     tags = ios,android
     en = Upcoming features
@@ -1163,7 +1163,7 @@
     tags = ios,android
     en = Unlimited sync
     fr = Synchro illimitée
-    es = Sincronización ilimitada 
+    es = Sincronización ilimitada
   [premium.features.unlimitedSync.details]
     tags = ios,android
     en = And 1Go of data for your personal photos
@@ -1173,7 +1173,7 @@
     tags = ios,android
     en = Support the Ocean
     fr = Soutenez l'Océan
-    es = Apoye el Océano 
+    es = Apoye el Océano
   [premium.features.support.details]
     tags = ios,android
     en = We give a lot for free because we want to help divers share the Ocean. By purchasing a subscription, you support our effort.
@@ -1188,7 +1188,7 @@
     tags = ios,android
     en = You must login or create a Tortuba account before purchasing a subscription
     fr = Vous devez vous connecter ou créer un compte Tortuba avant de réaliser votre achat
-    es = Tiene que conectarse o crear una cuenta Tortuba antes de comprar su suscripción 
+    es = Tiene que conectarse o crear una cuenta Tortuba antes de comprar su suscripción
   [premium.cantMakePayments.title]
     tags = ios,android
     en = Can't make payment
@@ -1355,7 +1355,7 @@
     tags = sb,ios,android
     en = Help us improve
     fr = Aidez-nous à améliorer l'app
-    es = Ayúdenos a mejorar la aplicación 
+    es = Ayúdenos a mejorar la aplicación
   [about.species.help_us.missing_species]
     tags = sb,ios,android
     en = Report missing species
@@ -1385,7 +1385,7 @@
     tags = sb,ios,android
     en = Any suggestion that would help everyone identify species is welcome
     fr = Toute suggestion qui pourra aider chacun à mieux identifier les espèces est la bienvenue
-    es = Se agradece cualquiera sugestión que ayudaría a mejor identificar especies 
+    es = Se agradece cualquiera sugestión que ayudaría a mejor identificar especies
   [about.species.help_us.missing_copyright]
     tags = sb,ios,android
     en = Report copyright infringement
@@ -1432,7 +1432,7 @@
     tags = ios,android
     en = Connect your app to tortuba.com to share your logbooks online and show how amazing and beautiful marine life is.
     fr = Connectez votre app avec tortuba.com pour partager vos carnets et montrer à tous comme la vie sous marine est incroyable et belle.
-    es = Conecte su aplicación con tortuba.com para compartir sus libretas y mostrar a todos cuanto la vida marina es increíble y hermosa. 
+    es = Conecte su aplicación con tortuba.com para compartir sus libretas y mostrar a todos cuanto la vida marina es increíble y hermosa.
   [settings.account.syncNow]
     tags = ios,android
     en = Sync Now
@@ -1497,7 +1497,7 @@
     tags = ios,android
     en = Auto-increment number
     fr = Auto-incrémentation du numéro
-    es = Incrementación automática del número 
+    es = Incrementación automática del número
   [settings.NewDive.TimeShift.hint]
     tags = ios,android
     en = Time shift (minutes)
@@ -1795,7 +1795,7 @@
     tags = ios,android
     en = %i days
     fr = %i jours
-    es = %i días 
+    es = %i días
   [month.true]
     tags = ios,android
     en = %i month
@@ -1872,7 +1872,7 @@
     tags = ios,android
     en = Where you dived
     fr = Là où vous avez plongé
-    es = Donde ha buceado 
+    es = Donde ha buceado
   [dive.settings.Story]
     tags = ios,android
     en = Notes
@@ -1994,7 +1994,7 @@
     tags = ios,android
     en = No.%@ Really? Let's talk!
     fr = N°%@ vraiment? Parlons-nous!
-    es = N°%@ ¿de verdad? Hablémonos 
+    es = N°%@ ¿de verdad? Hablémonos
   [dive.number.count.mod.1000]
     tags = ios,android
     en = You… What! Say Again? No.
@@ -2249,7 +2249,7 @@
     tags = ios,android
     en = Review & Organize
     fr = Relisez & Organisez
-    es = Revise & Organice 
+    es = Revise & Organice
   [coach.step2.instructions.header]
     tags = ios,android
     en = Browse & clean your notes:
@@ -2259,7 +2259,7 @@
     tags = ios,android
     en = Reorder them: tap, hold 1 sec, drag
     fr = Réorganisez les: appuyez, maintenez 1 sec, déplacez
-    es = Reordénelas : apoye, mantenga 1 seg., desplace 
+    es = Reordénelas : apoye, mantenga 1 seg., desplace
   [coach.step2.instructions.deleted]
     tags = ios,android
     en = Discard uninteresting ones: swipe from right to left
@@ -2695,7 +2695,7 @@
     tags = ios,android
     en = Memorable
     fr = Mémorable
-    es = Memorable 
+    es = Memorable
   [note.importance.epic]
     tags = ios,android
     en = Epic!
@@ -2792,7 +2792,7 @@
     tags = android
     en = ProTip: didn't find the species in the database? Type its supposed name instead of a nickname.
     fr = Astuce: si vous n'avez pas trouvé l'espèce dans la base, saisissez son nom supposé au lieu du surnom.
-    es = Consejo: Si no ha encontrado la especie en la base de datos, introduzca el nombre supuesto en lugar del apodo. 
+    es = Consejo: Si no ha encontrado la especie en la base de datos, introduzca el nombre supuesto en lugar del apodo.
   [encounter.form.suggested_photos]
     tags = ios,android
     en = Available photos
@@ -3174,7 +3174,7 @@
     tags = ios,android
     en = Drag me
     fr = Déplacez moi
-    es = Despláceme 
+    es = Despláceme
   [site.location.taptodrop]
     tags = ios,android
     en = (or tap the map to drop a new pin)
@@ -3397,7 +3397,7 @@
     tags = ios,android
     en = Please tell us what is bothering you.
     fr = Dîtes nous ce qui vous déplaît
-    es = Díganos que es lo que no le gusta. 
+    es = Díganos que es lo que no le gusta.
   [SARate.disadvantagesAlertMessage]
     tags = ios,android
     en = We'll do our best to address it in the next update!
@@ -3508,7 +3508,7 @@
     tags = ios,android
     en = Fishes
     fr = Poissons
-    es = Peces 
+    es = Peces
   [classification.sharks rays]
     tags = ios,android
     en = Sharks & Rays
@@ -3628,7 +3628,7 @@
     tags = ios,android
     en = Angelfishes
     fr = Poissons anges
-    es = Peces ángeles 
+    es = Peces ángeles
   [classification.rabbitfishes]
     tags = ios,android
     en = Rabbitfishes
@@ -3673,7 +3673,7 @@
     tags = ios,android
     en = Surgeonfishes
     fr = Poissons chirurgiens
-    es = Peces cirujanos 
+    es = Peces cirujanos
   [classification.parrotfishes]
     tags = ios,android
     en = Parrotfishes
@@ -3813,7 +3813,7 @@
     tags = ios,android
     en = Tunas & Mackerels
     fr = Thons & Maquereaux
-    es = Tunas & Caballas 
+    es = Tunas & Caballas
   [classification.chubs]
     tags = ios,android
     en = Chubs
@@ -3883,12 +3883,12 @@
     tags = ios,android
     en = Ponyfishes
     fr = Leiognathidae
-    es = Leiognathidae 
+    es = Leiognathidae
   [classification.silversides]
     tags = ios,android
     en = Silversides
     fr = Atheriniformes
-    es = Atheriniformes 
+    es = Atheriniformes
   [classification.small schoolers]
     tags = ios,android
     en = Small Schoolers
@@ -3993,7 +3993,7 @@
     tags = ios,android
     en = Triplefins
     fr = Tripterygions
-    es = Blénidos trescolas 
+    es = Blénidos trescolas
   [classification.clingfishes]
     tags = ios,android
     en = Clingfishes
@@ -4053,7 +4053,7 @@
     tags = ios,android
     en = Eel-Tailed Catfishes
     fr = Plotosidae
-    es = Plotósidos 
+    es = Plotósidos
   [classification.sitting walking bottom dwellers]
     tags = ios,android
     en = Sitting/Walking bottom dwellers
@@ -4068,7 +4068,7 @@
     tags = ios,android
     en = Toadfishes
     fr = Poissons crapauds
-    es = Batrachoididae 
+    es = Batrachoididae
   [classification.batfishes]
     tags = ios,android
     en = Batfishes
@@ -4083,7 +4083,7 @@
     tags = ios,android
     en = Waspfishes
     fr = Tetrarogidae
-    es = Tetrarogidae 
+    es = Tetrarogidae
   [classification.stonefishes]
     tags = ios,android
     en = Stonefishes
@@ -4338,17 +4338,17 @@
     tags = ios,android
     en = Bullhead Sharks
     fr = Heterodontus
-    es = Heterodontiformes 
+    es = Heterodontiformes
   [classification.ground sharks]
     tags = ios,android
     en = Ground Sharks
     fr = Carcharhiniformes
-    es = Carcarriniformes 
+    es = Carcarriniformes
   [classification.wedgefishes]
     tags = ios,android
     en = Wedgefishes
     fr = Rhynchobatus
-    es = Rhynchobatus 
+    es = Rhynchobatus
   [classification.guitarfishes]
     tags = ios,android
     en = Guitarfishes
@@ -4393,7 +4393,7 @@
     tags = ios,android
     en = Skates
     fr = Rajidae
-    es = Ráyidos/rájidos 
+    es = Ráyidos/rájidos
   [classification.remoras]
     tags = ios,android
     en = Remoras
@@ -4538,12 +4538,12 @@
     tags = ios,android
     en = Flatworms
     fr = Vers plats/Plathelminthes
-    es = Gusanos planos/platelmintos 
+    es = Gusanos planos/platelmintos
   [classification.calcareous tube worms]
     tags = ios,android
     en = Calcareous Tube Worms
     fr = Protules lisses
-    es = Gusanos de tubo calcáreo 
+    es = Gusanos de tubo calcáreo
   [classification.feather duster worms]
     tags = ios,android
     en = Feather Duster Worms
@@ -4568,7 +4568,7 @@
     tags = ios,android
     en = Segmented Worms
     fr = Annélides
-    es = Anélidos 
+    es = Anélidos
   [classification.fire worms]
     tags = ios,android
     en = Fire Worms
@@ -4985,7 +4985,7 @@
     tags = ios,android
     en = Take care to attach spare air valves
     fr = Veillez à bien fixer détendeurs de secours
-    es = Tenga cuidado en colocar correctamente reguladores, 
+    es = Tenga cuidado en colocar correctamente reguladores,
   [charter.3.4.long]
     tags = ios,android
     en = , consoles and pressure gauges firmly so they do not dangle and damage fixed flora and the fauna.
@@ -5049,7 +5049,7 @@
     tags = ios,android
     en = . If they take refuge in their hiding-place, do not force them out _:they are already stressed enough. Wait without moving until they calm down and come out again.
     fr = . S’ils se sont réfugiés dans leur cachette, ne les forçez pas, ils sont déjà stressés. Patientez sans bouger jusqu’à ce qu’ils retrouvent leur calme, et sortent à nouveau.
-    es = . Si se refugiaron en su escondite, nos les saque a la fuerza, ya están estresados. Espere sin moverse hasta que se tranquilicen y vuelvan a salir. 
+    es = . Si se refugiaron en su escondite, nos les saque a la fuerza, ya están estresados. Espere sin moverse hasta que se tranquilicen y vuelvan a salir.
   [charter.4.6.short]
     tags = ios,android
     en = Do not feed the fish
@@ -5114,7 +5114,7 @@
     tags = ios,android
     en = Ask restaurants how the sea fare they propose is fished
     fr = Demandez aux restaurateurs comment sont pêchés les produits de la mer
-    es = Pregunte a los restaurantes como se pescan los productos del mar 
+    es = Pregunte a los restaurantes como se pescan los productos del mar
   [charter.6.4.long]
     tags = ios,android
     en =  and what agreements they have with local fishermen.

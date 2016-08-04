@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Camera is used to add pictures to your Tortuba library";
+NSLocationWhenInUseUsageDescription = "Location is used to help you place new dive sites";
+NSPhotoLibraryUsageDescription = "Photo library is used to import pictures to your Tortuba library";
