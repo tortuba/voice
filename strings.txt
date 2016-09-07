@@ -5344,3 +5344,864 @@
     en = Your purchases will soon appear in your library and be available across the app.
     fr = Vos achats apparaîtront bientôt dans votre bibliothèque et seront disponibles au sein de l'application.
     es = Sus compras aparecerán pronto en su biblioteca y serán disponibles dentro de la aplicación.
+
+[[Privacy - Permissions]]
+  [privacy.camera]
+    tags = InfoPlist
+    en = Camera is used to add pictures to your Tortuba library
+    fr = L'appareil photo est utilisé pour ajouter des images à votre librairie Tortuba
+    es = La cámara se utiliza para añadir imágenes a su biblioteca Tortuba
+  [privacy.photo_library]
+    tags = InfoPlist
+    en = The Photo library is used to import pictures to your Tortuba library
+    fr = L'accès aux photos permet d'importer des images dans votre librairie Tortuba
+    es = El acceso a las fotos le permite importar imágenes a tu biblioteca Tortuba
+  [privacy.gps]
+    tags = InfoPlist
+    en = Location is used to help you place new dive sites
+    fr = La géolocalisation est utilisée pour vous aider à placer les nouveaux sites de plongée
+    es = Geolocalización se utiliza para ayudar a colocar los nuevos sitios de buceo
+
+[[Dive Rating]]
+  [dive.interest.0.keyword]
+    tags = dive_rating_sentences
+    en = {interest}
+    fr = {intérêt}
+    es = {interés}
+  [dive.interest.0.sentence]
+    tags = dive_rating_sentences
+    en = I had a {interest} dive
+    fr = J'ai passé une {intérêt} plongée
+    es = Yo tenía un {interés} inmersión
+  [dive.interest.1.keyword]
+    tags = dive_rating_sentences
+    en = epic
+    fr = fantastique
+    es = épica
+  [dive.interest.1.sentence]
+    tags = dive_rating_sentences
+    en = I had an epic dive
+    fr = J'ai passé une plongée fantastique
+    es = Tenía una inmersión épica
+  [dive.interest.2.keyword]
+    tags = dive_rating_sentences
+    en = awesome
+    fr = super
+    es = increíble
+  [dive.interest.2.sentence]
+    tags = dive_rating_sentences
+    en =  I had an awesome dive
+    fr = J'ai passé une super plongée
+    es = Tenía una inmersión increíble
+  [dive.interest.3.keyword]
+    tags = dive_rating_sentences
+    en = good
+    fr = bonne
+    es = buena
+  [dive.interest.3.sentence]
+    tags = dive_rating_sentences
+    en = I had a good dive
+    fr = J'ai passé une bonne plongée
+    es = Tenía una buena inmersión
+  [dive.interest.4.keyword]
+    tags = dive_rating_sentences
+    en =  boring
+    fr = ennuyeuse
+    es = aburrido
+  [dive.interest.4.sentence]
+    tags = dive_rating_sentences
+    en = I had a boring dive
+    fr = J'ai passé une plongée ennuyeuse
+    es = Tenía una inmersión aburrido
+  [dive.interest.5.keyword]
+    tags = dive_rating_sentences
+    en = uninteresting
+    fr = sans intérêt
+    es = sin interés
+  [dive.interest.5.sentence]
+    tags = dive_rating_sentences
+    en = I had an uninteresting dive
+    fr = J'ai passé une plongée sans intérêt
+    es = Tenía una inmersión sin interés
+  [dive.difficulty.0.keyword]
+    tags = dive_rating_sentences
+    en = {challenge}
+    fr = {difficulté}
+    es = {dificultad}
+  [dive.difficulty.0.sentence]
+    tags = dive_rating_sentences
+    en = it was {challenge}
+    fr = qui fût {difficulté}
+    es = que era {dificultad}
+  [dive.difficulty.1.keyword]
+    tags = dive_rating_sentences
+    en = hard
+    fr = difficile
+    es = difícil
+  [dive.difficulty.1.sentence]
+    tags = dive_rating_sentences
+    en = it gave me a hard time
+    fr = qui fût difficile
+    es = que era difícil
+  [dive.difficulty.2.keyword]
+    tags = dive_rating_sentences
+    en = challenging
+    fr = sportive
+    es = cuestionaba
+  [dive.difficulty.2.sentence]
+    tags = dive_rating_sentences
+    en = it was challenging
+    fr = qui fût sportive
+    es = sólo cuestionaba
+  [dive.difficulty.3.keyword]
+    tags = dive_rating_sentences
+    en = easy
+    fr = plutôt facile
+    es = bastante fácil
+  [dive.difficulty.3.sentence]
+    tags = dive_rating_sentences
+    en = it was rather easy
+    fr = qui fût plutôt facile
+    es = que era bastante fácil
+  [dive.difficulty.4.keyword]
+    tags = dive_rating_sentences
+    en = peaceful
+    fr = paisible
+    es = pacífica
+  [dive.difficulty.4.sentence]
+    tags = dive_rating_sentences
+    en = it was peaceful
+    fr = qui fût paisible
+    es = que fue pacífica
+  [dive.life.0.keyword]
+    tags = dive_rating_sentences
+    en = {life density}
+    fr = {densité de vie}
+    es = {densidad de la vida}
+  [dive.life.0.sentence]
+    tags = dive_rating_sentences
+    en = I saw {life density} down there
+    fr = C'est {densité de vie} là dessous
+    es = Vi {densidad de la vida} allí
+  [dive.life.1.keyword]
+    tags = dive_rating_sentences
+    en = teeming with life
+    fr = grouillant de vie
+    es = lleno de vida
+  [dive.life.1.sentence]
+    tags = dive_rating_sentences
+    en = It is teeming with life down there
+    fr = C'est grouillant de vie là dessous
+    es = Está lleno de vida allí
+  [dive.life.2.keyword]
+    tags = dive_rating_sentences
+    en = a lot of life
+    fr = beaucoup de vie
+    es = mucha vida
+  [dive.life.2.sentence]
+    tags = dive_rating_sentences
+    en = I saw a lot of life down there
+    fr = J'ai vu beaucoup de vie là dessous
+    es = Vi mucha vida ahí abajo
+  [dive.life.3.keyword]
+    tags = dive_rating_sentences
+    en = some life
+    fr = un peu de vie
+    es = un poco de vida
+  [dive.life.3.sentence]
+    tags = dive_rating_sentences
+    en = I saw some life down there
+    fr = J'ai vu un peu de vie là dessous
+    es = Vi un poco de vida allí
+  [dive.life.4.keyword]
+    tags = dive_rating_sentences
+    en = little life
+    fr = rarement
+    es = poca vida
+  [dive.life.4.sentence]
+    tags = dive_rating_sentences
+    en = I saw little life down there
+    fr = La vie se montre rarement là dessous
+    es = Vi poca vida allí
+  [dive.life.5.keyword]
+    tags = dive_rating_sentences
+    en = deserted
+    fr = désert
+    es = abandonado
+  [dive.life.5.sentence]
+    tags = dive_rating_sentences
+    en = It's deserted here below
+    fr = C'est complètement désert là dessous
+    es = Ha abandonado aquí abajo
+  [dive.pollution.0.keyword]
+    tags = dive_rating_sentences
+    en = {pollution}
+    fr = {pollution}
+    es = {la contaminación}
+  [dive.pollution.0.sentence]
+    tags = dive_rating_sentences
+    en = the place was {pollution}
+    fr = l'endroit est {pollution}
+    es = el lugar era {la contaminación}
+  [dive.pollution.1.keyword]
+    tags = dive_rating_sentences
+    en = pristine
+    fr = immaculé
+    es = prístina
+  [dive.pollution.1.sentence]
+    tags = dive_rating_sentences
+    en = the place was pristine
+    fr = l'endroit est immaculé
+    es = el lugar estaba prístina
+  [dive.pollution.2.keyword]
+    tags = dive_rating_sentences
+    en = some trash
+    fr = quelques
+    es = algo de basura
+  [dive.pollution.2.sentence]
+    tags = dive_rating_sentences
+    en = the place had some trash
+    fr = l'endroit a quelques détritus
+    es = el lugar tenía algo de basura
+  [dive.pollution.3.keyword]
+    tags = dive_rating_sentences
+    en = littered with trash
+    fr = jonché
+    es = lleno de basura
+  [dive.pollution.3.sentence]
+    tags = dive_rating_sentences
+    en = the place is littered with trash
+    fr = l'endroit est jonché de détritus
+    es = el lugar está lleno de basura
+  [dive.crowd.0.keyword]
+    tags = dive_rating_sentences
+    en = {quantity}
+    fr = {quantité}
+    es = {cantidad}
+  [dive.crowd.0.sentence]
+    tags = dive_rating_sentences
+    en = there were {quantity} divers
+    fr = il y avait {quantité} plongeurs
+    es = hubo {cantidad} buceadores
+  [dive.crowd.1.keyword]
+    tags = dive_rating_sentences
+    en = too many
+    fr = beaucoup trop
+    es = demasiados
+  [dive.crowd.1.sentence]
+    tags = dive_rating_sentences
+    en = there were too many divers
+    fr = il y avait beaucoup trop de monde
+    es = había demasiados buceadores
+  [dive.crowd.2.keyword]
+    tags = dive_rating_sentences
+    en = only a few
+    fr = que quelques
+    es = unos pocos
+  [dive.crowd.2.sentence]
+    tags = dive_rating_sentences
+    en = there were only a few divers
+    fr = il n'y avait que quelques plongeurs
+    es = sólo había unos pocos buceadores
+  [dive.crowd.3.keyword]
+    tags = dive_rating_sentences
+    en = nobody
+    fr = personne
+    es = nadie
+  [dive.crowd.3.sentence]
+    tags = dive_rating_sentences
+    en = there was nobody else
+    fr = il n'y avait personne d'autre
+    es = no había nadie más
+
+[[Memory Triggers - Inspiration]]
+  [inspiration.0.title]
+    tags = memory_triggers
+    en = Before the dive
+    fr = Avant la plongée
+    es = Antes de la inmersión
+  [inspiration.0.trigger.0.title]
+    tags = memory_triggers
+    en = Anxiety
+    fr = Anxiété
+    es = Ansiedad
+  [inspiration.0.trigger.0.content]
+    tags = memory_triggers
+    en = I was a little anxious about this dive because …. I talked with my guide and fellow buddies and they helped me get over it, so I felt I was ready to go.
+    fr = J’étais un tantinet anxieux avant cette plongée parce que …. Le fait d’avoir discuté avec le guide et les autres membres de la palanquée m’a aidé à surmonter mon appréhension, j’étais donc prêt à me jeter à l’eau.
+    es = Yo estaba un poco preocupado por esta inmersión porque .... Hablé con mi guía y compañeros amigos y me ayudaron a superarlo, así que me sentí que estaba listo para ir.
+  [inspiration.0.trigger.1.title]
+    tags = memory_triggers
+    en = Excitement
+    fr = Enthousiasme
+    es = Emoción
+  [inspiration.0.trigger.1.content]
+    tags = memory_triggers
+    en = I was really excited by that dive. I had been waiting for it for weeks because …
+    fr = J’avais vraiment hâte de plonger. Je l’attendais depuis des semaines parce que…
+    es = Yo estaba muy emocionado por esa inmersión. Yo había estado esperando durante semanas porque ...
+  [inspiration.0.trigger.2.title]
+    tags = memory_triggers
+    en = Weight belt
+    fr = Lestage
+    es = cinturón de peso
+  [inspiration.0.trigger.2.content]
+    tags = memory_triggers
+    en = As usual, I had forgotten how much weight I was supposed to put on with a 5mm suit.
+    fr = Comme d’habitude, j’avais oublié combien de poids je dois mettre pour une combinaison de 5 mm.
+    es = Como de costumbre, me había olvidado de la cantidad de peso que tenía que poner en con un traje de 5 mm.
+  [inspiration.0.trigger.3.title]
+    tags = memory_triggers
+    en = Tank mix
+    fr = Bouteille
+    es = mezcla de tanque
+  [inspiration.0.trigger.3.content]
+    tags = memory_triggers
+    en = Diving with Nitrox means that you must remember to adjust your dive computer settings before each dive.
+    fr = En plongeant au Nitrox il faut se souvenir de paramétrer sa montre de plongée avant chaque plongée.
+    es = El buceo con Nitrox significa que usted debe recordar que ajustar la configuración del equipo de buceo antes de cada inmersión.
+  [inspiration.0.trigger.4.title]
+    tags = memory_triggers
+    en = Dive briefing
+    fr = Briefing de la plongée
+    es = rueda de buceo
+  [inspiration.0.trigger.4.content]
+    tags = memory_triggers
+    en = The dive master gave us a briefing about the topography and the species we were likely to encounter. He showed us the and signs for the most peculiar species.
+    fr = Le guide de plongée nous a expliqué la topographie du site et les espèces que nous serions susceptibles de rencontrer. Il nous a aussi fait un rappel des signes sous l’eau pour les espèces que nous ne rencontrons pas tous les jours.
+    es = El maestro de buceo nos dio una conferencia sobre la topografía y la especie que era probable que sufrieran. Él nos mostró signos y la de las especies más peculiares.
+  [inspiration.0.trigger.5.title]
+    tags = memory_triggers
+    en = Gearing up
+    fr = Préparation du matériel
+    es = preparándose
+  [inspiration.0.trigger.5.content]
+    tags = memory_triggers
+    en = Fins, Mask, Weights, Air full, Air on, Computer, Camera. Better check that you have everything before you step into the dingy!
+    fr = Palmes, Masque, Poids, Bouteille pleine, Bouteille ouverte, Ordinateur, Appareil photo. Il vaut mieux tout vérifier avant de monter sur l’embarcation qui nous mène au site de plongée !
+    es = Aletas, máscara, Pesas, Aire completo, aire encendido, ordenador, cámara. Mejor comprobar que tiene todo lo que antes de entrar en la sucia!
+  [inspiration.0.trigger.6.title]
+    tags = memory_triggers
+    en = Long walk
+    fr = Marcher tout arnaché
+    es = Camino largo
+  [inspiration.0.trigger.6.content]
+    tags = memory_triggers
+    en = Well, not so long, but short distances feel long when you're carrying half your weight on your shoulders!
+    fr = Pas si longtemps que ça mais même les courtes distances paraissent longues quand on porte la moitié de son poids sur son dos !
+    es = Así, las distancias no tan largas, cortas, pero se sienten mucho tiempo cuando usted está llevando la mitad de su peso sobre los hombros!
+  [inspiration.1.title]
+    tags = memory_triggers
+    en = Going down
+    fr = La descente
+    es = Bajando
+  [inspiration.1.trigger.0.title]
+    tags = memory_triggers
+    en = Acrobatic jump
+    fr = Saut acrobatique dans l’eau
+    es = salto acrobático
+  [inspiration.1.trigger.0.content]
+    tags = memory_triggers
+    en = We had some fun jumping from the boat while one of us was filming.
+    fr = Nous nous sommes amuses à sauter dans l’eau depuis le bateau pendant que l’un de nous filmait nos exploits.
+    es = Tuvimos un poco de diversión saltando desde el barco mientras uno de nosotros estaba filmando.
+  [inspiration.1.trigger.1.title]
+    tags = memory_triggers
+    en = Negative entry
+    fr = Negative entry
+    es = entrada negativa
+  [inspiration.1.trigger.1.content]
+    tags = memory_triggers
+    en = Because of the strong current, we had to perform a negative entry in order to reach our bottom depth quickly and make sure we don't get spread.
+    fr = A cause du courant fort, nous avons dû nous mettre à l’eau et descendre directement pour atteindre une profondeur où le courant serait mois fort et éviter de nous séparer en surface.
+    es = Debido a la fuerte corriente, tuvimos que realizar una entrada negativa con el fin de llegar a nuestra profundidad del fondo de forma rápida y asegurarse de que no nos extendemos.
+  [inspiration.1.trigger.2.title]
+    tags = memory_triggers
+    en = Big waves
+    fr = Grosses vagues
+    es = Grandes olas
+  [inspiration.1.trigger.2.content]
+    tags = memory_triggers
+    en = There were big waves on the surface, we could still feel the swell during the first few meters.
+    fr = Il y avait une houle importante en surface ce qui fait qu’on était encore ballotés sur les premiers mètres de la descente.
+    es = Había grandes olas en la superficie, todavía podía sentir el oleaje durante los primeros metros.
+  [inspiration.1.trigger.3.title]
+    tags = memory_triggers
+    en = Ear problem
+    fr = Problème d’oreilles lors de la descente
+    es = problema en el oído
+  [inspiration.1.trigger.3.content]
+    tags = memory_triggers
+    en = I / someone had some trouble going down. Ears are such a small part of your body, and yet, they decide whether you'll stay onboard, or be a fish.
+    fr = J’ai / quelqu’un a rencontré des difficultés pour descendre. Les oreilles sont de petites parties de notre corps proportionnellement au reste mais, elles sont maîtres à bord pour décider si on peut aller plonger ou si on reste en surface.
+    es = E / alguien tenía alguna dificultad para ir hacia abajo. Las orejas son una pequeña parte de su cuerpo, y, sin embargo, ellos deciden si usted va a permanecer a bordo, o ser un pez.
+  [inspiration.1.trigger.4.title]
+    tags = memory_triggers
+    en = Cold water
+    fr = Eau froide
+    es = Agua fría
+  [inspiration.1.trigger.4.content]
+    tags = memory_triggers
+    en = The water felt really cold! I could feel it flooding my wetsuit.
+    fr = L’eau m’a paru très froide ! Je la sentais bien quand elle rentrait dans ma combinaison.
+    es = El agua se sentía muy fría! Podía sentirlo inundando mi traje.
+  [inspiration.2.title]
+    tags = memory_triggers
+    en = Encounters
+    fr = Rencontres
+    es = encuentros
+  [inspiration.2.trigger.0.title]
+    tags = memory_triggers
+    en = First time
+    fr = Première fois
+    es = Primera vez
+  [inspiration.2.trigger.0.content]
+    tags = memory_triggers
+    en = It's the first time I encounter this species.
+    fr = C’est la première fois que je rencontre cette espèce.
+    es = Es la primera vez que me encuentro con esta especie.
+  [inspiration.2.trigger.1.title]
+    tags = memory_triggers
+    en = Unidentified species
+    fr = Espèce non identifiée
+    es = Las especies no identificadas
+  [inspiration.2.trigger.1.content]
+    tags = memory_triggers
+    en = I spent time browsing app species index and the books, but I still have no clue about what I saw. Maybe someone will find when I upload the picture on tortuba!
+    fr = J’ai passé du temps à regarder dans le sommaire d’identification et dans les livres mais je ne parviens à identifier l’espèce rencontrée. J’espère que quelqu’un pourra me venir en aide lorsque j’aurai mis la photo en ligne sur tortuba !
+    es = Me pasado tiempo navegando índice de especies de aplicaciones y los libros, pero todavía no tengo ni idea de lo que vi. Tal vez alguien va a encontrar cuando subo la imagen en tortuba!
+  [inspiration.2.trigger.2.title]
+    tags = memory_triggers
+    en = Funny behavior
+    fr = Comportement amusant
+    es = comportamiento divertido
+  [inspiration.2.trigger.2.content]
+    tags = memory_triggers
+    en = Those two fishes were acting in a peculiar way,
+    fr = Ces deux poisons agissaient d’une manière assez singulière,
+    es = Esos dos peces estaban actuando de una manera peculiar,
+  [inspiration.2.trigger.3.title]
+    tags = memory_triggers
+    en = Hidden fellow
+    fr = Petit malin caché
+    es = compañero oculto
+  [inspiration.2.trigger.3.content]
+    tags = memory_triggers
+    en = This little guy was really well hidden behind his rock.
+    fr = Ce poisson se cachait particulièrement bien derrière sa pierre.
+    es = Este pequeño individuo estaba muy bien escondido detrás de la roca.
+  [inspiration.2.trigger.4.title]
+    tags = memory_triggers
+    en = Huge schools
+    fr = Grands bancs
+    es = enormes
+  [inspiration.2.trigger.4.content]
+    tags = memory_triggers
+    en = We swam in the middle of huge schools of …. I could spend hours watching them evolve around me.
+    fr = Nous avons plongé au milieu d’un grand banc de …. J’aurais pu passer des heures à les regarder tournoyer autour de moi.
+    es = Nadamos en medio de enormes bancos de .... Podría pasar horas viendo evolucionar a mi alrededor.
+  [inspiration.2.trigger.5.title]
+    tags = memory_triggers
+    en = Big fish
+    fr = Gros poisson
+    es = Gran pez
+  [inspiration.2.trigger.5.content]
+    tags = memory_triggers
+    en = Wow! That's one of the biggest fish I ever saw!
+    fr = Wow! A cette plongée, c’était la première fois que je voyais un aussi gros poisson !
+    es = ¡Guauu! Ese es uno de los peces más grandes que he visto!
+  [inspiration.2.trigger.6.title]
+    tags = memory_triggers
+    en = Small fish
+    fr = Petit poisson
+    es = Pez pequeño
+  [inspiration.2.trigger.6.content]
+    tags = memory_triggers
+    en = This fish was small, but its colors and shape are stunning!
+    fr = Certes ce poissons était petit, mais quelles couleurs et quelle forme incroyable!
+    es = Este pez era pequeña, pero sus colores y formas son impresionantes!
+  [inspiration.2.trigger.7.title]
+    tags = memory_triggers
+    en = Cleaning station
+    fr = Station de nettoyage
+    es = estación de limpieza
+  [inspiration.2.trigger.7.content]
+    tags = memory_triggers
+    en = We spent some time at the cleaning station, watching the big game coming and going to get their teeth and gills cleaned.
+    fr = Nous sommes restés un peu de temps à la station de nettoyage, cela nous a permis d’assister au ballet des poisons qui vont et viennent pour se faire nettoyer les dents ou les branchies.
+    es = Pasamos mucho tiempo en la estación de limpieza, ver los grandes juegos que van y vienen de conseguir sus dientes y las branquias limpiarse.
+  [inspiration.2.trigger.8.title]
+    tags = memory_triggers
+    en = Hunting
+    fr = La chasse
+    es = Caza
+  [inspiration.2.trigger.8.content]
+    tags = memory_triggers
+    en = During night dive we saw a fish trying to swallow a smaller one. Life is tough out there!
+    fr = Lors de cette plongée de nuit nous avons vu un poisson en train d’en chasser un autre plus petit que lui. La vie est dure ici-bas!
+    es = Durante la noche de buceo vimos un pez tratando de tragar una más pequeña. La vida es difícil que hay!
+  [inspiration.2.trigger.9.title]
+    tags = memory_triggers
+    en = Mating
+    fr = Accouplement
+    es = Apareamiento
+  [inspiration.2.trigger.9.content]
+    tags = memory_triggers
+    en = As we were watching a nudibranch, another one came by and they started to mate.
+    fr = Alors que nous étions en train de regarder un nudibranche, un autre est arrivé et ils ont commencé à s’accoupler.
+    es = Ya que estábamos viendo un nudibranquio, otro vino y comenzaron a aparearse.
+  [inspiration.2.trigger.10.title]
+    tags = memory_triggers
+    en = Awesome picture
+    fr = Superbe photo
+    es = Foto increíble
+  [inspiration.2.trigger.10.content]
+    tags = memory_triggers
+    en = I'm really proud of that picture I took of a …
+    fr = Je suis particulièrement fière de cette photo prise …
+    es = Estoy muy orgulloso de esa foto que tomé de una ...
+  [inspiration.2.trigger.11.title]
+    tags = memory_triggers
+    en = Barren lands
+    fr = Territoires désertiques
+    es = tierras áridas
+  [inspiration.2.trigger.11.content]
+    tags = memory_triggers
+    en = There was nothing. No life, only desert rocks and sand patches :(
+    fr = Il n’y avait rien. Pas de vie sous-marine, juste des désert de rochers et des fonds sablonneux :(
+    es = No había nada. No hay vida, sólo rocas del desierto y los parches de arena :(
+  [inspiration.3.title]
+    tags = memory_triggers
+    en = Landscape
+    fr = Paysage
+    es = Paisaje
+  [inspiration.3.trigger.0.title]
+    tags = memory_triggers
+    en = Wall
+    fr = Mur
+    es = pared
+  [inspiration.3.trigger.0.content]
+    tags = memory_triggers
+    en = We spent the whole time diving along a huge wall, we couldn't see the bottom of it.
+    fr = Toute la plongée s’est déroulée le long d’un immense mur, qui nous paraissait infini car nous ne pouvions pas discerner le fond.
+    es = Pasamos todo el tiempo de buceo a lo largo de una pared enorme, que no podía ver el fondo del mismo.
+  [inspiration.3.trigger.1.title]
+    tags = memory_triggers
+    en = Shallow reef
+    fr = Récif peu profond
+    es = arrecifes poco profundos
+  [inspiration.3.trigger.1.content]
+    tags = memory_triggers
+    en = The shallow reef is a colorful and lively place. Finishing the dive there was like a cherry on top of the cake.
+    fr = Ce récif peu profond est particulièrement coloré et foisonnant de vie. Finir la plongée par cet endroit c’était vraiment la cerise sur le gâteau.
+    es = El arrecife es un lugar colorido y animado. Terminando la inmersión había como una cereza en la parte superior de la torta.
+  [inspiration.3.trigger.2.title]
+    tags = memory_triggers
+    en = Big boulders
+    fr = Gros rochers
+    es = grandes rocas
+  [inspiration.3.trigger.2.content]
+    tags = memory_triggers
+    en = We came accross big boulders and spent some time behind them looking for small sea life, protected from the current.
+    fr = Nous avons sillonné entre les rochers à la recherche de poissons et autres petites créatures, qui s’épanouissent bien à l’abri du courant.
+    es = Nos encontré con grandes rocas y pasamos algún tiempo detrás de ellos en busca de la vida marina pequeña, protegida de la corriente.
+  [inspiration.3.trigger.3.title]
+    tags = memory_triggers
+    en = Sandy patches
+    fr = Fonds sablonneux
+    es = parches de arena
+  [inspiration.3.trigger.3.content]
+    tags = memory_triggers
+    en = Sandy patches often host sandy eels, and indeed, we saw a whole bunch of them.
+    fr = Les fonds sablonneux sont souvent l’occasion de rencontrer des anguilles jardinières, et ça n’a pas manqué, nous en avons vu.
+    es = parches de arena a menudo albergan las anguilas de arena, y, de hecho, vimos un montón de ellos.
+  [inspiration.3.trigger.4.title]
+    tags = memory_triggers
+    en = Muck diving
+    fr = ”Muck dive”
+    es = buceo de porquería
+  [inspiration.3.trigger.4.content]
+    tags = memory_triggers
+    en = We spent our whole dive 1 meter away from the sand, looking for small unreal creatures.
+    fr = La plongée s’est déroulée le masque presque collé au fond, à la recherche de petites créatures sorties d’un livre de science-fiction.
+    es = Pasamos toda nuestra inmersión a 1 metro de la arena, en busca de pequeñas criaturas irreales.
+  [inspiration.3.trigger.5.title]
+    tags = memory_triggers
+    en = Lots of pinnacles
+    fr = Au milieu des coraux
+    es = Un montón de pináculos
+  [inspiration.3.trigger.5.content]
+    tags = memory_triggers
+    en = Pinnacles all around! It was a good time to practice our orientation skills…
+    fr = Des coraux majestueux un peu partout ! C’était l’occasion de pratiquer ses compétences d’orientation…
+    es = Pináculos por todas partes! Era un buen momento para practicar nuestras habilidades de orientación ...
+  [inspiration.3.trigger.6.title]
+    tags = memory_triggers
+    en = In the blue
+    fr = Dans le bleu
+    es = En el azul
+  [inspiration.3.trigger.6.content]
+    tags = memory_triggers
+    en = Diving in the blue is quite an experience, …
+    fr = Une plongée dans le bleu est une expérience à part, …
+    es = El buceo en el azul es toda una experiencia, ...
+  [inspiration.3.trigger.7.title]
+    tags = memory_triggers
+    en = Ship wreck
+    fr = Epave
+    es = Naufragio
+  [inspiration.3.trigger.7.content]
+    tags = memory_triggers
+    en = We spent a good time around wreck, watching how life had conquered it entirely.
+    fr = La majeure partie de la plongée s’est déroulée sur l’épave, et nous avons pu observer comment la nature à repris ses droits et a empli toutes les surfaces et cavités.
+    es = Pasamos un buen momento alrededor de naufragio, viendo cómo la vida había conquistado por completo.
+  [inspiration.3.trigger.8.title]
+    tags = memory_triggers
+    en = Swim through
+    fr = Passage sous un rocher
+    es = Nada a través
+  [inspiration.3.trigger.8.content]
+    tags = memory_triggers
+    en = At some point we followed our guide below a rock. There was a school of small fishes there.
+    fr = A un moment donné, notre guide est passé sous un rocher et nous l’avons suivi. C’était très excitant et de nombreux poissons nous attendait de l’autre côté.
+    es = En algún momento hemos seguido nuestra guía por debajo de una roca. Había una escuela de pequeños peces allí.
+  [inspiration.4.title]
+    tags = memory_triggers
+    en = Conditions
+    fr = Type de plongée
+    es = condiciones
+  [inspiration.4.trigger.0.title]
+    tags = memory_triggers
+    en = Drift diving
+    fr = Plongée dérivante
+    es = buceo en corrientes
+  [inspiration.4.trigger.0.content]
+    tags = memory_triggers
+    en = There was a lot of current at this place so we let ourselves carried away by the current while watching the reef below us.
+    fr = Le courant était fort lors de cette plongée donc nous nous sommes laissés porter en s’émerveillant des paysages défilant devant nous.
+    es = Había una gran cantidad de corriente en este lugar, así que nos dejamos llevar por la corriente mientras se ve el arrecife debajo de nosotros.
+  [inspiration.4.trigger.1.title]
+    tags = memory_triggers
+    en = Swimming pool
+    fr = En piscine
+    es = Piscina
+  [inspiration.4.trigger.1.content]
+    tags = memory_triggers
+    en = There was absolutely no current, it was like diving in a swimming pool.
+    fr = Il n’y avait pas du tout de courant, c’était comme plonger dans une piscine.
+    es = No había absolutamente ninguna corriente, era como sumergirse en una piscina.
+  [inspiration.4.trigger.2.title]
+    tags = memory_triggers
+    en = Night dive
+    fr = Plongée de nuit
+    es = inmersión nocturna
+  [inspiration.4.trigger.2.content]
+    tags = memory_triggers
+    en = It was full moon, there was so much light we could have dived without flashlights!
+    fr = Comme c’était la pleine lune on aurait pu plonger sans lampe torche !
+    es = Era luna llena, había tanta luz que podríamos haber practicado sin linternas!
+  [inspiration.4.trigger.3.title]
+    tags = memory_triggers
+    en = Warm water
+    fr = Eaux/Mers chaudes
+    es = Agua tibia
+  [inspiration.4.trigger.3.content]
+    tags = memory_triggers
+    en = The water was so warm I went diving with my bathing suit only.
+    fr = L’eau était si chaude que j’ai pu plonger avec mon seul maillot de bain.
+    es = El agua estaba tan caliente que fui a bucear con mi traje de baño solamente.
+  [inspiration.4.trigger.4.title]
+    tags = memory_triggers
+    en = Crystal clear water
+    fr = Eau cristaline
+    es = Agua clara como el cristal
+  [inspiration.4.trigger.4.content]
+    tags = memory_triggers
+    en = The water was really clear, we could see more than 40m all around.
+    fr = La visibilité était excellente, nous pouvions voir à plus de 40m.
+    es = El agua estaba muy clara, pudimos ver más de 40 millones en todo.
+  [inspiration.5.title]
+    tags = memory_triggers
+    en = Challenges
+    fr = Difficultés
+    es = desafíos
+  [inspiration.5.trigger.0.title]
+    tags = memory_triggers
+    en = Strong current
+    fr = Fort courant
+    es = Corriente fuerte
+  [inspiration.5.trigger.0.content]
+    tags = memory_triggers
+    en = The current was really strong so we didn't go very far against it.
+    fr = Le courant était si fort que nous ne pouvions pas nager contre lui pendant très longtemps.
+    es = La corriente era muy fuerte, así que no ir muy lejos en contra de ella.
+  [inspiration.5.trigger.1.title]
+    tags = memory_triggers
+    en = Poor visibility
+    fr = Mauvaise visibilité
+    es = Pobre visibilidad
+  [inspiration.5.trigger.1.content]
+    tags = memory_triggers
+    en = I could barely see the divers in front of me.
+    fr = Je pouvais à peine distinguer les plongeurs devant moi.
+    es = Apenas podía ver los buzos en frente de mí.
+  [inspiration.5.trigger.2.title]
+    tags = memory_triggers
+    en = Down current
+    fr = Courant descendant
+    es = abajo actual
+  [inspiration.5.trigger.2.content]
+    tags = memory_triggers
+    en = It's always a little bit destabilizing when you see your bubbles going down instead of up.
+    fr = C’est toujours assez déstabilisant de voir ses bulles emportées vers les grands fonds au lieu de gentiment rejoindre la surface comme à leur habitude.
+    es = Es siempre un poco desestabilizar cuando vea sus burbujas de ir abajo en vez de hacia arriba.
+  [inspiration.5.trigger.3.title]
+    tags = memory_triggers
+    en = Cold
+    fr = Le froid
+    es = Frío
+  [inspiration.5.trigger.3.content]
+    tags = memory_triggers
+    en = The water was really cold. I heard about some ways to get warm… but didn't need to try them in the end.
+    fr = L’eau était très froide. J’ai entendu parler de moyen détourné pour avoir plus chaud dans sa combinaison... Mais j’ai préféré m’abstenir.
+    es = El agua estaba muy fría. Me enteré de algunas maneras de conseguir caliente ... pero no tenía necesidad de probarlos en el final.
+  [inspiration.5.trigger.4.title]
+    tags = memory_triggers
+    en = Equipment issue
+    fr = Défaillance technique
+    es = Equipo tema
+  [inspiration.5.trigger.4.content]
+    tags = memory_triggers
+    en = Some bubbles were coming out of one of the flexibles.
+    fr = Des bulles se sont mises à s’échapper de mon détendeur.
+    es = Algunas burbujas salían de uno de los flexibles.
+  [inspiration.5.trigger.5.title]
+    tags = memory_triggers
+    en = Lost
+    fr = Perdu(e)
+    es = Perdido
+  [inspiration.5.trigger.5.content]
+    tags = memory_triggers
+    en = Because of the poor visibility and the strong current, part of the group got separated. But all is well that ends well.
+    fr = Du fait de la mauvaise visibilité et du courant fort, une partie de la palanquée s’est égarée. Cependant tout s’est bien fini.
+    es = Debido a la mala visibilidad y la fuerte corriente, que forma parte del grupo se separó. Pero bien está lo que bien acaba.
+  [inspiration.5.trigger.6.title]
+    tags = memory_triggers
+    en = Water in the mask
+    fr = Eau dans le masque
+    es = El agua en la máscara
+  [inspiration.5.trigger.6.content]
+    tags = memory_triggers
+    en = I spent my whole dive with some water in my mask. I would remove it, but after a couple minutes it was back again. Heh.
+    fr = Pendant toute la plongée je n’ai pas cessé d’avoir de l’eau dans le masque. Je passais mon temps à l’enlever et inlassablement de l’eau réussissait à nouveau à rentrer.
+    es = Pasé toda mi inmersión con un poco de agua en mi máscara. Me quito, pero después de un par de minutos que estaba de vuelta otra vez. Je.
+  [inspiration.5.trigger.7.title]
+    tags = memory_triggers
+    en = Buoyancy
+    fr = Flottabilité
+    es = Flotabilidad
+  [inspiration.5.trigger.7.content]
+    tags = memory_triggers
+    en = I had some troubles adjusting my buoyancy.
+    fr = J’ai eu quelques difficultés à trouver ma flottabilité.
+    es = Tenía mi ajuste de flotabilidad sin dificultades.
+  [inspiration.5.trigger.8.title]
+    tags = memory_triggers
+    en = Air consumption
+    fr = Consommation d’air
+    es = Consumo de aire
+  [inspiration.5.trigger.8.content]
+    tags = memory_triggers
+    en = I breathed heavily on this one, I ended up with a lot less bars than my buddy.
+    fr = Sur cette plongée j’ai rapidement vide la bouteille et ai terminé avec beaucoup moins d’air que mon “buddy”.
+    es = Respiré en gran medida de éste, que terminó con muchas menos las rejas que mi amigo.
+  [inspiration.6.title]
+    tags = memory_triggers
+    en = Going up
+    fr = La remontée
+    es = Subiendo
+  [inspiration.6.trigger.0.title]
+    tags = memory_triggers
+    en = Unexpected encounter
+    fr = Une rencontre inespérée
+    es = encuentro inesperado
+  [inspiration.6.trigger.0.content]
+    tags = memory_triggers
+    en = While we were doing our safety stop, we had a nice surprise and saw a …
+    fr = Pendant le palier de sécurité, nous avons eu une belle surprise car … est venu nous rendre visite.
+    es = Mientras que estábamos haciendo nuestra parada de seguridad, tuvimos una agradable sorpresa y vimos un ...
+  [inspiration.6.trigger.1.title]
+    tags = memory_triggers
+    en = Ear problem
+    fr = Problème d’oreilles
+    es = problema en el oído
+  [inspiration.6.trigger.1.content]
+    tags = memory_triggers
+    en = I had to pace myself going up because my ear was blocked.
+    fr = Il a fallu que je fasse une remontée tout doucement car mes oreilles me faisaient mal.
+    es = Tenía que mi ritmo subiendo porque mi oído estaba bloqueado.
+  [inspiration.6.trigger.2.title]
+    tags = memory_triggers
+    en = Deco time
+    fr = Décompression
+    es = tiempo de deco
+  [inspiration.6.trigger.2.content]
+    tags = memory_triggers
+    en = We went sligthly over the limits and had to a couple more minutes at the safety stop.
+    fr = Nous avons été un peu au-delà des limites et il a fallu faire un palier de décompression. Nous sommes donc restés quelques minutes en plus au palier.
+    es = Fuimos sligthly lo largo de los límites y tenía a un par de minutos en la parada de seguridad.
+  [inspiration.6.trigger.3.title]
+    tags = memory_triggers
+    en = Hard to stabilize at the safety stop
+    fr = Difficile de se stabliliser au palier
+    es = Es difícil de estabilizar en la parada de seguridad
+  [inspiration.6.trigger.3.content]
+    tags = memory_triggers
+    en = I was slightly underweighted and it was difficult to stay at 5m for the safety stop, I was constantly pulled to the surface.
+    fr = Je n’avais pas assez de poids donc il a été compliqué de rester au palier. Je n’arrêtais pas de remonter vers la surface malgré moi.
+    es = Yo estaba un poco Infraponderaciones y era difícil mantenerse a 5m de la parada de seguridad, fui sacada constantemente a la superficie.
+  [inspiration.7.title]
+    tags = memory_triggers
+    en = On the way back
+    fr = Sur le chemin du retour
+    es = De regreso
+  [inspiration.7.trigger.0.title]
+    tags = memory_triggers
+    en = Happiness all around
+    fr = Tout le monde mesurait sa chance et son bonheur.
+    es = La felicidad en todo
+  [inspiration.7.trigger.0.content]
+    tags = memory_triggers
+    en = Everybody was cheerful after the dive, it was such an amazing experience.
+    fr = Tout le monde était heureux et enjoué après la plongée, c’était vraiment une magnifique expérience.
+    es = Todo el mundo era alegre después de la inmersión, fue una experiencia increíble.
+  [inspiration.7.trigger.1.title]
+    tags = memory_triggers
+    en = Hot beverage
+    fr = Boisson chaude
+    es = Bebida caliente
+  [inspiration.7.trigger.1.content]
+    tags = memory_triggers
+    en = There's nothing like a hot tea after 45" in a freezing water!
+    fr = Il n’y a pas grand chose de plus appréciable qu’un thé bien chaud avoir passé plusieurs minutes dans une eau froide.
+    es = No hay nada como un té caliente después de 45 &quot;en un agua helada!
+  [inspiration.7.trigger.2.title]
+    tags = memory_triggers
+    en = Beer time
+    fr = Apéro
+    es = Tiempo de cerveza
+  [inspiration.7.trigger.2.content]
+    tags = memory_triggers
+    en = Last dive of the day means that beer is back in the game!
+    fr = C’était la dernière plongée de la journée ce qui signifie qu’il est temps de prendre l’apéro.
+    es = Última inmersión del día significa que la cerveza está de vuelta en el juego!
+  [inspiration.7.trigger.3.title]
+    tags = memory_triggers
+    en = Meal time
+    fr = Repas
+    es = tiempo de la comida
+  [inspiration.7.trigger.3.content]
+    tags = memory_triggers
+    en = Sleeping, diving, eating. I could get used to it!
+    fr = Dormir, plonger, manger. Je pourrais y prendre goût!
+    es = Dormir, buceo, comer. Podría acostumbrarme a él!
