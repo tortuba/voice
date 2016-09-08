@@ -3232,17 +3232,17 @@
 
 [[Signature]]
   [signature.new.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Who will sign?
-    fr = Qui va signer?
+    fr = Qui va signer ?
     es = ¿Quien va a firmar?
   [signature.new.sign.hint]
-    tags = sb,ios,android
+    tags = ios,android
     en = Sign below… or draw a fish!
     fr = Signez ci-dessous… ou dessinez un poisson!
     es = Firme abajo… ¡o dibuje un pez!
   [signature.new.dives.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Which dives?
     fr = Quelles plongées ?
     es = ¡Cuales inmersiones?
