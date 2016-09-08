@@ -1785,7 +1785,7 @@
     tags = ios,android
     en = You can add sites using the + button here, or when you log a new dive.\n\nWhy don't you log one now?
     fr = Vous pouvez ajouter des sites ici avec le bouton +, ou pendant que vous enregistrez une plongée.\n\nPourquoi ne pas en enregistrer une maintenant?
-    es = Puede añadir sitios aquí pulsando el botón +, o mientras está registrando una inmersión.\n\
+    es = Puede añadir sitios aquí pulsando el botón +,\n\no mientras está registrando una inmersión.
   [sites.empty.message.picker]
     tags = ios,android
     en = You can add a new site using the + button.
