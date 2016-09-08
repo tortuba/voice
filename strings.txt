@@ -515,7 +515,7 @@
     tags = ios,android
     en = Email
     fr = Email
-    es = Correo electrónico
+    es = Email
   [user.email.placeholder]
     tags = ios,android
     en = To keep in touch
@@ -802,84 +802,99 @@
 
 [[Tour]]
   [tour.start]
-    tags = sb,ios,android
+    tags = ios,android
     en = GET STARTED
     fr = COMMENCER
     es = ARRANCAR
   [tour.step.1.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Welcome to Tortuba
     fr = Bienvenue sur Tortuba
     es = Bienvenido en Tortuba
   [tour.step.1.details]
-    tags = sb,ios,android
+    tags = ios,android
     en = We want you to have the nicest logbooks.
     fr = Nous voulons que vous ayez les plus beaux carnets, sans effort.
     es = Queremos que tenga las libretas de buceo mas bonitas.
   [tour.step.2.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Why?
     fr = Pourquoi ?
     es = ¿Por qué?
   [tour.step.2.details]
-    tags = sb,ios,android
+    tags = ios,android
     en = To please you and help you inspire people to care about marine life.
     fr = Pour vous faire plaisir et vous aider à inspirer la passion du monde marin.
     es = Para complacerle y ayudarle a transmitir la pasion por la vida marina.
   [tour.step.3.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = No Internet required
     fr = Utilisable sans Internet
     es = Utilizable sin Internet
   [tour.step.3.details]
-    tags = sb,ios,android
+    tags = ios,android
     en = And ships with 10.000+ species and 1.500+ photos to illustrate your stories.
     fr = Et embarque 10.000 espèces et 1.500 photos pour illustrer vos récits.
     es = Y conlleva mas de 10.000 especies y 1.500 fotos para ilustrar sus historias.
   [tour.step.4.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Collect
     fr = Collectionnez
     es = Coleccione
   [tour.step.4.details]
-    tags = sb,ios,android
+    tags = ios,android
     en = Keep your stamp collection going, ask people to sign your logbook!
     fr = Continuez votre collection de tampons, faites signer votre palanquée!
     es = ¡Siga con su colección de sellos, obtenga firmas de sus compañeros en su libreta!
   [tour.step.5.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = Tell your stories
     fr = Racontez vos histoires
     es = Cuente sus historias
   [tour.step.5.details]
-    tags = sb,ios,android
+    tags = ios,android
     en = Create one logbook per trip, add notes between dives to turn it into a journal.
     fr = Créez un carnet par expédition, ajoutez des notes entre les plongées pour en faire un vrai journal.
     es = Cree una libreta por viaje, agregue notas entre las inmersiones para convertirlo en un verdadero diario de buceo.
 
 [[Sign in/up]]
+  [signin.later]
+    tags = ios,android
+    en = Not Now
+    fr = Plus tard
+    es = Más tarde
   [signin.header]
-    tags = sb,ios,android
+    tags = ios,android
     en = Sync your logbook to tortuba.com
     fr = Synchronisez votre carnet avec tortuba.com
     es = Sincronize su libreta con tortuba.com
   [signin.signup]
-    tags = sb,ios,android
+    tags = ios,android
     en = New? Sign Up
     fr = Nouveau? Par ici
     es = ¿Nuevo? Por aquí
+  [signin.email]
+    tags = ios,android
+    en = Email
+    fr = Email
+    es = Email
   [signin.password]
-    tags = sb,ios,android
+    tags = ios,android
     en = Password
     fr = Mot de passe
     es = Contraseña
+  [signin.forgot]
+    tags = ios,android
+    en = Forgot?
+    fr = Oublié ?
+    es = Olvidado?
   [signin.submit]
-    tags = sb,ios,android
+    tags = ios,android
     en = SIGN IN
     fr = SE CONNECTER
     es = CONECTARSE
   [signin.alternate]
-    tags = sb,ios,android
+    tags = ios,android
     en = OR SIGN IN WITH
     fr = OU SE CONNECTER AVEC
     es = O CONECTARSE CON
@@ -888,6 +903,16 @@
     en = Mmh. It didn't work. Try again?
     fr = Mmh. Ca n'a pas marché. Retentez?
     es = Mmh. No funcionó. ¿Reintentar?
+  [forgot.title]
+    tags = ios,android
+    en = Forgot your password?
+    fr = Mot de passe oublié ?
+    es = Contraseña olvidada ?
+  [forgot.submit]
+    tags = ios,android
+    en = Recover password
+    fr = Récupérer le mot de passe
+    es = Recuperar contraseña
   [forgot.success]
     tags = ios,android
     en = Check your emails for further instructions.
@@ -899,25 +924,50 @@
     fr = C'est râté! Vérifiez l'email saisi.
     es = ¡Algo no funcionó! Averigüe el correo eletrónico.
   [signup.header]
-    tags = sb,ios,android
+    tags = ios,android
     en = CREATE YOUR ACCOUNT
     fr = CRÉER UN COMPTE
     es = CREAR UNA CUENTA
-  [signup.submit]
-    tags = sb,ios,android
-    en = SIGN UP
-    fr = S'ENREGISTRER
-    es = INSCRIBIRSE
+  [signup.firstname]
+    tags = ios,android
+    en = Firstname - What should we call you?
+    fr = Prénom - Comment vous appeler ?
+    es = Nombre - ¿Cómo llamar a usted?
+  [signup.email]
+    tags = ios,android
+    en = Email - We don't SPAM
+    fr = Email - On ne SPAM pas, promis
+    es = Email - No envía SPAM, prometió
+  [signup.password]
+    tags = ios,android
+    en = Password - It's ok to forget it
+    fr = Mot de passe - Ce n'est pas grave de l'oublier
+    es = Contraseña - Está bien para olvidar
   [signup.terms.sentence]
     tags = ios,android
     en = By pressing SIGN UP, you acknowledge that you have read and agree to our Terms.
     fr = En pressant S'ENREGISTRER, vous reconnaissez avoir lu et accepté nos Conditions.
     es = Pulsando INSCRIBIRSE, usted reconoce que ha leído y está de acuerdo con nuestras condiciones.
+  [signup.submit]
+    tags = ios,android
+    en = SIGN UP
+    fr = S'ENREGISTRER
+    es = INSCRIBIRSE
   [signup.terms.linkTo]
     tags = ios,android
     en = Terms
     fr = Conditions
     es = Condiciones
+  [signup.alternate]
+    tags = ios,android
+    en = OR SIGN UP WITH
+    fr = OU SE CONNECTER AVEC
+    es = O CONECTARSE CON
+  [signup.failed]
+    tags = ios,android
+    en = Mmh, it didn't work. Try again?
+    fr = Mmh, ça n'a pas marché. On retente ?
+    es = Hmm, no funcionó. Vamos a volver a intentar ?
   [signin.notice.success]
     tags = android
     en = Login successful
