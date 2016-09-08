@@ -1665,17 +1665,17 @@
     fr = Afficher
     es = Mostrar
   [taxons.filter.vernacular_name]
-    tags = sb,ios,android
+    tags = ios,android
     en = Common name
     fr = Nom commun
     es = Nombre común
   [taxons.filter.scientific_name]
-    tags = sb,ios,android
+    tags = ios,android
     en = Scientific name
     fr = Nom scientifique
     es = Nombre científico
   [taxons.filter.i18n.title]
-    tags = android
+    tags = ios,android
     en = Display names in
     fr = Afficher les noms en
     es = Mostrar los nombres en
