@@ -2254,7 +2254,7 @@
     tags = ios,android
     en = Go!
     fr = Go!
-    es = ¡Adelante!
+    es = ¡Go!
   [coach.goButton.end]
     tags = ios,android
     en = End
@@ -2586,7 +2586,7 @@
     tags = ios,android
     en = Drift
     fr = Dérive
-    es = A la deriva
+    es = Deriva
   [dive.conditions.ice]
     tags = ios,android
     en = Ice
