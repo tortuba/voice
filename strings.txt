@@ -2587,17 +2587,17 @@
 
 [[Note - Edit]]
   [note.menu.option.inspiration]
-    tags = sb,ios,android
+    tags = ios,android
     en = Get inspired
     fr = Inspiration
     es = Inspiración
   [note.menu.option.taxons]
-    tags = sb,ios,android
+    tags = sios,android
     en = Add species
     fr = Ajouter espèce
     es = Añadir especie
   [note.menu.option.photo]
-    tags = sb,ios,android
+    tags = ios,android
     en = Add photo
     fr = Ajouter photo
     es = Añadir foto
@@ -2684,22 +2684,27 @@
 
 [[Encounter - Edit]]
   [encounter.header.how_many]
-    tags = sb,ios,android
+    tags = ios,android
     en = How many did you see?
     fr = Combien en avez-vous vu ?
     es = ¿Cuanto ha visto usted?
   [encounter.number.exact]
-    tags = sb,ios,android
+    tags = ios,android
     en = Precisely
     fr = Exactement
     es = Exactamente
+  [encounter.number.exact.placeholder]
+    tags = ios,android
+    en = ?
+    fr = ?
+    es = ?
   [encounter.number.or]
     tags = android
     en = or
     fr = ou
     es = o
   [encounter.number.approx]
-    tags = sb,ios,android
+    tags = ios,android
     en = Roughly
     fr = Environ
     es = Más o menos
