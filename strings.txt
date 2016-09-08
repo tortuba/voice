@@ -2314,14 +2314,14 @@
     es = Equipo
   [dive.buddies.add.new_teammate]
     tags = sb,ios,android
-    en = Add a new teammate
-    fr = Ajouter un équipier
-    es = Añadir un miembro del equipo
+    en = New contact
+    fr = Nouveau contact
+    es = Nuevo contacto
   [dive.buddies.add.last_team]
     tags = sb,ios,android
-    en = Same team as previous dive
-    fr = Même palanquée que la dernière fois
-    es = Mismo equipo que la última vez
+    en = Add previous team
+    fr = Dernière palanquée
+    es = Anterior equipo
   [dive.buddies.headers.team]
     tags = ios,android
     en = Team
