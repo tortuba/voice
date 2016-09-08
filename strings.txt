@@ -2592,7 +2592,7 @@
     fr = Inspiration
     es = Inspiración
   [note.menu.option.taxons]
-    tags = sios,android
+    tags = ios,android
     en = Add species
     fr = Ajouter espèce
     es = Añadir especie
