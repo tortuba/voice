@@ -1247,7 +1247,7 @@
 
 [[About]]
   [about.title]
-    tags = sb,ios,android
+    tags = ios,android
     en = About
     fr = À propos
     es = Acerca de
@@ -1357,97 +1357,97 @@
     fr = Politique de confidentialité
     es = Política de confidencialidad
   [about.why.1.quote]
-    tags = sb,ios,android
+    tags = ios,android
     en = “When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself."\n\nJacques Yves Cousteau
     fr = "Lorsqu'un homme, pour une quelconque raison, a l'opportunité de vivre une vie extraordinaire, il n'a pas le droit de la garder pour lui seul."\n\nJacques Yves Cousteau
     es = "Cuando un hombre, por la razón que sea, tiene la oportunidad de tener una vida extraordinaria, no tiene derecho a guardarla para sí mismo."\n\nJacques Yves Cousteau
   [about.why.1.text]
-    tags = sb,ios,android
+    tags = ios,android
     en = We consider that all people who look underwater have an extraordinary life, for many don't have the opportunity or don't think they should bother.\n\nYou snorkelers and divers can make a difference by sharing what you see and talking about it with passion.\n\nWe want to help you do that.
     fr = Nous considérons que tous ceux qui regardent sous l'eau ont une vie extraordinaire, car beaucoup n'ont pas cette opportunité ou n'en voient pas l'intérêt.\n\nVous nageurs et plongeurs pouvez faire une différence en partageant ce que vous voyez et en en parlant avec passion.\n\nNous voulons vous aider à cela.
     es = Consideramos que todas las personas que miran bajo el agua tienen una vida extraordinaria, para muchos no tienen la oportunidad o no le ven el interés.\n\nUstedes nadadores y buzos pueden hacer la diferencia al compartir lo que ven y hablando de ello con pasión.\n\nQueremos ayudarle a hacer eso.
   [about.why.2.quote]
-    tags = sb,ios,android
+    tags = ios,android
     en = "All it takes for evil to triumph is for good men to do nothing"\n\nEdmund Burke
     fr = "Il suffit pour que le mal triomphe que les hommes de bien ne fassent rien"\n\nEdmund Burke
     es = "Para que el mal triunfe, basta con que los hombres buenos no hagan nada"\n\nEdmund Burke
   [about.why.2.text]
-    tags = sb,ios,android
+    tags = ios,android
     en = You have as much potential to change people's behaviour toward the Ocean as the most passionate of marine biologists, and tortuba will help you in that direction by reducing your efforts and maximizing your impact.\n\nYour priviledged encounters with the underwater world during your dives represent as many opportunities to inspire people connected to you, to fill them with wonder and raise their interest for the Ocean. If they don't encounter the underwater world, then you can make the underwater world come to them, through your eyes and experiences.\n\nBe the voice of those who don't have one, be the caring advocate and the inspirational artist who will strengthen collective consciousness of marine species and help everyone to naturally act in a spirit of conservation.
     fr = Vous avez autant le potentiel pour faire évoluer la perception des océans que le biologiste marin le plus passionné, et tortuba vous y aidera en minimisant votre effort et en maximisant votre impact.\n\nVos rencontres privilégiées avec le monde sous-marin lorsque vous plongez sont autant d'occasion d'inspirer vos réseaux, de les émerveiller et de susciter leur intérêt pour l'Océan. S'ils ne vont pas à la rencontre du monde sous-marin, c'est le monde sous-marin qui viendra à eux, grâce à votre relai et à votre expérience.\n\nDevenez la voix de ceux qui n'en ont pas, soyez les avocats bienveillants et les artistes inspiratoires qui renforceront la présence des espèces marines dans la conscience collective et qui aideront chacun à agir naturellement dans un esprit de conservation.
     es = Usted tiene tanto potencial para cambiar el comportamiento de la gente hacia el océano como el más apasionado de los biólogos marinos, y tortuba le ayudará a ello reduciendo sus esfuerzos y maximizando su impacto.\n\nLos encuentros privilegiados con el mundo submarino durante sus inmersiones son tantas oportunidades para inspirar a las personas de su entorno, para llenarlos de asombro y aumentar su interés por el océano. Si no se encuentran con el mundo submarino, entonces el mundo submarino llegará a ellos, a través de sus ojos y experiencias.\n\nSea la voz de los que no tienen, vuélvase el defensor cuidadoso y el artista inspirador que fortalecerán la conciencia colectiva de las especies marinas y ayudarán a que todos actúen de forma natural en un espíritu de conservación.
   [about.why.3.quote]
-    tags = sb,ios,android
+    tags = ios,android
     en = "How inappropriate to call this planet Earth when it is quite clearly Ocean."\n\nArthur C Clarke
     fr = "Qu'il est inapproprié d'appeler cette planète Terre, alors qu'elle est clairement Océan."\n\nArthur C Clarke
     es = "Que inapropriado llamar Tierra este planeta, cuando más bien es claramente Océano."\n\nArthur C Clarke
   [about.why.3.text]
-    tags = sb,ios,android
+    tags = ios,android
     en = The oceans cover 70% of our planet and host 50 to 80% of life on Earth, and yet only 1% of their surface is protected - while 12% of terrestrial surfaces are. We spend our time on Earth and easily forget that we are strongly dependent on healthy oceans.\n\nWe can't care about what we don't even know exists; and we can't care about something we know nothing of.\n\nThat's why tortuba strives to facilitate respectful encounters with marine species, to help divers reveal the best in those species, to increase understanding of ecosystems, and to highlight and share stories of their adventures.\n\nThis way, by strengthening their link to the Ocean, more people will measure the consequences of their daily acts over it and will know what to change to take part in Ocean conservation.\n\nThe Ocean can't be savaged just because it lies out of our sights.
     fr = Les océans couvrent 70% de notre planète et abriteraient 50 à 80% de la vie sur terre, pourtant seulement 1% de la surface des océans est protégée alors que 12% de la surface terrestre l'est. Nous passons notre temps à terre et oublions facilement que nous sommes fortement dépendant de la bonne santé des océans.\n\nOn ne peut pas se soucier de ce dont on ignore l'existence, et on ne peut pas prendre soin de ce que l'on ne connait pas.\n\nC'est pourquoi tortuba souhaite faciliter les rencontres respectueuses avec les espèces sous-marines, aider les plongeurs à les révéler sous leur meilleur jour, à accroitre leur connaissance et leur compréhension des écosystèmes, à valoriser et à diffuser les récits de leurs aventures.\n\nAinsi, en renforçant ce lien à l'Océan, plus de personnes mesureront les conséquences de leurs actes quotidiens sur celui-ci et sauront comment les diriger de façon à participer à sa conservation.\n\nNe laissons pas les océans se faire ravager simplement parce qu'ils ne sont pas sous nos yeux.
     es = Los océanos cubren el 70% de nuestro planeta y son el hogar del 50 al 80% de la vida en la tierra, sin embargo, sólo el 1% de la superficie del océano está protegido mientras que el 12% de la superficie terrestre lo es. Pasamos nuestro tiempo en la tierra y olvidamos fácilmente dependemos en gran medida de la salud de los océanos.\n\nUno no puede preocuparse por algo cuya existencia ignora, y no puede cuidar de lo que desconoce.\n\nEs por eso que tortuba quiere facilitar encuentros respetuosos con especies submarinas, ayudar a los buzos a revelarlas de la mejor forma, aumentar su conocimiento y comprensión de los ecosistemas, valorar y transmitir las historias de sus aventuras.\n\nAsí, fortaleciendo el vínculo con el océano, más gente medirá el impacto de sus acciones diarias sobre aquel y sabrán cómo dirigirlos con el fin de participar en su conservación.\n\nNo dejemos que los océanos se destruyen debido a que sencillamente no están bajo nuestros ojos.
   [about.species.help_us]
-    tags = sb,ios,android
+    tags = ios,android
     en = Help us improve
     fr = Aidez-nous à améliorer l'app
     es = Ayúdenos a mejorar la aplicación
   [about.species.help_us.missing_species]
-    tags = sb,ios,android
+    tags = ios,android
     en = Report missing species
     fr = Signaler une espèce manquante
     es = Señalar un especie ausente
   [about.species.help_us.missing_species_detail]
-    tags = sb,ios,android
+    tags = ios,android
     en = The species is entirely missing, what a shame!
     fr = L'espèce manque à l'appel, scandale!
     es = Falta una especie ¡que vergüenza !
   [about.species.help_us.missing_common_name]
-    tags = sb,ios,android
+    tags = ios,android
     en = Report missing common name
     fr = Signaler un nom commun manquant
     es = Señalar un nombre común ausente
   [about.species.help_us.missing_common_name_detail]
-    tags = sb,ios,android
+    tags = ios,android
     en = The scientific name is referenced, but a common name is missing
     fr = Le nom scientifique est là, mais il manque un des noms communs
     es = El nombre científico está, pero falta un nombre común
   [about.species.help_us.missing_classification]
-    tags = sb,ios,android
+    tags = ios,android
     en = Suggest classification improvement
     fr = Suggérer une amélioration de la classification
     es = Sugerir una mejora en la clasificación
   [about.species.help_us.missing_classification_detail]
-    tags = sb,ios,android
+    tags = ios,android
     en = Any suggestion that would help everyone identify species is welcome
     fr = Toute suggestion qui pourra aider chacun à mieux identifier les espèces est la bienvenue
     es = Se agradece cualquiera sugestión que ayudaría a mejor identificar especies
   [about.species.help_us.missing_copyright]
-    tags = sb,ios,android
+    tags = ios,android
     en = Report copyright infringement
     fr = Signaler une infraction au droit d'auteur
     es = Señalar una violación del derecho de autor
   [about.species.help_us.missing_copyright_detail]
-    tags = sb,ios,android
+    tags = ios,android
     en = Do you think that we did not respect copyright? Please let us know
     fr = Nous n'avons pas respecté un droit d'auteur ? Faites-nous en part s'il vous plaît
     es = ¿No hemos respetado un derecho de autor? Avísenos por favor
   [about.species.data]
-    tags = sb,ios,android
+    tags = ios,android
     en = The species database
     fr = La base de données des espèces
     es = La base de datos de las especies
   [about.species.data.text]
-    tags = sb,ios,android
+    tags = ios,android
     en = All species were selected from Encyclopedia of Life (www.eol.org), The Global Biodiversity Information Facility (www.gbif.org) and Wikipedia (www.wikipedia.org).\n\nThe current database represents less then 10% of the accounted species, but that's because a lot of them are unlikely to be encountered during recreational diving (they leave too deep, are too small to be seen, …) while others disappeared.\n\nThe photos were selected in those databases or amongst Tortuba user photos. We try to find the best looking portraits for each species and always look to improve our selection. You can vote for your preferred photos on www.tortuba.com/identify.
     fr = Toutes les espèces ont été sélectionnées parmi Encyclopedia of Life (www.eol.org), The Global Biodiversity Information Facility (www.gbif.org) et Wikipedia (www.wikipedia.org).\n\nLa base courante représente moins de 10% des espèces répertoriées, mais cela est dû entre autre au fait que beaucoup d'entre elles ont peu de chances d'être croisées en plongée récréative (elles vivent trop profond, sont trop petites pour être vues, …) tandis que certaines ont simplement disparu.\n\nLes photos ont été sélectionnées dans ces bases et parmi les photos des utilisateurs Tortuba. Nous essayons de trouver les plus beaux portraits pour chaque espèce et cherchons toujours à améliorer notre sélection. Vous pouvez voter pour vos photos préférées sur www.tortuba.com/identify.
     es = Todas las especies fueron seleccionadas desde Encyclopedia of Life (www.eol.org), The Global Biodiversity Information Facility (www.gbif.org) y Wikipedia (www.wikipedia.org).\n\nLa base actual representa menos del 10 % de las especies referenciadas, pero se debe, entre otras cosas al hecho de que muchas de ellas tiene poca probabilidad de ser encontradas en el buceo recreativo (viven demasiado profundo, son demasiado pequeñas para ser vistas ...) mientras que otras simplemente han desaparecido.\n\nLas fotos fueron seleccionadas entre estas bases y las fotos de los propios  usuarios Tortuba. Intentamos encontrar los retratos más bellos para cada especie y siempre tratamos de mejorar nuestra selección. Usted puede votar por sus fotos favoritas en www.tortuba.com/identify.
   [about.species.classification]
-    tags = sb,ios,android
+    tags = ios,android
     en = Classification / Identification
     fr = Classification / Identification
     es = Clasificación / Identificación
   [about.species.classification.text]
-    tags = sb,ios,android
+    tags = ios,android
     en = The classification used in the identification tool was made with patience and care by Tortuba, and continuously improved using your feedback (see above).\n\nIt was inspired by various identification books, but we added our own twist, using our experience (and frustration) of avid identifiers.\n\nBy own twist, we mean that we sometime take some distance from scientific classification and we are not ashamed of putting ourselves in the shoes of the neophytes.\n\nBecause sometimes nature create such intriguing creatures that it's difficult to know where they belong and how to describe them, but it would be unfair to not find them just because so.\n\nWhile some regroupments may irritate the purists, we hope they will bear with us as we believe it will help everyone else identifying their fish (or whatever creature you're trying to identify) tremendously.\n\nSome families may appear in multiple places, just because it helps finding them. For instance, Wobbegongs have their own section, but they also appear as part of the Carpet Sharks family. Another example are the Guitarfishes which appear both under the Sharks and Rays families.\n\nWhat you see is just the start really, we have a many ideas to improve the identification tool. In any case, feel free to contact us. We do all this for you and want you to enjoy identify species, even from the first to the 1.000.000th time.
     fr = La classification utilisée dans l'outil d'identification a été créé avec patience et attention par Tortuba, et elle est continuellement améliorée grâce à vos retours (voir au dessus).\n\nElle est inspirée de divers livres sur l'identification, mais nous l'avons tourné à notre sauce grâce à notre expérience (et surtout frustration) en tant qu'avides identifieurs.\n\nPar "notre sauce", nous voulons dire que nous prenons parfois de la distance par rapport aux classification scientifiques et que nous n'avons pas honte de nous mettre à la place des néophytes. Parce que parfois la nature crée de si intriguantes créatures qu'il est difficile de savoir à quoi elles appartiennent et comment les décrire, mais il serait injuste de ne pas les trouver pour autant.\n\nSi certains regroupements pourront irriter les puristes, nous espérons qu'ils nous pardonneront car nous pensons que cela aidera grandement certains à identifier les poissons (et autres créatures) qu'ils auront rencontré.\n\nAinsi certaines familles peuvent apparaître à plusieurs endroits, juste parce que cela augmente les chances de les trouver. Par exemple les Wobbegongs ont leur propre sections, mais ils apparaissent aussi parmi la famille des Requins Tapis (Orectolobiformes). Les raies guitares apparaissent à la fois chez les requins et chez les raies.\n\nCe que vous voyez n'est que le début, et nous avons de nombreuses idées pour améliorer l'outil d'identification. N'hésitez pas à nous contacter. Nous faisons tout ceci pour vous et nous souhaitons que vous preniez plaisir à identifier les espèces, de la 1ère à la 1.000.000ème fois.
     es = La clasificación utilizada en la herramienta de identificación fue creada con paciencia y atención por Tortuba y se mejora continuamente a través de sus sugestiones (véase más arriba).\n\nFue inspirada en varios libros sobre identificación, pero la hemos personalizado a nuestro gusto gracias a nuestra experiencia (y sobre todo frustración) de identificadores curiosos.\n\nPor "nuestro gusto", queremos decir que a veces nos tomamos una cierta distancia con la clasificación científica y no nos avergonzamos en ponernos en el lugar de los neófitos. Porque a veces la naturaleza crea criaturas fascinantes que es difícil saber dónde pertenecen y cómo describirlas, pero sería injusto no encontrarlos tampoco.\n\nSi algunos grupos pueden irritar los puristas, esperamos que nos perdonarán porque creemos que será de gran ayuda para identificar algunos peces (y otras criaturas) que habrán encontrado.\n\nAsí, algunas familias pueden aparecer en varios lugares, simplemente porque aumenta la probabilidad de que las encuentren. Los Wobbegongs por ejemplo, tienen sus propias secciones, pero también aparecen entre la familia de los tiburones alfombra (Orectolobiformes). Las rayas guitarras aparecen en ambos tiburones y rayas.\n\nEsto es sólo el principio, y tenemos muchas ideas para mejorar la herramienta de identificación. No dude en contactarnos. Hacemos todo esto para usted y esperamos que tome placer en la identificación de especies, desde la primera hasta la millonésima vez.
@@ -1793,7 +1793,7 @@
     es = Puede añadir un nuevo sitio pulsando el botón +
 [[Site - Edit]]
   [site.name.placeholder]
-    tags = sb,ios,android
+    tags = ios,android
     en = What is this site called?
     fr = Comment s'appelle ce site ?
     es = ¿Como se llama esta sitio?
@@ -1807,17 +1807,17 @@
 
 [[Trip - Show]]
   [trip.empty.info]
-    tags = sb,ios,android
+    tags = ios,android
     en = This is a logbook, a collection of notes, photos, dives and signatures.\n\nAdd content using the icons in the toolbar below.
     fr = Ceci est un carnet, une collection de notes, photos, plongées et signatures.\n\nAjoutez du contenu grâce aux icônes ci-dessous.
     es = Esto es una libreta, una coleción de notas, fotos, inmersiones y firmas.\n\nAñade contenido gracias a los iconos a continuación.
   [trip.edit_cover]
-    tags = sb,ios,android
+    tags = ios,android
     en = Edit cover
     fr = Changer l'image
     es = Cambiar la imagen de portada.
   [trip.title_hint]
-    tags = sb,ios,android
+    tags = ios,android
     en = Give your logbook a title
     fr = Donnez un titre à votre carnet
     es = Dele un nombre a su libreta
@@ -2217,12 +2217,12 @@
 
 [[Dive - Notes]]
   [dive.parts.header]
-    tags = sb,ios,android
+    tags = ios,android
     en = Once upon a dive…
     fr = Il était une plongée…
     es = Érase una vez una inmersión…
   [dive.parts.footer]
-    tags = sb,ios,android
+    tags = ios,android
     en = The End
     fr = Fin
     es = Fin
@@ -2363,12 +2363,12 @@
     fr = Palanquée
     es = Equipo
   [dive.buddies.add.new_teammate]
-    tags = sb,ios,android
+    tags = ios,android
     en = New contact
     fr = Nouveau contact
     es = Nuevo contacto
   [dive.buddies.add.last_team]
-    tags = sb,ios,android
+    tags = ios,android
     en = Add previous team
     fr = Dernière palanquée
     es = Anterior equipo
