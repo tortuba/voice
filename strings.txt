@@ -496,16 +496,31 @@
     en = Firstname
     fr = Prénom
     es = Nombre
+  [user.firstname.placeholder]
+    tags = ios,android
+    en = His/her buddy name
+    fr = Son nom de buddy
+    es = Su nombre de un amigo
   [user.lastname]
     tags = ios,android
     en = Lastname
     fr = Nom
     es = Apellido
+  [user.lastname.placeholder]
+    tags = ios,android
+    en = His/her business name
+    fr = Son nom au travail
+    es = Su nombre en el trabajo
   [user.email]
     tags = ios,android
     en = Email
     fr = Email
     es = Correo electrónico
+  [user.email.placeholder]
+    tags = ios,android
+    en = To keep in touch
+    fr = Pour garder le contact
+    es = Para mantenerse en contacto
 
 [[Mailer]]
   [mailer.cannotSendMail.title]
@@ -2120,12 +2135,12 @@
 
 [[Dive - Air]]
   [dive.air.add_o2]
-    tags = android
+    tags = ios,android
     en = +O2
     fr = +O2
     es = +O2
   [dive.air.add_n2]
-    tags = android
+    tags = ios,android
     en = +N2
     fr = +N2
     es = +N2
@@ -2140,12 +2155,12 @@
     fr = NITROX
     es = NITROX
   [dive.air.start]
-    tags = sb,ios,android
+    tags = ios,android
     en = Start
     fr = Début
     es = Inicio
   [dive.air.end]
-    tags = sb,ios,android
+    tags = ios,android
     en = End
     fr = Fin
     es = Fin
@@ -2169,15 +2184,20 @@
 
 [[Dive - Notes - Tour]]
   [dive.parts.tour.tip_1]
-    tags = sb,ios,android
+    tags = ios,android
     en = This is were magic happens.\n\nWe will help you remember your dive, identify species and build nice stories in a blissful experience.
     fr = C'est ici que la magie opère.\n\n\nNous vous aiderons à vous remémorer votre plongée, à identifier les espèces et à construire de belles histoires sans effort.
     es = Ahora es cuando opera la magía.\n\nVamos a ayudarle a recordar su inmersión, identificar las especies y construir historias bonitas sin esfuerzo.
   [dive.parts.tour.tip_2]
-    tags = sb,ios,android
+    tags = ios,android
     en = A story is composed of multiple notes.\n\nWrite one for each "moment" you wish to remember. You can associate species and images.
     fr = Une histoire se compose de multiples notes.\n\nCréez-en une pour chaque "moment" dont vous souhaitez vous rappeler.\n\nVous pouvez associer des espèces et des images.
     es = Una historia se compone de varias notas.\n\nEscriba una para cada "momento" que desea recordar.\n\nPuede asociar especies e imágenes.
+  [dive.parts.tour.tip_3]
+    tags = ios,android
+    en = Your writing coach.\n\n\nI, William Sharkspeare, shall humbly guide and inspire you in your writings, if you desire so.\n\nTap my portrait to give me a try.
+    fr = Votre coach d'écriture.\n\n\nMoi, William Sharkspeare, vous guiderai humblement et inspirerai vos récits, si tel est votre souhait.\n\nAppuyez sur mon portrait pour m'essayer.
+    es = Su coche de la escritura.\n\n\nMe, William Sharkspeare, y humildemente a pie se inspirar a sus historias, si ese es su deseo. \n\nPresione mi retrato que me tratan .
 
 [[Dive - Coach]]
   [coach.goButton.default]
@@ -2275,6 +2295,11 @@
     en = Enjoy
     fr = Appréciez
     es = Disfrute
+  [coach.complete.message]
+    tags = ios,android
+    en = Relax and take some time to appreciate your writing, you did great!
+    fr = Détendez-vous et prenez le temps d'apprécier votre récit, vous avez assuré!
+    es = Relajarse y tomar tiempo para disfrutar de su historia, se le garantiza !
 
 [[Dive - Edit - Team]]
   [user.self]
