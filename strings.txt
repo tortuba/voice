@@ -972,36 +972,6 @@
     es = Pero estos están reservados para miembros premium. ¿Quisiera volverse uno de ellos?
 
 [[Home/Main]]
-  [menu.header.title]
-    tags = sb,ios,android
-    en = Tell your story
-    fr = Racontez votre histoire
-    es = Cuente su historia
-  [menu.option.site]
-    tags = sb,ios,android
-    en = SITE
-    fr = SITE
-    es = SITIO
-  [menu.option.dive]
-    tags = sb,ios,android
-    en = DIVE
-    fr = PLONGÉE
-    es = INMERSION
-  [menu.option.stamp]
-    tags = sb,ios,android
-    en = STAMP
-    fr = TAMPON
-    es = SELLO
-  [menu.option.note]
-    tags = sb,ios,android
-    en = NOTE
-    fr = NOTE
-    es = NOTA
-  [menu.option.photo]
-    tags = sb,ios,android
-    en = IMAGE
-    fr = IMAGE
-    es = IMAGEN
   [menu.settings]
     tags = ios,android
     en = Settings
@@ -1680,17 +1650,17 @@
     fr = Filtre
     es = Filtro
   [taxons.filter.all]
-    tags = sb,ios,android
+    tags = ios,android
     en =  All
     fr = Toutes
     es = Todas
   [taxons.filter.with_photos]
-    tags = sb,ios,android
+    tags = ios,android
     en = With photos
     fr = Avec photos
     es = Con fotos
   [taxons.filter.display]
-    tags = android
+    tags = ios,android
     en = Display
     fr = Afficher
     es = Mostrar
