@@ -2659,6 +2659,16 @@
     en = All the photos you use in your logbooks will show up here
     fr = Toutes les photos que vous utilisez dans vos carnets apparaîtront ici
     es = Todas las fotos utilizadas en sus libretas aparecerán aquí
+  [imagePicker.camera_access.denied.title]
+    tags = ios,android
+    en = Tortuba does not have access to your camera
+    fr = Tortuba n'a pas accès à votre appareil photo
+    es = Tortuba no tiene acceso a la cámara
+  [imagePicker.camera_access.denied.message]
+    tags = ios,android
+    en = You can enable access in Privacy Settings
+    fr = Vous pouvez activer l'accès dans les paramètres de confidentialité
+    es = Puede habilitar el acceso en la configuración de privacidad
   [imagePicker.photos_access.denied.title]
     tags = ios,android
     en = Tortuba does not have access to your photos or videos
