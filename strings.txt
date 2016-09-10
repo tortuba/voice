@@ -5415,6 +5415,36 @@
     en = Your purchases will soon appear in your library and be available across the app.
     fr = Vos achats apparaîtront bientôt dans votre bibliothèque et seront disponibles au sein de l'application.
     es = Sus compras aparecerán pronto en su biblioteca y serán disponibles dentro de la aplicación.
+  [gs.downloading.title]
+    tags = ios,android
+    en = Download in progress
+    fr = Téléchargement en cours
+    es = Descarga en curso
+  [gs.downloading.message]
+    tags = ios,android
+    en = Your guide will soon be available
+    fr = Votre guide sera bientôt disponible
+    es = Su guía estará disponible en breve
+  [gs.tap.downloading.title]
+    tags = ios,android
+    en = Download in progress
+    fr = Téléchargement en cours
+    es = Descarga en curso
+  [gs.tap.downloading.message]
+    tags = ios,android
+    en = If it takes too long, let us know using the chat button
+    fr = Si cela prend trop de temps, contactez-nous à l'aide du bouton de chat
+    es = Si se tarda demasiado tiempo, en contacto con nosotros utilizando el botón de chat
+  [gs.tap.about.title]
+    tags = ios,android
+    en = Your guide is integrated!
+    fr = Votre guide est intégré!
+    es = Su guía está integrado!
+  [gs.tap.about.message]
+    tags = ios,android
+    en = Its content (sites, photos and species) is now available within the relevant features.
+    fr = Son contenu (sites, des photos et des espèces ) est maintenant disponible dans les fonctionalités pertinentes.
+    es = Sus contenidos (sitios , fotos y especies) ya está disponible dentro de las funcionalidad relevantes.
 
 [[Privacy - Permissions]]
   [privacy.camera]
