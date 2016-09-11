@@ -5452,9 +5452,9 @@
     es = Su guía está integrado!
   [gs.tap.about.message]
     tags = ios,android
-    en = Its content (sites, photos and species) is now available within the relevant features.
-    fr = Son contenu (sites, des photos et des espèces ) est maintenant disponible dans les fonctionalités pertinentes.
-    es = Sus contenidos (sitios , fotos y especies) ya está disponible dentro de las funcionalidad relevantes.
+    en = Its content (sites, photos, species) is now available within the relevant features.
+    fr = Son contenu (sites, photos, espèces ) est maintenant disponible dans les fonctionalités pertinentes.
+    es = Sus contenidos (sitios, fotos, especies) ya está disponible dentro de las funcionalidad relevantes.
 
 [[Privacy - Permissions]]
   [privacy.camera]
