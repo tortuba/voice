@@ -5443,7 +5443,7 @@
   [gs.tap.downloading_images.message]
     tags = ios,android
     en = All images have not been downloaded yet, but sites & species are ready
-    fr = Toutes les images ont pas encore été téléchargé, mais les sites et espèces sont prêts
+    fr = Toutes les images n'ont pas encore été téléchargées, mais les sites et espèces sont prêts
     es = Todas las imágenes no se han descargado aún, pero sitios y especies están listos
   [gs.tap.about.title]
     tags = ios,android
