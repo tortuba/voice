@@ -498,7 +498,7 @@
     es = Nombre
   [user.firstname.placeholder]
     tags = ios,android
-    en = His/her buddy name
+    en = Their buddy name
     fr = Son nom de buddy
     es = Su nombre de un amigo
   [user.lastname]
@@ -508,7 +508,7 @@
     es = Apellido
   [user.lastname.placeholder]
     tags = ios,android
-    en = His/her business name
+    en = Their business name
     fr = Son nom au travail
     es = Su nombre en el trabajo
   [user.email]
