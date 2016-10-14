@@ -5295,6 +5295,21 @@
     en = Photos for your logbooks
     fr = Photos pour vos carnets
     es = Fotos para sus libretas
+  [gs.show.sections.brought_by.header]
+    tags = ios,android
+    en = Brought to you by
+    fr = Proposé par
+    es = Traído a usted por
+  [gs.show.sections.author.about]
+    tags = ios,android
+    en = About
+    fr = À propos
+    es = Acerca de
+  [gs.show.sections.author.contact]
+    tags = ios,android
+    en = Get in touch!
+    fr = Gardez le contact!
+    es = ¡Estar en contacto!
   [gs.register_suggest.title]
     tags = android
     en = Smart tip
