@@ -587,7 +587,7 @@
     es = Decidir mas tarde
   [pushNot.ask.title]
     tags = ios
-    en = Keep the flow going!
+    en = Stay in touch!
     fr = Restez au courant!
     es = ¡Mantengase al dia!
   [pushNot.ask.message]
@@ -5308,7 +5308,7 @@
   [gs.show.sections.author.contact]
     tags = ios,android
     en = Get in touch!
-    fr = Gardez le contact!
+    fr = Prenez contact!
     es = ¡Estar en contacto!
   [gs.register_suggest.title]
     tags = android
