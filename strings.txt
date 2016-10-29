@@ -5220,6 +5220,11 @@
     en = Browse Guide Store
     fr = Parcourir le Guide Store
     es = Navegar en el Guide Store
+  [gs.index.loading.title]
+    tags = ios,android
+    en = Let me gather my collection.\nIt is worth the wait
+    fr = Laissez-moi rassembler la collection.\nCela vaut le coup de patienter
+    es = Permítanme que recojo mi colección.\nEs la pena la espera
   [gs.index.filters.name]
     tags = ios,android
     en = Name
@@ -5240,6 +5245,16 @@
     en = Created by professionals for your logbooks
     fr = Créés par des professionels pour vos carnets
     es = Creados por profesionales para sus libretas
+  [gs.index.header.title_alt]
+    tags = ios,android
+    en = Supercharge your logbooks with those amazing collections of photos, sites and species
+    fr = Boostez vos carnets avec ces superbes colletions de photos, sites et espèces
+    es = Impulsar el potencial de sus libretas de buceo con esos increíbles colecciones de fotos, lugares y especies
+  [gs.index.header.subtitle_alt]
+    tags = ios,android
+    en = You might even find your next destination!
+    fr = Vous pourriez même y trouver votre prochaine destination
+    es = Es posible incluso encontrar su próximo destino!
   [gs.index.row.author]
     tags = ios,android
     en = by %@
