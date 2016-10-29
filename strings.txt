@@ -5295,6 +5295,11 @@
     en = Photos for your logbooks
     fr = Photos pour vos carnets
     es = Fotos para sus libretas
+  [gs.show.sections.description.photos_credits]
+    tags = ios,android
+    en = Photos credits
+    fr = Crédits photos
+    es = Créditos fotos
   [gs.show.sections.brought_by.header]
     tags = ios,android
     en = Brought to you by
