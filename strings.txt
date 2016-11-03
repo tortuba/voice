@@ -3288,6 +3288,16 @@
     en = Timezone
     fr = Fuseau
     es = Zona horaria
+  [site.description]
+    tags = ios,android
+    en = About
+    fr = À propos
+    es = Acerca de
+  [site.usual_suspects]
+    tags = ios,android
+    en = What to look for
+    fr = À rechercher
+    es = Qué buscar
 
 [[Species]]
   [species.tap.tooltip]
