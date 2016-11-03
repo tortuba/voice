@@ -5208,6 +5208,11 @@
     en = Get
     fr = Obtenir
     es = Conseguir
+  [store.soon]
+    tags = ios,android
+    en = Coming soon
+    fr = À venir
+    es = Próximamente
   [store.unavailable]
     tags = ios,android
     en = Store unavailable
@@ -5232,9 +5237,9 @@
     es = Navegar en el Guide Store
   [gs.index.loading.title]
     tags = ios,android
-    en = Let me gather my guides.\nIt is worth the wait
-    fr = Laissez-moi rassembler mes guides.\nCela vaut le coup de patienter
-    es = Permítanme que recojo mi colección.\nEs la pena la espera
+    en = Let me gather my guides.\nIt is worth the wait, I promise
+    fr = Laissez-moi rassembler mes guides.\nCela vaut le coup de patienter, je vous promets
+    es = Permítanme que recojo mi colección.\nEs la pena la espera, lo prometo
   [gs.index.filters.name]
     tags = ios,android
     en = Name
