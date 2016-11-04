@@ -1815,7 +1815,7 @@
     tags = ios,android
     en = Edit cover
     fr = Changer l'image
-    es = Cambiar la imagen de portada.
+    es = Cambiar la imagen
   [trip.title_hint]
     tags = ios,android
     en = Give your logbook a title
