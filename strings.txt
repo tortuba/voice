@@ -1525,7 +1525,7 @@
     es = Sistema de unidades
   [settings.General.TaxonLanguage.hint]
     tags = ios,android
-    en = Common taxon language
+    en = Species common names
     fr = Noms communs espèces
     es = Nombres comunes de especies
   [settings.NewDive.NumberAutoIncrement.hint]
