@@ -5455,16 +5455,6 @@
     en = Loading…
     fr = Chargement…
     es = Cargando…
-  [gs.downloading.title]
-    tags = ios,android
-    en = Download in progress
-    fr = Téléchargement en cours
-    es = Descarga en curso
-  [gs.downloading.message]
-    tags = ios,android
-    en = It will soon appear in your library and be available across the app.
-    fr = Il apparaîtra bientôt dans votre bibliothèque et sera disponible au sein de l'application.
-    es = Aparecerá pronto en su biblioteca y será disponible dentro de la aplicación.
   [gs.restoring.title]
     tags = ios,android
     en = Restore in progress
@@ -5475,6 +5465,11 @@
     en = Your purchases will soon appear in your library and be available across the app.
     fr = Vos achats apparaîtront bientôt dans votre bibliothèque et seront disponibles au sein de l'application.
     es = Sus compras aparecerán pronto en su biblioteca y serán disponibles dentro de la aplicación.
+  [gs.downloading.title]
+    tags = ios,android
+    en = Download in progress
+    fr = Téléchargement en cours
+    es = Descarga en curso
   [gs.downloading.message]
     tags = ios,android
     en = Your guide will soon be available
