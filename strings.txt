@@ -1574,7 +1574,7 @@
     tags = ios,android
     en = Contacts you created
     fr = Contacts créés
-    es = Contacts creados
+    es = Contactos creados
   [buddies.users]
     tags = ios,android
     en = Tortuba users
@@ -1610,6 +1610,11 @@
     en = Stamps/Signatures
     fr = Tampons/Signatures
     es = Sellos/Firmas
+  [buddies.delete.confirm.message]
+    tags = ios,android
+    en = Do you really want to remove this contact?
+    fr = Voulez-vous vraiment supprimer ce contact ?
+    es = ¿De verdad quiere eliminar este contacto?
 
 [[Feed]]
   [feed.empty.title]
@@ -5213,6 +5218,11 @@
     en = Coming soon
     fr = À venir
     es = Próximamente
+  [store.guest_only]
+    tags = ios,android
+    en = Guest only
+    fr = Exclusivité client
+    es = Cliente exclusiva
   [store.unavailable]
     tags = ios,android
     en = Store unavailable
